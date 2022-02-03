@@ -1,4 +1,4 @@
-﻿partyId,partyName,partyDomain,isRegistered,reason
+﻿party_id,party_name,party_domain,is_registered,reason
 1,Animal Protection Party of Canada,animalprotectionparty.ca,1,
 2,Alliance of the North,,0,"involuntary deregistration, section 415(3)"
 3,Bloc Québécois,blocquebecois.org,1,

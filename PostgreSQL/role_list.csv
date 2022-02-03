@@ -1,0 +1,51 @@
+﻿role_id,role_sector,role_title
+1,1,Prime Minister
+2,1,Leader of the 3 Opposition
+3,1,Member of Parliament
+4,2,MP Candidate
+5,2,2 Leader
+6,2,President
+7,2,National Director
+8,2,National Vice-President (English)
+9,2,National Vice-President (French)
+10,2,Policy Secretary
+11,2,2 Secretary
+12,2,Past President
+13,2,Director (Newfoundland & Labrador)
+14,2,Director (Prince Edward Island)
+15,2,Director (Nova Scotia)
+16,2,Director (New Brunswick)
+17,2,Director (Québec)
+18,2,Director (Manitoba)
+19,2,Director (Saskatchewan)
+20,2,Director (Alberta)
+21,2,Director (British Columbia)
+22,2,Director (Yukon)
+23,2,Director (Northwest Territories)
+24,2,Director (Nunavut)
+25,2,Director (2 Platform)
+26,2,Director (Fundraising)
+27,2,Director (Volunteers)
+28,2,Director (Outreach)
+29,2,Director (Riding Associations)
+30,2,Director (Campaigns)
+31,2,Caucus Representative
+32,2,Leader’s Representative
+33,2,Treasurer
+34,2,Revenue Chair
+35,2,General Staffer
+36,2,Riding Association President
+37,2,Riding Association Vice-President
+38,2,Riding Association Secretary
+39,2,Riding Association Treasurer
+40,2,Riding Association Coordinator
+41,2,Riding Association Staffer
+42,2,Riding Association Volunteer
+43,3,Chief Electoral Officer of Canada
+44,3,Elections Manager
+45,3,System Administrator
+46,3,Auditor
+47,3,Riding Administrator
+48,3,Riding Manager
+49,3,Riding Staffer
+50,3,Technical Support

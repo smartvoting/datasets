@@ -1,0 +1,339 @@
+riding_id,employee_id,province_id,riding_name,office_address,email_address,phone_number,fax_number
+48001,,1,Banff-Airdrie,"620 - 1st Avenue NW, Suite 16, Airdrie, Alberta, T4B 2R3",Banff.Airdrie,403-948-5103,403-948-0879
+48002,,1,Battle River-Crowfoot,"4945 - 50th Street, Camrose, Alberta, T4V 1P9",Battle.River.Crowfoot,780-608-4600,780-608-4603
+48003,,1,Bow River,"403 - 2nd Avenue W, Suite 2, Brooks, Alberta, T1R 0S3",Bow.River,844-241-0020,403-793-6778
+48004,,1,Calgary Centre,"1414 - 8th Street S.W., Unit 445, Calgary, Alberta, T2R 1J6",Calgary.Centre,403-244-1880,403-245-3468
+48005,,1,Calgary Confederation,"2020 - 10th Street NW, Calgary, Alberta, T2M 3M2",Calgary.Confederation,403-220-0888,403-299-8024
+48006,,1,Calgary Forest Lawn,"525 - 28th Street SE, Suite 225, Calgary, Alberta, T2A 6W9",Calgary.Forest.Lawn,403-207-3030,403-207-3035
+48007,,1,Calgary Heritage,"1010 - 10201 Southport Rd SW, Calgary, Alberta, T2W 4X9",Calgary.Heritage,403-253-7990,403-253-8203
+48008,,1,Calgary Midnapore,"279 Midpark Way SE, Suite 204, Calgary, Alberta, T2X 1M2",Calgary.Midnapore,403-225-3480,403-225-3504
+48009,,1,Calgary Nose Hill,"70 Country Hills Landing NW, Suite 115, Calgary, Alberta, T3K 2L2",Calgary.Nose.Hill,403-216-7777,403-230-4368
+48010,,1,Calgary Rocky Ridge,"400 Crowfoot Crescent, Suite 202, Calgary, Alberta, T3G 5H6",Calgary.Rocky.Ridge,403-282-7980,403-282-3587
+48011,,1,Calgary Shepard,"12221-44 Street SE, Unit 40A, Calgary, Alberta, T2Z 4H3",Calgary.Shepard,403-974-1285,
+48012,,1,Calgary Signal Hill,"8561 - 8A Avenue SW, Suite 2216, Calgary, Alberta, T3H 0V5",Calgary.Signal.Hill,403-292-6666,403-292-6670
+48013,,1,Calgary Skyview,"2635 - 37th Avenue NE, Suite 101, Calgary, Alberta, T1Y 5Z6",Calgary.Skyview,403-291-0018,403-291-9516
+48014,,1,Edmonton Centre,"202-10235 124 St NW, Edmonton, Alberta, T5N 1P9",Edmonton.Centre,780-442-1888,780-442-1891
+48015,,1,Edmonton Griesbach,"10212 - 127th Avenue NW, Suite 102, Edmonton, Alberta, T5E 0B8",Edmonton.Griesbach,780-495-3261,780-495-3261
+48016,,1,Edmonton Manning,"8119 - 160 Avenue, Suite 204A, Edmonton, Alberta, T5Z 0G3",Edmonton.Manning,780-822-1540,780-822-1544
+48017,,1,Edmonton Mill Woods,"9225 - 28th Avenue, Edmonton, Alberta, T6N 1N1",Edmonton.Mill.Woods,780-497-3524,780-497-3511
+48018,,1,Edmonton Riverbend,"596 Riverbend Square, Suite 204, Edmonton, Alberta, T6R 2E3",Edmonton.Riverbend,780-495-4351,780-495-4485
+48019,,1,Edmonton Strathcona,"10045 - 81st Avenue, Edmonton, Alberta, T6E 1W7",Edmonton.Strathcona,780-495-8404,780-495-8403
+48020,,1,Edmonton West,"10471 - 178 Street, Suite 104-105, Edmonton, Alberta, T5S 1R5",Edmonton.West,780-392-2515,780-392-2519
+48021,,1,Edmonton-Wetaskiwin,"1230 - 91 Street SW, Edmonton, Alberta, T6X 0P2",Edmonton.Wetaskiwin,780-495-2149,780-495-2147
+48022,,1,Foothills,"109 - 4th Avenue South West, High River, Alberta, T1V 1M5",Foothills,403-603-3665,403-603-3669
+48023,,1,Fort McMurray-Cold Lake,"105-10110 Fraser Ave, Fort McMurray, Alberta, T9H 5C2",Fort.McMurray.Cold.Lake,780-743-2201,
+48024,,1,Grande Prairie-Mackenzie,"10625 West Side Drive, Suite 201, Grande Prairie, Alberta, T8V 8E6",Grande.Prairie.Mackenzie,780-538-1677,780-538-9257
+48025,,1,Lakeland,"5009 - 50 Street, Two Hills, Alberta, T0B 4K0",Lakeland,780-657-7075,780-657-7079
+48026,,1,Lethbridge,"255 - 8th Street South, Lethbridge, Alberta, T1J 4Y1",Lethbridge,403-320-0070,403-380-4026
+48027,,1,Medicine Hat-Cardston-Warner,"2810 - 13th Avenue SE, Suite 306, Medicine Hat, Alberta, T1A 3P9",Medicine.Hat.Cardston.Warner,844-781-9061,403-528-4365
+48028,,1,Peace River-Westlock,"5124 - 50th Street, Box 4458, Barrhead, Alberta, T7N 1A3",Peace.River.Westlock,800-667-8450,780-305-0343
+48029,,1,Red Deer-Mountain View,"4315 - 55th Avenue, Red Deer, Alberta, T4N 4N7",Red.Deer.Mountain.View,403-347-7426,403-347-7423
+48030,,1,Red Deer-Lacombe,"5025 Parkwood Road, PO Box 59, Suite 201, Blackfalds, Alberta, T0M 0J0",Red.Deer.Lacombe,587-621-0020,587-621-0029
+48031,,1,St. Albert-Edmonton,"20 Perron Street, Suite 220, St Albert, Alberta, T8N 1E4",St.Albert.Edmonton,780-459-0809,780-460-1246
+48032,,1,Sherwood Park-Fort Saskatchewan,"2018 Sherwood Drive, Suite 214, Sherwood Park, Alberta, T8A 5V3",Sherwood.Park.Fort.Saskatchewan,780-467-4944,780-449-1471
+48033,,1,Sturgeon River-Parkland,"4807 - 44 Avenue, Suite 102, Stony Plain, Alberta, T7Z 1V5",Sturgeon.River.Parkland,780-823-2050,780-823-2055
+48034,,1,Yellowhead,"119 - 50th Street, Edson, Alberta, T7E 1V9",Yellowhead,780-723-6068,780-723-5060
+59001,,2,Abbotsford,"2825 Clearbrook Road, Suite 205, Abbotsford, British Columbia, V2T 6S3",Abbotsford,604-557-7888,604-557-9918
+59002,,2,Burnaby North-Seymour,"3906 Hastings Street, Burnaby, British Columbia, V5C 6C1",Burnaby.North.Seymour,604-718-8870,604-718-8874
+59003,,2,Burnaby South,"4940 Kingsway, Burnaby, British Columbia, V5H 2E2",Burnaby.South,604-291-8863,604-666-0727
+59004,,2,Cariboo-Prince George,"1520 - 3rd Avenue, Prince George, British Columbia, V2L 3G4",Cariboo.Prince.George,250-564-7771,250-564-6224
+59005,,2,Central Okanagan-Similkameen-Nicola,"2562B Main Street, West Kelowna, British Columbia, V4T 2N5",Central.Okanagan.Similkameen.Nicola,800-665-8711,250-707-2153
+59006,,2,Chilliwack-Hope,"7388 Vedder Road, Suite 102, Chilliwack, British Columbia, V2R 4E4",Chilliwack.Hope,604-847-9711,604-847-9744
+59007,,2,Cloverdale-Langley City,"214-6820 188 St, Surrey, British Columbia, V4N 3G6",Cloverdale.Langley.City,604-575-6595,604-575-6599
+59008,,2,Coquitlam-Port Coquitlam,"3278 Westwood Street, Suite 101, Port Coquitlam, British Columbia, V3C 3L8",Coquitlam.Port.Coquitlam,604-927-1080,604-927-1084
+59009,,2,Courtenay-Alberni,"1209 East Island, Suite 12, Parksville, British Columbia, V9P 1R5",Courtenay.Alberni,250-947-2140,250-947-2144
+59010,,2,Cowichan-Malahat-Langford,"126 Ingram Street, Suite 101, Duncan, British Columbia, V9L 1P1",Cowichan.Malahat.Langford,250-746-4896,250-746-2354
+59011,,2,Delta,"5064 - 48th Avenue, Delta, British Columbia, V4K 1V8",Delta,778-593-4007,778-593-4008
+59012,,2,Fleetwood-Port Kells,"16088 - 84th Avenue, Suite 301, Surrey, British Columbia, V4N 0V9",Fleetwood.Port.Kells,604-501-5900,604-501-5901
+59013,,2,Kamloops-Thompson-Cariboo,"275 Seymour Street, Suite 6, Kamloops, British Columbia, V2C 2E7",Kamloops.Thompson.Cariboo,250-851-4991,250-851-4994
+59014,,2,Kelowna-Lake Country,"1420 St. Paul Street, Suite 102, Kelowna, British Columbia ,V1Y 2E6",Kelowna.Lake.Country,250-470-5075,250-470-5077
+59015,,2,Kootenay-Columbia,"C-415 Industrial Road A, Cranbrook, British Columbia, V1C 4X8",Kootenay.Columbia,250-417-2250,250-417-2253
+59016,,2,Langley-Aldergrove,"4769 - 222nd Street, Suite 104, Langley, British Columbia, V2Z 3C1",Langley.Aldergrove,604-534-5955,604-534-5970
+59017,,2,Mission-Matsqui-Fraser Canyon,"32650 Logan Avenue, Suite 7, Mission, British Columbia, V2V 6C7",Mission.Matsqui.Fraser.Canyon,604-814-5710,604-814-5714
+59018,,2,Nanaimo-Ladysmith,"495 Dunsmuir Street, Suite 103, Nanaimo, British Columbia, V9R 6B9",Nanaimo.Ladysmith,250-734-6400,250-734-6404
+59019,,2,New Westminster-Burnaby,"888 Carnarvon Street, Suite 110, New Westminster, British Columbia, V3M 0C6",New.Westminster.Burnaby,604-775-5707,604-775-5743
+59020,,2,North Okanagan-Shuswap,"3105 - 29th Street, Vernon, British Columbia, V1T 5A8",North.Okanagan.Shuswap,250-260-5020,250-260-5025
+59021,,2,North Vancouver,"310 Esplanade E, Suite 201, North Vancouver, British Columbia, V7L 1A4",North.Vancouver,604-775-6333,604-775-6332
+59022,,2,Pitt Meadows-Maple Ridge,"22369 Lougheed Hwy, Maple Ridge, British Columbia, V2X 2T3",Pitt.Meadows.Maple.Ridge,604-466-2761,604-466-7593
+59023,,2,Port Moody-Coquitlam,"1116 Austin Avenue, Coquitlam, British Columbia, V3K 3P5",Port.Moody.Coquitlam,604-664-9229,604-664-9231
+59024,,2,Prince George-Peace River-Northern Rockies,"9916 - 100th Avenue, Fort St. John, British Columbia, V1J 1Y5",Prince.George.Peace.River.Northern.Rockies,250-787-1192,250-787-1195
+59025,,2,Richmond Centre,,Richmond.Centre,,
+59026,,2,Esquimalt-Saanich-Sooke,"2-50 Burnside Road West, Victoria, British Columbia, V9A 1B5",Esquimalt.Saanich.Sooke,250-405-6550,250-405-6554
+59027,,2,Saanich-Gulf Islands,"9711 Fourth Street, Suite 1, Sidney, British Columbia, V8L 2Y8",Saanich.Gulf.Islands,250-657-2000,250-657-2004
+59028,,2,Skeena-Bulkley Valley,"4716 Lazelle Avenue, Suite 112, Terrace, British Columbia, V8G 1T2",Skeena.Bulkley.Valley,250-615-5339,250-615-5344
+59029,,2,South Okanagan-West Kootenay,"301 Main Street, Suite 202, Penticton, British Columbia, V2A 5B7",South.Okanagan.West.Kootenay,250-770-4480,
+59030,,2,South Surrey-White Rock,"1959 152 Street, Suite 135, Surrey, British Columbia, V4A 9E3",South.Surrey.White.Rock,604-542-9495,604-542-9496
+59031,,2,Steveston-Richmond East,,Steveston.Richmond.East,604-257-2900,604-257-2904
+59032,,2,Surrey Centre,"10362 King George Blvd, Suite 170, Surrey, British Columbia, V3T 2W5",Surrey.Centre,604-589-2441,604-589-2445
+59033,,2,Surrey-Newton,"12992 - 76th Avenue, Unit 202, Surrey, British Columbia, V3W 2V6",Surrey.Newton,604-598-2200,604-598-2212
+59034,,2,Vancouver Centre,"1030 Denman Street, Suite 112, Vancouver, British Columbia, V6G 2M6",Vancouver.Centre,604-666-0135,604-666-0114
+59035,,2,Vancouver East,"2572 East Hastings Street, Vancouver, British Columbia, V5K 1Z3",Vancouver.East,604-775-5800,604-775-5811
+59036,,2,Vancouver Granville,"100-3077 Granville St, Vancouver, British Columbia, V6H 3J9",Vancouver.Granville,604-717-1140,604-717-1144
+59037,,2,North Island-Powell River,"427 10th Avenue, Campbell River, British Columbia, V9W 4E4",North.Island.Powell.River,250-287-9388,250-287-9361
+59038,,2,Vancouver Kingsway,"2951 Kingsway, Vancouver, British Columbia, V5R 5J4",Vancouver.Kingsway,604-775-6263,604-775-6284
+59039,,2,Vancouver Quadra,"2112, West Broadway, Suite 206, Vancouver, British Columbia, V6K 2C8",Vancouver.Quadra,604-664-9220,604-664-9221
+59040,,2,Vancouver South,"6406 Victoria Drive, Vancouver, British Columbia, V5P 3X7",Vancouver.South,604-775-5323,604-775-5420
+59041,,2,Victoria,"1057 Fort Street, Victoria, British Columbia, V8V 3K5",Victoria,250-363-3600,250-363-8422
+59042,,2,West Vancouver-Sunshine Coast-Sea to Sky Country,"6367 Bruce Street, West Vancouver, British Columbia, V7W 2G5",West.Vancouver.Sunshine.Coast.Sea.to.Sky.Country,604-913-2660,604-913-2664
+46001,,3,Brandon-Souris,"658 10th Street, Unit B, Brandon, Manitoba, R7A 4G5",Brandon.Souris,204-726-7600,204-726-7699
+46002,,3,Charleswood-St. James-Assiniboia-Headingley,"3092 Portage Avenue, Unit D, Winnipeg, Manitoba, R3K 0Y2",Charleswood.St.James.Assiniboia.Headingley,204-984-6432,204-984-6451
+46003,,3,Churchill-Keewatinook Aski,"83 Churchill Drive, Suite 305, Thompson, Manitoba, R8N 0L6",Churchill.Keewatinook.Aski,204-677-1333,204-677-1339
+46004,,3,Dauphin-Swan River-Neepawa,"1450 Main Street South, Unit 22C, Dauphin, Manitoba, R7N 3H4",Dauphin.Swan.River.Neepawa,877-405-8946,
+46005,,3,Elmwood-Transcona,"1111 Munroe Avenue, Suite 207, Winnipeg, Manitoba, R2K 3Z5",Elmwood.Transcona,204-984-2499,204-984-2502
+46006,,3,Kildonan-St. Paul,"27 Red River Boulevard West, Unit B, Winnipeg, Manitoba, R2V 4E2",Kildonan.St.Paul,204-984-6322,204-984-6415
+46007,,3,Portage-Lisgar,"886 Thornhill Street, Unit E, Morden, Manitoba, R6M 2E1",Portage.Lisgar,204-822-7440,204-822-7445
+46008,,3,Provencher,"9A-90 Brandt Street, Steinbach, Manitoba, R5G 0T3",Provencher,204-326-9889,204-346-9874
+46009,,3,Saint Boniface-Saint Vital,"213 St.Mary's Road, Suite 4, Winnipeg, Manitoba, R2H 1J2",Saint.Boniface.Saint.Vital,204-983-3183,204-983-4274
+46010,,3,Selkirk-Interlake-Eastman,"228 Manitoba Avenue, Selkirk, Manitoba, R1A 0Y5",Selkirk.Interlake.Eastman,204-785-6151,204-785-6153
+46011,,3,Winnipeg Centre,"892 Sargent Avenue, Winnipeg, Manitoba, R3E 0C7",Winnipeg.Centre,204-984-1675,204-984-1676
+46012,,3,Winnipeg North,"98 Mandalay Drive, Winnipeg, Manitoba, R2P 1V8",Winnipeg.North,204-984-1767,204-984-1766
+46013,,3,Winnipeg South,"2800 Pembina Highway, Suite 103, Winnipeg, Manitoba, R3T 5P3",Winnipeg.South,204-984-6787,204-984-6792
+46014,,3,Winnipeg South Centre,"611 Corydon Avenue, Suite 102, Winnipeg, Manitoba, R3L 0P3",Winnipeg.South.Centre,204-983-1355,204-984-3979
+13001,,4,Acadie-Bathurst,"220 St-Pierre Blvd West, Suite 314, Caraquet, New Brunswick, E1W 1A5",Acadie.Bathurst,800-992-5699,800-992-5699
+13002,,4,Beauséjour,"328 Main Street, Suite I, Shediac, New Brunswick, E4P 2E3",Beausejour,506-533-5700,506-533-5888
+13003,,4,Fredericton,"154 Main Street, Unit 1001, Fredericton, New Brunswick, E3A 1C8",Fredericton,506-452-4110,506-452-4076
+13004,,4,Fundy Royal,"599 Main Street, Suite 104, Hampton, New Brunswick, E5N 6C2",Fundy.Royal,506-832-4200,506-832-4235
+13005,,4,Madawaska-Restigouche,"374 Adelaide Street, Dalhousie, New Brunswick, E8C 1A5",Madawaska.Restigouche,506-684-6267,506-789-4595
+13006,,4,Miramichi-Grand Lake,"A-2278 King George Hwy, Miramichi, New Brunswick, E1V 6N6",Miramichi.Grand.Lake,506-778-8448,506-778-8150
+13007,,4,Moncton-Riverview-Dieppe,"272 St-George Street, Suite 110, Moncton, New Brunswick, E1C 1W6",Moncton.Riverview.Dieppe,506-851-3310,506-851-3273
+13008,,4,New Brunswick Southwest,"69 Milltown Blvd, St. Stephen, New Brunswick, E3L 1G5",New.Brunswick.Southwest,888-350-4734,506-466-2813
+13009,,4,Saint John-Rothesay,"1 Market Square, Suite N306, Saint John, New Brunswick, E2L 4Z6",Saint.John.Rothesay,506-657-2500,506-657-2504
+13010,,4,Tobique-Mactaquac,"157 Otis Drive, Nackawic, New Brunswick, E6G 1G9",Tobique.Mactaquac,800-671-6160,506-575-6218
+10001,,5,Avalon,"120 Conception Bay Highway, Suite 105, Conception Bay South, Newfoundland and Labrador, A1W 3A6",Avalon,709-834-3424,709-834-3628
+10002,,5,Bonavista-Burin-Trinity,"76 Manitoba Drive, Suite B, Clarenville, Newfoundland and Labrador, A5A 1K6",Bonavista.Burin.Trinity,709-466-6502,709-466-6506
+10003,,5,Coast of Bays-Central-Notre Dame,"70B Hardy Avenue, P.O. Box 808, Grand Falls-Windsor, Newfoundland and Labrador, A2A 2S8",Coast.of.Bays.Central.Notre.Dame,709-489-8470,709-489-8478
+10004,,5,Labrador,"217 Hamilton River Road, PO Box 119 Station B, Happy Valley-Goose Bay, Newfoundland and Labrador, A0P 1E0",Labrador,709-896-2483,709-896-9425
+10005,,5,Long Range Mountains,"49-51 Park Street, Corner Brook, Newfoundland and Labrador, A2H 2X1",Long.Range.Mountains,709-637-4540,709-637-4537
+10006,,5,St. John's East,"120 Torbay Road, Suite E130, St. John's, Newfoundland and Labrador, A1A 2G8",St.Johns.East,709-772-7171,709-772-7175
+10007,,5,St. John's South-Mount Pearl,"689 Topsail Road, 2nd Floor, St. John's, Newfoundland and Labrador, A1E 2E3",St.Johns.South.Mount.Pearl,709-772-4608,709-772-4776
+61001,,6,Northwest Territories,"5109 - 48th Street, Suite 114, Yellowknife, Northwest Territories, X1A 1N5",Northwest.Territories,867-873-6995,867-920-4233
+12001,,7,Cape Breton-Canso,"78 Commercial Street, Dominion, Nova Scotia, B1G 1B4",Cape.Breton.Canso,902-842-9763,
+12002,,7,Central Nova,"2A - 115 MacLean Street, New Glasgow, Nova Scotia, B2H 4M5",Central.Nova,844-641-5886,902-752-0284
+12003,,7,Cumberland-Colchester,"40 Inglis Place, Truro, Nova Scotia, B2N 4B4",Cumberland.Colchester,902-895-2863,902-895-9544
+12004,,7,Dartmouth-Cole Harbour,"82 Tacoma Drive, Suite 200, Dartmouth, Nova Scotia, B2W 3E5",Dartmouth.Cole.Harbour,902-462-6453,902-462-6493
+12005,,7,Halifax,"1888 Brunswick Street, Suite 808, Halifax, Nova Scotia, B3J 3J8",Halifax,902-426-8691,902-426-8693
+12006,,7,Halifax West,"401-3845 Joseph Howe Dr, Halifax, Nova Scotia, B3L 4H9",Halifax.West,902-426-2217,902-426-8339
+12007,,7,Kings-Hants,"24 Harbourside Drive, Unit 101, Wolfville, Nova Scotia, B4P 2C1",Kings.Hants,902-542-4010,902-542-4184
+12008,,7,Sackville-Preston-Chezzetcook,"2900 Highway 2, Suite 2nd Floor, Fall River, Nova Scotia, B2T 1W4",Sackville.Preston.Chezzetcook,902-861-2311,902-861-4620
+12009,,7,South Shore-St. Margarets,"129 Aberdeen Road, Suite 106, Bridgewater, Nova Scotia, B4V 2S7",South.Shore.St.Margarets,902-527-5655,902-527-5656
+12010,,7,Sydney-Victoria,"201 Churchill Drive, Unit 207-A, Membertou First Nation (Sydney), Nova Scotia, B1S 2N9",Sydney.Victoria,902-567-6275,902-564-2479
+12011,,7,West Nova,"368 Main Street, Suite 223, Yarmouth, Nova Scotia, B5A 1E9",West.Nova,902-742-6808,
+62001,,8,Nunavut,"691B Palaugaa Lane, Iqaluit, Nunavut, X0A 0H0",Nunavut,866-267-7701,
+35001,,9,Ajax,"100 Old Kingston Road, Suite 1, Ajax, Ontario, L1T 2Z9",Ajax,905-426-6808,905-426-9564
+35002,,9,Algoma-Manitoulin-Kapuskasing,"289-A Hillside Drive South, Elliot Lake, Ontario, P5A 1N7",Algoma.Manitoulin.Kapuskasing,705-848-8080,705-848-1818
+35003,,9,Aurora-Oak Ridges-Richmond Hill,"12820 Yonge Street, Suite 202, Richmond Hill, Ontario, L4E 4H1",Aurora.Oak.Ridges.Richmond.Hill,905-773-8358,905-773-8374
+35004,,9,Barrie-Innisfil,"480 Huronia Road, Suite 204-B, Barrie, Ontario, L4N 6M2",Barrie.Innisfil,705-726-5959,705-726-3340
+35005,,9,Barrie-Springwater-Oro-Medonte,"48 Alliance Blvd, Suite 104, Barrie, Ontario, L4M 5K3",Barrie.Springwater.Oro.Medonte,705-728-2596,705-728-9465
+35006,,9,Bay of Quinte,"250 Sidney Street, Belleville, Ontario, K8P 3Z3",Bay.of.Quinte,613-969-3300,613-969-3313
+35007,,9,Beaches-East York,"1902 Danforth Avenue, Toronto, Ontario, M4C 1J4",Beaches.East.York,416-467-0860,416-467-0905
+35008,,9,Brampton Centre,"225A-350 Rutherford Rd S, Brampton, Ontario, L6W 4N6",Brampton.Centre,905-790-9211,905-790-9507
+35009,,9,Brampton East,"1 Gateway Blvd, Suite 204, Brampton, Ontario, L6T 0G3",Brampton.East,905-458-1474,905-458-8615
+35010,,9,Brampton North,"50 Sunny Meadow Blvd, Suite 306 - 307, Brampton, Ontario, L6R 0Y7",Brampton.North,905-840-0505,905-840-1778
+35011,,9,Brampton South,"Riverview Commons - 5 Montpelier Street, Unit A-213/A-214, Brampton, Ontario, L6Y 6H4",Brampton.South,905-846-0076,905-846-3901
+35012,,9,Brampton West,"35 Van Kirk Drive, Suite 10/10A, Brampton, Ontario, L7A 1A5",Brampton.West,905-454-4758,905-454-3192
+35013,,9,Brantford-Brant,"108 St. George Street, Suite 3, Brantford, Ontario, N3R 1V6",Brantford.Brant,519-754-4300,519-751-8177
+35014,,9,Bruce-Grey-Owen Sound,"1101 - 2nd Avenue East, Suite 208, Owen Sound, Ontario, N4K 2J1",Bruce.Grey.Owen.Sound,519-371-1059,519-371-1752
+35015,,9,Burlington,"777 Guelph Line, Suite 209, Burlington, Ontario, L7R 3N2",Burlington,905-639-5757,905-639-6031
+35016,,9,Cambridge,"534 Hespeler Road, Suite A4, Cambridge, Ontario, N1R 6J7",Cambridge,519-624-7440,519-624-3517
+35017,,9,Chatham-Kent-Leamington,"75 Erie Street South, Unit 100, Leamington, Ontario, N8H 3B2",Chatham.Kent.Leamington,519-326-9655,519-326-2042
+35018,,9,Davenport,"1202 Bloor Street West, Toronto, Ontario, M6H 1N2",Davenport,416-654-8048,416-654-5083
+35019,,9,Don Valley East,"300-1200 Lawrence Ave E, North York, Ontario, M3A 1C1",Don.Valley.East,416-443-0343,416-443-1393
+35020,,9,Don Valley North,"250 Consumers Road, Suite 1000, Toronto, Ontario, M2J 4R4",Don.Valley.North,416-443-0623,416-443-9819
+35021,,9,Don Valley West,"1670 Bayview Avenue, Suite 310, Toronto, Ontario, M4G 3C2",Don.Valley.West,416-467-7275,416-467-8550
+35022,,9,Dufferin-Caledon,"229 Broadway, Unit #2, Orangeville, Ontario, L9W 1K4",Dufferin.Caledon,519-941-1832,519-941-8660
+35023,,9,Durham,"54 King Street East, Suite 103, Bowmanville, Ontario, L1C 1N3",Durham,905-697-1699,905-697-1678
+35024,,9,Eglinton-Lawrence,"511 Lawrence Avenue West, Toronto, Ontario, M6A 1A3",Eglinton.Lawrence,416-781-5583,416-781-5586
+35025,,9,Elgin-Middlesex-London,"750 Talbot Street, Suite 215, St. Thomas, Ontario, N5P 1E2",Elgin.Middlesex.London,519-637-2255,519-637-3358
+35026,,9,Essex,"35 Victoria Avenue, Unit 7B, Essex, Ontario, N8M 1M4",Essex,519-776-4700,519-776-1383
+35027,,9,Etobicoke Centre,"577 Burnhamthorpe Road, Suite 2, Etobicoke, Ontario, M9C 2Y3",Etobicoke.Centre,416-249-7322,416-249-6117
+35028,,9,Etobicoke-Lakeshore,"1092 Islington Avenue, Suite 202, Toronto, Ontario, M8Z 4R9",Etobicoke.Lakeshore,416-251-5510,416-251-2845
+35029,,9,Etobicoke North,"815 Albion Rd, Etobicoke, Ontario, M9V 1A3",Etobicoke.North,416-747-6003,416-747-8295
+35030,,9,Flamborough-Glanbrook,"81 Hwy 5 W, Waterdown, Ontario, L9H 7L6",Flamborough.Glanbrook,905-648-3850,905-648-3898
+35031,,9,Glengarry-Prescott-Russell,"1468 Laurier Street, Suite 201, Rockland, Ontario, K4K 1C8",Glengarry.Prescott.Russell,613-446-6310,613-446-5666
+35032,,9,Guelph,"103-111 Farquhar Street, Guelph, Ontario, N1H 3N4",Guelph,519-837-8276,519-837-8443
+35033,,9,Haldimand-Norfolk,"210-185 Robinson St, Simcoe, Ontario, N3Y 5L6",Haldimand.Norfolk,866-496-3400,519-426-0003
+35034,,9,Haliburton-Kawartha Lakes-Brock,"68 McLaughlin Road, Lindsay, Ontario, K9V 6B5",Haliburton.Kawartha.Lakes.Brock,705-324-2400,705-324-0880
+35035,,9,Hamilton Centre,"630 Main Street East, Suite 1, Hamilton, Ontario, L8M 1J7",Hamilton.Centre,905-526-0770,905-526-9943
+35036,,9,Hamilton East-Stoney Creek,"42 King Street East, Unit 2, Stoney Creek, Ontario, L8G 1K1",Hamilton.East.Stoney.Creek,905-662-4763,905-662-2285
+35037,,9,Hamilton Mountain,"1A-1394 Upper Gage Ave, Hamilton, Ontario, L8W 1E7",Hamilton.Mountain,905-574-3331,905-574-4980
+35038,,9,Hamilton West-Ancaster-Dundas,"1686 Main Street West, Unit 4, Hamilton, Ontario, L8S 0A2",Hamilton.West.Ancaster.Dundas,905-529-5435,905-529-4123
+35039,,9,Hastings-Lennox and Addington,"4 Dundas Street West, Napanee, Ontario, K7R 1Z4",Hastings.Lennox.and.Addington,866-471-3800,613-969-8835
+35040,,9,Huron-Bruce,"30 Victoria Street North, Goderich, Ontario, N7A 2R6",Huron.Bruce,519-524-6560,519-612-1141
+35041,,9,Kanata-Carleton,"555 Legget Drive, Suite 121, Kanata, Ontario, K2K 2X3",Kanata.Carleton,613-592-3469,613-592-4756
+35042,,9,Kenora,"308 Second Street South, Unit 19, Kenora, Ontario, P9N 1G4",Kenora,807-468-2170,807-468-4896
+35043,,9,King-Vaughan,"115-9401 Jane St, Vaughan, Ontario, L6A 4H7",King.Vaughan,905-303-5000,905-303-5002
+35044,,9,Kingston and the Islands,"841 Princess Street, Kingston, Ontario, K7L 1G7",Kingston.and.the.Islands,613-542-3243,613-542-5461
+35045,,9,Kitchener Centre,"303-305 King St W, Kitchener, Ontario, N2G 1B9",Kitchener.Centre,519-741-2001,519-579-2404
+35046,,9,Kitchener-Conestoga,"1187 Fischer-Hallman Road, Unit 624, Kitchener, Ontario, N2E 4H9",Kitchener.Conestoga,519-578-3777,519-578-0138
+35047,,9,Kitchener South-Hespeler,,Kitchener.South.Hespeler,519-571-5509,519-571-5515
+35048,,9,Lambton-Kent-Middlesex,"65 Front Street West, Strathroy, Ontario, N7G 1X6",Lambton.Kent..Middlesex,519-245-6561,
+35049,,9,Lanark-Frontenac-Kingston,"224 Bridge Street, Carleton Place, Ontario, K7C 3G9",Lanark.Frontenac.Kingston,613-257-8130,613-257-4371
+35050,,9,Leeds-Grenville-Thousand Islands and Rideau Lakes,"68 William Street, Suite 205, Brockville, Ontario, K6V 4V5",Leeds.Grenville.Thousand.Islands.and.Rideau.Lakes,866-498-3096,613-498-3100
+35051,,9,London-Fanshawe,"1700 Dundas Street, Unit D, London, Ontario, N5W 3C9",London.Fanshawe,519-685-4745,519-685-1462
+35052,,9,London North Centre,"231 Hyman Street, London, Ontario, N6A 1N6",London.North.Centre,519-663-9777,519-663-2238
+35053,,9,London West,"390 Commissioners Road West, Suite 200, London, Ontario, N6J 1Y3",London.West,519-473-5955,519-473-7333
+35054,,9,Markham-Stouffville,"137 Main Street North, Suite 204, Markham, Ontario, L3P 1Y2",Markham.Stouffville,905-471-8963,905-471-7653
+35055,,9,Markham-Thornhill,"16 Esna Park Drive, Unit 107, Markham, Ontario, L3R 5X1",Markham.Thornhill,905-479-8100,905-479-3440
+35056,,9,Markham-Unionville,"400A-200 Town Centre Blvd, Markham, Ontario, L3R 8G5",Markham.Unionville,905-470-2024,905-470-1366
+35057,,9,Milton,"16 Hugh Street, Milton, Ontario, L9T 2C6",Milton,905-693-0166,905-693-0704
+35058,,9,Mississauga Centre,"10 Kingsbridge Garden Circle, Suite 506, Mississauga, Ontario, L5R 3K6",Mississauga.Centre,905-848-8595,905-848-2712
+35059,,9,Mississauga East-Cooksville,"980 Burnhamthorpe Road, Suite 3, Mississauga, Ontario, L4Y 2X6",Mississauga.East.Cooksville,905-566-0009,905-566-0017
+35060,,9,Mississauga-Erin Mills,"3184 Ridgeway Drive, Unit 41, Mississauga, Ontario, L5L 5S7",Mississauga.Erin.Mills,905-820-8814,905-820-4068
+35061,,9,Mississauga-Lakeshore,"1077 North Service Road, Suite 30, Mississauga, Ontario, L4Y 1A6",Mississauga.Lakeshore,905-273-8033,905-273-5040
+35062,,9,Mississauga-Malton,"440-5975 Whittle Rd, Mississauga, Ontario, L4Z 3N1",Mississauga.Malton,905-564-0228,905-564-1147
+35063,,9,Mississauga-Streetsville,"6990 Financial Drive, Unit 8G, Mississauga, Ontario, L5N 8J4",Mississauga.Streetsville,905-812-1811,905-812-8464
+35064,,9,Nepean,"240 Kennevale Drive, Suite 201, Nepean, Ontario, K2J 6B6",Nepean,613-825-5505,613-825-2055
+35065,,9,Newmarket-Aurora,"16600 Bayview Avenue, Suite 202, Newmarket, Ontario, L3X 1Z9",Newmarket.Aurora,905-953-7515,905-953-7527
+35066,,9,Niagara Centre,"136 East Main Street, Suite 103, Welland, Ontario, L3B 3W6",Niagara.Centre,905-788-2204,905-788-0071
+35067,,9,Niagara Falls,"4056 Dorchester Road, Suite 107, Niagara Falls, Ontario, L2E 6M9",Niagara.Falls,905-353-9590,905-353-9588
+35068,,9,Niagara West,"4994 King Street, Beamsville, Ontario, L0R 1B0",Niagara.West,905-563-7900,905-563-7500
+35069,,9,Nickel Belt,"2914 Highway 69 North, Unit 5, Val Caron, Ontario, P3N 1E3",Nickel.Belt,705-897-2222,705-897-2223
+35070,,9,Nipissing-Timiskaming,"375 Main Street West, North Bay, Ontario, P1B 2T9",Nipissing.Timiskaming,705-474-3700,705-474-6964
+35071,,9,Northumberland-Peterborough South,"12 Elgin Street East, Unit No. 4, Cobourg, Ontario, K9A 0C5",Northumberland.Peterborough.South,905-372-8757,905-372-1500
+35072,,9,Oakville,"301 Robinson Street, Oakville, Ontario, L6J 1G7",Oakville,905-338-2008,905-338-5432
+35073,,9,Oakville North-Burlington,"2525 Old Bronte Road, Suite 590, Oakville, Ontario, L6M 4J2",Oakville.North.Burlington,905-847-4043,905-847-3037
+35074,,9,Oshawa,"57 Simcoe Street South, Suite 2B, Oshawa, Ontario, L1H 4G4",Oshawa,905-440-4868,905-440-4872
+35075,,9,Ottawa Centre,"404-1066 Somerset St W, Ottawa, Ontario, K1Y 4T3",Ottawa.Centre,613-946-8682,613-946-8680
+35076,,9,Orléans,"255 Centrum Blvd, 2nd Floor, Orléans, Ontario, K1E 3W3",Orleans,613-834-1800,613-590-1201
+35077,,9,Ottawa South,"1883 Bank Street, Unit A, Ottawa, Ontario, K1V 7Z9",Ottawa.South,613-990-8640,613-990-2592
+35078,,9,Ottawa-Vanier,"233 Montreal Road, Vanier, Ontario, K1L 6C7",Ottawa.Vanier,613-998-1860,613-947-7963
+35079,,9,Ottawa West-Nepean,"1315 Richmond road, Ottawa, Ontario, K2B 7Y4",Ottawa.West.Nepean,613-990-7720,613-993-6501
+35080,,9,Oxford,"208 Huron Street, Suite 4, Woodstock, Ontario, N4S 7A1",Oxford,519-421-7214,519-421-9704
+35081,,9,Parkdale-High Park,"1596 Bloor Street West, Toronto, Ontario, M6P 1A7",Parkdale.High.Park,416-769-5072,416-769-8343
+35082,,9,Parry Sound-Muskoka,"94 Hanes Road, Unit 2, Huntsville, Ontario, P1H 1M4",Parry.Sound.Muskoka,705-789-4640,
+35083,,9,Perth-Wellington,"59 Lorne Avenue East, Unit A, Stratford, Ontario, N5A 6S4",Perth.Wellington,519-273-1400,519-273-9045
+35084,,9,Peterborough-Kawartha,"417 Bethune Street, Suite 4, Peterborough, Ontario, K9H 3Z1",Peterborough.Kawartha,705-745-2108,705-741-4123
+35085,,9,Pickering-Uxbridge,"1154 Kingston Road, Unit 4, Pickering, Ontario, L1V 1B4",Pickering.Uxbridge,905-839-2878,905-839-2423
+35086,,9,Renfrew-Nipissing-Pembroke,"84 Isabella Street, 1st Floor, Pembroke, Ontario, K8A 5S5",Renfrew.Nipissing.Pembroke,613-732-4404,613-732-4697
+35087,,9,Richmond Hill,"Main office - Richmond Hill, 100 Mural Street, Suite 101, Richmond Hill, Ontario ,L4B 1J3",Richmond.Hill,905-707-9701,905-707-9705
+35088,,9,Carleton,"1139 Mill Street, Manotick, Ontario, K4M 1A5",Carleton,613-692-3331,613-692-3303
+35089,,9,St. Catharines,"61 Geneva Street, Unit 1, St. Catharines, Ontario, L2M 4M6",St.Catharines,905-934-6767,905-934-1577
+35090,,9,Toronto-St. Paul's,"40 Holly Street, Suite 103 ,Toronto, Ontario, M4S 3C3",Toronto.St.Pauls,416-952-3990,416-952-3995
+35091,,9,Sarnia-Lambton,"1000 Finch Drive, Unit 2, Sarnia, Ontario, N7S 6G5",Sarnia.Lambton,519-383-6600,519-383-0609
+35092,,9,Sault Ste. Marie,"369 Queen Street East, Suite 102, Sault Ste Marie, Ontario, P6A 1Z4",Sault.Ste.Marie,705-941-2900,705-941-2903
+35093,,9,Scarborough-Agincourt,"3195 Sheppard Avenue E, Suite 201, Scarborough, Ontario, M1T 3K1",Scarborough.Agincourt,416-321-5454,416-321-5456
+35094,,9,Scarborough Centre,"2155 Lawrence Avenue East, Unit 5, Scarborough, Ontario, M1R 5G9",Scarborough.Centre,416-752-2358,416-752-4624
+35095,,9,Scarborough-Guildwood,"3785 Kingston Road, Suite 10, Scarborough, Ontario, M1J 3H4",Scarborough.Guildwood,416-283-1226,416-283-7935
+35096,,9,Scarborough North,"4386 Sheppard Ave East, Unit C, Scarborough, Ontario, M1S 1T8",Scarborough.North,416-321-2436,416-298-6035
+35097,,9,Scarborough-Rouge Park,"3600 Ellesmere Road, Unit 3, Toronto, Ontario, M1C 4Y8",Scarborough.Rouge.Park,416-283-1414,416-283-5012
+35098,,9,Scarborough Southwest,"2263 Kingston Road, Scarborough, Ontario, M1N 1T8",Scarborough.Southwest,416-261-8613,416-261-5268
+35099,,9,Simcoe-Grey,"452 Victoria Street East, Alliston, Ontario, L9R 1J8",Simcoe.Grey,705-435-1809,705-435-6448
+35100,,9,Simcoe North,"504 Dominion Avenue, Midland, Ontario, L4R 1P8",Simcoe.North,705-527-7654,705-527-7668
+35101,,9,Spadina-Fort York,"1 University Ave, Toronto, Ontario, M5J 2P1",Spadina.Fort.York,416-533-2710,416-533-2236
+35102,,9,Stormont-Dundas-South Glengarry,"691 Brookdale Avenue, Unit C, Cornwall, Ontario, K6J 5C6",Stormont.Dundas.South.Glengarry,613-937-3331,613-937-3251
+35103,,9,Sudbury,"93 Cedar Street, Suite 302, Sudbury, Ontario, P3E 1A7",Sudbury,705-673-7107,705-673-0944
+35104,,9,Thornhill,"1118 Centre Street, Unit 23, Thornhill, Ontario, L4J 7R9",Thornhill,905-886-9911,905-886-5267
+35105,,9,Thunder Bay-Rainy River,"905 E Victoria Avenue, Unit 1, Thunder Bay, Ontario, P7C 1B3",Thunder.Bay.Rainy.River,807-625-1160,807-625-1164
+35106,,9,Thunder Bay-Superior North,"705 Red River Road, Suite 3, Thunder Bay, Ontario, P7B 1J3",Thunder.Bay.Superior.North,807-766-2090,807-766-2094
+35107,,9,Timmins-James Bay,"60 Wilson Avenue, Suite 202, Timmins, Ontario, P4N 2S7",Timmins.James.Bay,705-268-6464,705-268-6460
+35108,,9,Toronto Centre,"430 Parliament Street, Toronto, Ontario, M5A 3A2",Toronto.Centre,416-972-9749,416-972-9891
+35109,,9,Toronto-Danforth,"1028 Queen Street East, Toronto, Ontario, M4M 1K4",Toronto.Danforth,416-405-8914,416-405-8916
+35110,,9,University-Rosedale,"344 Bloor Street West, Suite 510, Toronto, Ontario, M5S 3A7",University.Rosedale,416-928-1451,416-928-2377
+35111,,9,Vaughan-Woodbridge,"8633 Weston Road, Suite 6A, Woodbridge, Ontario, L4L 9R6",Vaughan.Woodbridge,905-264-6446,905-264-8637
+35112,,9,Waterloo,"100 Regina Street South, Suite 360, Waterloo, Ontario, N2J 4P9",Waterloo,519-746-1573,519-746-6436
+35113,,9,Wellington-Halton Hills,"A-190 St.David Street S., Fergus, Ontario, N1M 2L3",Wellington.Halton.Hills,519-843-7344,519-843-3760
+35114,,9,Whitby,"400 Dundas Street West, Suite 105-106, Whitby, Ontario, L1N 2M7",Whitby,905-665-8182,905-665-8124
+35115,,9,Willowdale,"115 Sheppard Avenue West, Toronto, Ontario, M2N 1M7",Willowdale,416-223-2858,416-223-9715
+35116,,9,Windsor-Tecumseh,"9733 Tecumseh Road East, Suite 2, Windsor, Ontario, N8R 1A5",Windsor.Tecumseh,519-979-2707,519-979-7747
+35117,,9,Windsor West,"1398 Ouellette Avenue, Suite 2, Windsor, Ontario, N8X 1J8",Windsor.West,519-255-1631,519-255-7913
+35118,,9,York Centre,"2800 Keele Street, Unit 2, Toronto, Ontario, M3M 0B8",York.Centre,416-638-3700,416-638-1407
+35119,,9,York-Simcoe,"45 Grist Mill Road, Suite 10, Holland Landing, Ontario, L9N 1M7",York.Simcoe,905-898-1600,905-898-4600
+35120,,9,York South-Weston,"48 Rosemount Avenue, Unit B, York, Ontario, M9N 3B3",York South.Weston,416-656-2526,416-656-9908
+35121,,9,Humber River-Black Creek,"2201 Finch Avenue West, Suite 25, Toronto, Ontario, M9M 2Y9",Humber.River.Black.Creek,416-744-1882,416-952-1696
+11001,,10,Cardigan,"551 Main Street, PO Box 1150, Montague, Prince Edward Island, C0A 1R0",Cardigan,902-838-4139,902-838-3790
+11002,,10,Charlottetown,"75 Fitzroy Road, Suite 201, Charlottetown, Prince Edward Island, C1A 1R6",Charlottetown,902-566-7770,902-566-7780
+11003,,10,Egmont,"263 Heather Moyse Drive, Summerside, Prince Edward Island, C1N 5P1",Egmont,800-224-0018,902-432-6853
+11004,,10,Malpeque,"2-4 Meadowbank Road, Cornwall, Prince Edward Island, C0A 1H0",Malpeque,800-442-4050,902-964-3242
+24001,,11,Abitibi-Baie-James-Nunavik-Eeyou,"888 3rd Avenue, Suite 204, Val-d'Or, Quebec, J9P 5E6",Abitibi.Baie.James.Nunavik.Eeyou,819-824-2942,819-824-2958
+24002,,11,Abitibi-Témiscamingue,"33-A Gamble Street West, RC 15, Rouyn-Noranda, Quebec, J9X 2R3",Abitibi.Temiscamingue,800-567-6433,819-762-8732
+24003,,11,Ahuntsic-Cartierville,"225 Chabanel West, Suite 1109, Montréal, Quebec, H2N 2C9",Ahuntsic.Cartierville,514-383-3709,514-383-3589
+24004,,11,Alfred-Pellan,"3131 de la Concorde East, Suite 300, Laval, Quebec, H7E 4W4",Alfred.Pellan,450-661-4117,450-661-5623
+24005,,11,Argenteuil-La Petite-Nation,"505 Bethany Avenue, Suite 204, Lachute, Quebec, J8H 4A6",Argenteuil.La.Petite.Nation,450-562-0737,450-562-2527
+24006,,11,Avignon-La Mitis-Matane-Matapédia,"35 Saint-Benoit Boulevard East, Amqui, Quebec, G5J 2B8",Avignon.La.Mitis.Matane.Matapedia,418-629-6456,418-629-1204
+24007,,11,Beauce,"250 Vachon North Boulevard, Suite 201, Sainte-Marie de Beauce, Quebec, G6E 4G3",Beauce,418-387-4224,418-387-8124
+24008,,11,Beauport-Limoilou,"2000 Sanfaçon Avenue, Suite 101, Québec, Quebec, G1E 3R7",Beauport.Limoilou,418-663-2113,418-663-2988
+24009,,11,Bécancour-Nicolet-Saurel,"307 Marie-Victorin Road, Sorel-Tracy, Quebec, J3R 1K6",Becancour.Nicolet.Saurel,450-742-0479,450-742-1976
+24010,,11,Bellechasse-Les Etchemins-Lévis,"115 President Kennedy Road, Suite 102, Lévis, Quebec, G6V 6C8",Bellechasse.Les.Etchemins.Levis,418-830-0500,418-830-0504
+24011,,11,Beloeil-Chambly,"270 Fréchette Boulevard, Chambly, Quebec, J3L 2Z5",Beloeil.Chambly,450-658-0088,450-658-0885
+24012,,11,Berthier-Maskinongé,"343 St-Laurent Avenue, Louiseville, Quebec, J5V 1K2",Berthier.Maskinonge,819-228-1210,819-228-1181
+24013,,11,Thérèse-De Blainville,"8 Saint-Charles Street, Sainte-Thérèse, Quebec, J7E 2A2",Therese.De.Blainville,450-965-1188,450-965-3221
+24014,,11,Pierre-Boucher-Les Patriotes-Verchères,"1625 Lionel-Boulet Blvd., Suite 202, Varennes, Quebec, J3X 1P7",Pierre.Boucher.Les.Patriotes.Vercheres,450-652-4442,450-652-4447
+24015,,11,Bourassa,"5835 Leger Blvd, Suite 203, Montreal-Nord, Quebec, H1G 6E1",Bourassa,514-323-1212,514-323-2875
+24016,,11,Brome-Missisquoi,"301-145 Rue de Sherbrooke, Cowansville, Quebec, J2K 5E7",Brome.Missisquoi,819-868-1305,819-868-5609
+24017,,11,Brossard-Saint-Lambert,"6955 Taschereau Blvd., Suite 225, Brossard, Quebec, J4Z 1A7",Brossard.Saint.Lambert,450-466-6872,450-466-9822
+24018,,11,Rimouski-Neigette-Témiscouata-Les Basques,"320 Saint-Germain Street East, Suite 701, Rimouski, Quebec, G5L 1C2",Rimouski.Neigette.Temiscouata.Les.Basques,418-725-2562,418-725-3993
+24019,,11,Charlesbourg-Haute-Saint-Charles,"8400 Henri-Bourassa Blvd, Suite 204, Québec, Quebec, G1G 4E2",Charlesbourg.Haute.Saint.Charles,418-624-0022,418-624-1095
+24020,,11,Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix,"9749 Sainte-Anne Blvd., Suite 160, Ste-Anne-de-Beaupré, Quebec, G0A 3C0",Beauport.Cote.de.BeaupreIle.dOrleans.Charlevoix,418-827-6776,418-827-7077
+24021,,11,Châteauguay-Lacolle,"253 D'Anjou Blvd, Châteauguay, Quebec, J6J 2R4",Chateauguay.Lacolle,450-691-7044,450-691-3114
+24022,,11,Chicoutimi-Le Fjord,"320 Ste-Anne Street, Suite 101, Chicoutimi, Quebec, G7J 2M4",Chicoutimi.Le.Fjord,418-698-5648,418-698-5611
+24023,,11,Compton-Stanstead,"175 Queen Street, Suite 204, Sherbrooke, Quebec, J1M 1K1",Compton.Stanstead,819-347-2598,819-347-3583
+24024,,11,Dorval-Lachine-LaSalle,"735 Notre-Dame Street, Lachine, Quebec, H8S 2B5",Dorval.Lachine.LaSalle,514-639-4497,514-639-7407
+24025,,11,Drummond,"150 Marchand Street, Suite 100, Drummondville, Quebec, J2C 4N1",Drummond,819-477-3611,819-477-7116
+24026,,11,Gaspésie-Les Îles-de-la-Madeleine,"153 La Grande Allée East, Suite 104, Grande-Rivière, Quebec, G0C 1V0",Gaspesie.Les.Iles.de.la.Madeleine,418-385-4264,418-385-4276
+24027,,11,Gatineau,"160 de l'Hôpital Blvd, Suite 401, Gatineau, Quebec, J8T 8J1",Gatineau,819-561-5555,819-561-0005
+24028,,11,Hochelaga,"2030 Pie-IX Blvd, Suite 225, Montréal, Quebec, H1V 2C8",Hochelaga,514-283-2655,514-283-6485
+24029,,11,Honoré-Mercier,"8595 Maurice-Duplessis Blvd, Suite 208, Montréal, Quebec, H1E 4H7",Honore.Mercier,514-353-5044,514-353-3050
+24030,,11,Hull-Aylmer,"179 du Portage Promenade, Suite 301, Gatineau, Quebec, J8X 2K5",Hull.Aylmer,819-994-8844,819-994-8557
+24031,,11,Joliette,"120 Place Bourget North, Joliette, Quebec, J6E 5E5",Joliette,450-752-1940,450-752-1719
+24032,,11,Jonquière,"1930 Davis Street, Jonquiere, Quebec, G7S 3B6",Jonquiere,418-695-4477,418-695-4467
+24033,,11,La Pointe-de-l'Île,"12500 Industriel Blvd, Suite 100, Montréal, Quebec, H1B 5P5",La.Pointe.de.lIle,514-645-0101,514-645-0032
+24034,,11,La Prairie,"66 Road 132, Suite 200, Delson, Quebec, J5B 0A1",La.Prairie,450-632-3383,450-632-2033
+24035,,11,Lac-Saint-Jean,"100 St-Joseph Street S, Suite 7, Alma, Quebec, G8B 7A6",Lac.Saint.Jean,418-669-0013,418-669-0048
+24036,,11,Lac-Saint-Louis,"1 Holiday Avenue, 635 East Tower, Pointe-Claire, Quebec, H9R 5N3",Lac.Saint.Louis,514-695-6661,514-695-3708
+24037,,11,LaSalle-Émard-Verdun,"6023 Monk Blvd., Montréal, Quebec, H4E 3H5",LaSalle.Emard.Verdun,514-363-0954,514-367-5533
+24038,,11,Laurentides-Labelle,"359 Boul Albiny-Paquette, Mont-Laurier, Quebec, J9L 1K5",Laurentides.Labelle,819-440-3091,819-440-3095
+24039,,11,Laurier-Sainte-Marie,"800 Boulevard de Maisonneuve East, Suite 604, Montréal, Quebec, H2L 4L8",Laurier.Sainte.Marie,514-522-1339,514-522-9899
+24040,,11,Laval-Les Îles,"674 Place Publique, Suite 200, Laval, Quebec, H7X 1G1",Laval.Les.Iles,450-689-4594,450-689-5092
+24041,,11,Longueuil-Charles-LeMoyne,"2120 Victoria Avenue, Suite 150, Greenfield Park, Quebec, J4V 1M9",Longueuil.Charles.LeMoyne,450-671-1222,450-671-8884
+24042,,11,Lévis-Lotbinière,"2677 Lagueux Road, Lévis, Quebec, G6J 1B7",Levis.Lotbiniere,418-836-0970,418-836-6177
+24043,,11,Longueuil-Saint-Hubert,"192 Saint-Jean Street, Suite 200, Longueuil, Quebec, J4H 2X5",Longueuil.Saint.Hubert,450-928-4288,450-928-4293
+24044,,11,Louis-Hébert,"3700 du Campanile Street, Suite 110, Québec, Quebec, G1X 4G6",Louis-Hébert,418-648-3244,418-648-3260
+24045,,11,Louis-Saint-Laurent,"192 Saint-Jean Street, Suite 200, Longueuil, Quebec, J4H 2X5",Louis-Saint-Laurent,450-928-4288,450-928-4293
+24046,,11,Manicouagan,"1001 Laflèche Blvd, Suite 201, Baie-Comeau, Quebec, G5C 1C8",Manicouagan,418-589-0573,581-508-0124
+24047,,11,Mégantic-L'Érable,"105A Notre-Dame Street East, Thetford Mines, Quebec, G6G 2J9",Megantic.LErable,418-338-2903,418-338-3631
+24048,,11,Mirabel,"13479 Curé-Labelle Blvd, Suite 102, Mirabel, Quebec, J7J 1H1",Mirabel,450-430-5535,450-430-5155
+24049,,11,Montarville,"1990 Léonard-de-Vinci Street, Suite 201, Sainte-julie, Quebec, J3E 1Y8",Montarville,450-922-2562,450-922-1223
+24050,,11,Montcalm,"1095 Montée Masson, Mascouche, Quebec, J7K 2M1",Montcalm,800-263-5726,450-474-1585
+24051,,11,Montmagny-L'Islet-Kamouraska-Rivière-du-Loup,"6 St-Jean Baptiste Street East, Suite 101, Montmagny, Quebec, G5V 1J7",Montmagny.Lislet.Kamouraska.Riviere.du.Loup,418-248-1211,418-248-1244
+24052,,11,Mount Royal,"4770 Kent Avenue, Suite 316, Montréal, Quebec, H3W 1H2",Mount Royal,514-283-0171,514-283-2407
+24053,,11,Notre-Dame-de-Grâce-Westmount,"4060 Sainte-Catherine Street West, Suite 340, Westmount, Quebec, H3Z 2Z3",Notre.Dame.de.Grace.Westmount,514-283-2013,514-283-9790
+24054,,11,Outremont,"154 Laurier Avenue West, Suite 302, Montréal, Quebec, H2T 2N7",Outremont,514-736-2727,514-736-2726
+24055,,11,Papineau,"1100 Crémazie East, Suite 220, Montréal, Quebec, H2P 2X2",Papineau,514-277-6020,514-277-3454
+24056,,11,Pierrefonds-Dollard,"3883 Blvd St-Jean, Suite 501, Dollard-des-Ormeaux, Quebec, H9G 3B9",Pierrefonds.Dollard,514-624-5725,514-624-5728
+24057,,11,Pontiac,"87-B St Joseph Street, Gracefield, Quebec, J0X 1W0",Pontiac,819-463-0112,819-463-2554
+24058,,11,Portneuf-Jacques-Cartier,"334 Road 138, Unit 230, Saint-Augustin-de-Desmaures, Quebec, G3A 1G8",Portneuf.Jacques.Cartier,418-870-1571,418-870-1577
+24059,,11,Québec,"600 Charest Blvd East, PO Box 30014, Suite 201, Québec, Quebec, G1K 3J4",Quebec,418-523-6666,418-523-6672
+24060,,11,Repentigny,"184 Notre-Dame Street, Suite 201, Repentigny, Quebec, J6A 2P9",Repentigny,450-581-3896,450-581-9958
+24061,,11,Richmond-Arthabaska,"3 de la Gare Street, Victoriaville, Quebec, G6P 6S4",Richmond.Arthabaska,819-751-1375,819-751-5517
+24062,,11,Rivière-des-Mille-Îles,"45 Grignon Street, St-Eustache, Quebec, J7P 4X2",Riviere.des.Mille.Iles,450-623-3335,450-623-3103
+24063,,11,Rivière-du-Nord,"72 de la Gare Street, Suite 203, Saint-Jérôme, Quebec, J7Z 2B8",Riviere.du.Nord,450-565-0061,450-565-0118
+24064,,11,Rosemont-La Petite-Patrie,"1453 Beaubien Street East, Suite 208, Montréal, Quebec, H2G 3C6",Rosemont.La.Petite.Patrie,514-729-5342,514-729-5875
+24065,,11,Marc-Aurèle-Fortin,"2968 Dagenais Blvd West, Suite 101, Laval, Quebec, H7P 1T1",Mar.Aurele.Fortin,450-622-2992,450-622-3003
+24066,,11,Saint-Hyacinthe-Bagot,"2710 Bachand Street, Suite 108 ,Saint-Hyacinthe, Quebec, J2S 8B6",Saint.Hyacinthe.Bagot,450-771-0505,450-771-0767
+24067,,11,Saint-Jean,"100 Richelieu Street, Suite 210, Saint-Jean-sur-Richelieu, Quebec, J3B 6X3",Saint.Jean,450-357-9100,450-357-9109
+24068,,11,Saint-Laurent,"750 Marcel Laurin Blvd, Suite 102, Saint-Laurent, Quebec, H4M 2M4",Saint.Laurent,514-335-6655,514-335-2712
+24069,,11,Saint-Léonard-Saint-Michel,"8370 Lacordaire Blvd, Saint-Léonard, Quebec, H1R 3Y6",Saint.Leonard.Saint.Michel,514-256-4548,514-256-8828
+24070,,11,Saint-Maurice-Champlain,"632 Grand-Mère Avenue, Suite 1, Shawinigan, Quebec, G9T 2H5",Saint.Maurice.Champlain,819-538-5291,819-538-7624
+24071,,11,Salaberry-Suroît,"106 Saint-Jean-Baptiste Street, Salaberry-de-Valleyfield, Quebec, J6T 1Z8",Salaberry.Suroit,450-371-0644,450-371-3330
+24072,,11,Shefford,"400 Principale Street, Suite 101, Granby, Quebec, J2G 2W6",Shefford,450-378-3221,450-378-3380
+24073,,11,Sherbrooke,"1640 King Street West, Suite M-10, Sherbrooke, Quebec, J1J 2C3",Sherbrooke,819-564-4200,819-564-3745
+24074,,11,Vaudreuil-Soulanges,"223 St. Charles Avenue, Vaudreuil-Dorion, Quebec, J7V 2L6",Vaudreuil.Soulanges,450-510-2305,450-510-2383
+24075,,11,Terrebonne,"730-732 St. Louis Street, Terrebonne, Quebec, J6W 1J6",Terrebonne,450-964-9417,450-964-1234
+24076,,11,Trois-Rivières,"3-245 St-Georges Street, Trois-Rivières, Quebec, G9A 2K1",Trois.Rivieres,819-371-5901,819-371-5912
+24077,,11,Ville-Marie-Le Sud-Ouest-Île-des-Soeurs,"3175 Saint-Jacques Street, Montréal, Quebec, H4C 1G7",Ville.Marie.Le.Sud.Ouest.Ile.des.Soeurs,514-496-4885,514-496-8097
+24078,,11,Vimy,"2500 Daniel-Johnson Boulevard, Suite 405, Laval, Quebec, H7T 2P6",Vimy,450-973-5660,450-973-5661
+47001,,12,Battlefords-Lloydminster,"4304 - 40th Avenue, Suite 3, Lloydminster, Saskatchewan, S9V 2H1",Battlefords.Lloydminster,306-825-5005,
+47002,,12,Cypress Hills-Grasslands,"42A Central Avenue North, Suite 1, Swift Current, Saskatchewan, S9H 0K7",Cypress.Hills.Grasslands,306-778-4480,306-778-6981
+47003,,12,Desnethé-Missinippi-Churchill River,"201 2nd Street West, Unit 13, Meadow Lake, Saskatchewan, S9X 1C7",Desnethe.Missinippi.Churchill.River,844-365-9664,
+47004,,12,Carlton Trail-Eagle Creek,"725 Centennial Drive S., Unit 2-B, Martensville, Saskatchewan, S0K 2T0",Carlton.Trail.Eagle.Creek,306-975-4004,306-975-4051
+47005,,12,Moose Jaw-Lake Centre-Lanigan,"54 Stadacona Street W., Suite 1, Moose Jaw, Saskatchewan, S6H 1Z1",Moose.Jaw.Lake.Centre.Lanigan,306-691-3577,306-391-3579
+47006,,12,Prince Albert,"79 - 11th Street West, Prince Albert, Saskatchewan, S6V 3A8",Prince.Albert,306-953-8622,306-953-8625
+47007,,12,Regina-Lewvan,"6845 Rochdale Boulevard, Regina, Saskatchewan, S4X 2Z2",Regina.Lewvan,306-790-4747,
+47008,,12,Regina-Qu'Appelle,"984 A Albert Street, Regina, Saskatchewan, S4R 2P7",Regina.QuAppelle,306-790-4727,306-790-4728
+47009,,12,Regina-Wascana,"2723 East Quance Street, Regina, Saskatchewan, S4N 7M3",Regina.Wascana,306-585-2202,
+47010,,12,Saskatoon-Grasswood,"2720 - 8th Street East, Suite 5, Saskatoon, Saskatchewan, S7H 0V8",Saskatoon.Grasswood,306-975-6472,306-975-6492
+47011,,12,Saskatoon-University,"350 - 103rd Street East, Suite 104, Saskatoon, Saskatchewan, S7N 1Z1",Saskatoon.University,306-975-6133,306-975-6670
+47012,,12,Saskatoon West,"904E - 22nd Street West, Saskatoon, Saskatchewan, S7M 0S1",Saskatoon.West,306-975-6555,306-975-5786
+47013,,12,Souris-Moose Mountain,"1133 - 4th Street, Suite 302, Estevan, Saskatchewan. S4A 0W6",Souris.Moose.Mountain,306-634-3000,306-634-4835
+47014,,12,Yorkton-Melville,"43 Betts Avenue, Yorkton, Saskatchewan, S3N 1M1",Yorkton.Melville,306-782-3309,306-786-7207
+60001,,13,Yukon,"200-204 Black St, Whitehorse, Yukon, Y1A 2M9",Yukon,867-668-6565,867-668-6570

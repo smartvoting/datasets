@@ -1,42 +1,42 @@
-﻿party_id,party_name,party_domain,is_registered,reason
-1,Animal Protection Party of Canada,animalprotectionparty.ca,1,
-2,Alliance of the North,,0,"involuntary deregistration, section 415(3)"
-3,Bloc Québécois,blocquebecois.org,1,
-4,Canada Party,,0,"involuntary deregistration, section 415(3)"
-5,Canadian Action Party,,0,"involuntary deregistration, section 402"
-6,Canadian Nationalist Party,,1,
-7,Centrist Party of Canada,centristpartycanada.ca,1,
-8,Christian Heritage Party of Canada,chp.ca,1,
-9,Communist Party of Canada,communist-party.ca,1,
-10,Conservative Party of Canada,conservative.ca,1,
-11,Direct Democracy Party of Canada,fourthfront.ca,1,
-12,First Peoples Natioanl Party of Canada,,0,"voluntary deregistration, section 414"
-13,Forces et Démocratie,,0,"involuntary deregistration, section 415(3)"
-14,Free Party Canada,partilibrecanada.org,1,
-15,Green Party of Canada,greenparty.ca,1,
-16,Liberal Party of Canada,liberal.ca,1,
-17,Libertarian Party of Canada,libertarian.ca,1,
-18,Marijuana Party,marijuanaparty.ca,1,
-19,Marxist-Leninist Party of Canada,cpcml.ca,1,
-20,Maverick Party,maverickparty.ca,1,
-21,National Advancement Party of Canada,,0,"voluntary deregistration, section 414"
-22,National Citizens Alliance of Canada,nationalcitizensalliance.ca,1,
-23,Natural Law Party of Canada,,0,"voluntary deregistration, section 414"
-24,New Democratic Party,ndp.ca,1,
-25,Newfoundland and Labrador First Party,,0,"involuntary deregistration, sections 410, 415"
-26,Parti Patriote,partipatriote.ca,1,
-27,Parti pour I'Indépendance du Québec,quebecpays.com,1,
-28,Parti Rhinocéros Party,partyrhino.ca,1,
-29,"Party for Accountability, Competency and Transparency",,0,"voluntary deregistration, section 414"
-30,People's Party of Canada,peoplespartyofcanada.ca,1,
-31,People's Political Power Party of Canada,,0,"involuntary deregistration, section 409"
-32,Pirate Party of Canada,,0,"involuntary deregistration, section 413(a)"
-33,Progressive Canadian Party,,0,"involuntary deregistration, section 415(3)"
-34,Seniors Party of Canada,,0,"involuntary deregistration, section 413(b)"
-35,Stop Climate Change,,0,"involuntary deregistration, section 415(3)"
-36,The Bridge Party of Canada,,0,"involuntary deregistration, section 402"
-37,The United Party of Canada,,0,"involuntary deregistration, section (415(3)"
-38,United Party of Canada,,0,"voluntary deregistration, section 414"
-39,Veterans Coalition Party of Canada,veteranscoalitionpartyofcanada.com/,1,
-40,Work Less Party,,0,"voluntary deregistration, section 414"
-41,Western Block Party,,0,"involuntary deregistration, sections 410(3)"
+﻿party_id,party_name,party_domain,is_registered,deregister_reason,head_office,email_address,phone_number,fax_number,twitter_id,instagram_id,facebook_id,youtube_id,snapchat_id,flicker_id
+1,Animal Protection Party of Canada,animalprotectionparty.ca,1,,"101–221 Broadview Avenue, Toronto, ON, M4M 2G3",contact@animalprotectionparty.ca,1 (416) 462-9541,1 (416) 462-9647,AnimalProtectCA,animalprotectionparty,AnimalProtectionParty,aaevoffice,,
+2,Alliance of the North,,0,"involuntary deregistration, section 415(3)","32 Xavier Street, Tracadie NB E1X 2G9",,1 (506) 395-4557,,,,,,,
+3,Bloc Québécois,blocquebecois.org,1,,"3750, boul. Crémazie Est, Bureau 402, Montréal (Québec), H2A 1B7",info@bloc.org,1 (514) 526-3000,1 (514) 526-2868,blocquebecois,blocquebecois,blocquebecois,BlocQuebecois,,
+4,Canada Party,,0,"involuntary deregistration, section 415(3)","1400 Central Avenue, Saskatoon SK S7N 2H2",,1 (306) 260-7446,1 (306) 651-2211,,,,,,
+5,Canadian Action Party,,0,"involuntary deregistration, section 402","788 Mabel Lake Road, Lumby BC V0E 2G5",,1 (250) 547-9428,,,,,,,
+6,Canadian Nationalist Party,,1,,"PO Box 55588, Retail Postal, Outlet Cedar Heights, Scarborough, ON, M1H 3G7",,1 (647) 872-4648,,,,,,,
+7,Centrist Party of Canada,centristpartycanada.ca,1,,"205-4651 Sheppard Avenue East, Toronto ON M1S 3V4",,1 (905) 831-7777,,CentristCa,centrist_party_canada,CentristCA,centristpartyparticentriste,,
+8,Christian Heritage Party of Canada,chp.ca,1,,"PO Box 4958, Station E, Ottawa, ON, K1S 5J1",info@chp.ca,1 (613) 248-1818,1 (613) 248-0909,CHPCanada,,CHP.ca.Canada,CHPCanada,,
+9,Communist Party of Canada,communist-party.ca,1,,"290A Danforth Avenue, Toronto, ON, M4K 1N6",info@cpc-pcc.ca,1 (416) 469-2446,,ComPartyCanada,,CommunistPartyOfCanada,cpcupdates,,
+10,Conservative Party of Canada,conservative.ca,1,,"1720-130 Albert Street, Ottawa, ON, K1P 5G4",,1 (866) 808-8407,1 (613) 755-2001,CPC_HQ,cpc_hq,cpcpcc,cpcpcc,,
+11,Direct Democracy Party of Canada,fourthfront.ca,1,,"170A Leyton Avenue, Toronto, ON, M1L 3V6",,1 (416) 613-1571,,,,,,,
+12,First Peoples Natioanl Party of Canada,,0,"voluntary deregistration, section 414","242 St. George Street, Sudbury ON P3C 2X2",,1 (705) 561-8004,,,,,,,
+13,Forces et Démocratie,,0,"involuntary deregistration, section 415(3)","Post Office Box 4, Matane QC G4W 2B0",,1 (418) 476-1359,,,,,,,
+14,Free Party Canada,partilibrecanada.org,1,,"27A Hochar Avenue, Saint-Sauveur QC J0R 1R4",info@partilibrecanada.org,1 (438) 938-4802,,,,,,,
+15,Green Party of Canada,greenparty.ca,1,,"812-116 Albert Street, Ottawa ON K1P 5G3",,1 (613) 562-4916,1 (613) 706-1424,canadiangreens,thegreenparty_canada,GreenPartyofCanada,canadiangreenparty,,
+16,Liberal Party of Canada,liberal.ca,1,,"920-350 Albert Street, Ottawa ON K1P 6M8",assistance@liberal.ca,1 (613) 237-0740,1 (613) 235-7208,liberal_party,liberalca,LiberalCA,liberalvideo,liberalca,
+17,Libertarian Party of Canada,libertarian.ca,1,,"72 Birchmount Walk, London ON N6K 4K5",,1 (519) 671-8356,,LibertarianCDN,,,,,
+18,Marijuana Party,marijuanaparty.ca,1,,"5535 Bourbonnière Avenue, Montréal, QC H1X 2N3",pmp@partimarijuana.ca,1 (514) 725-8103,,,,,,,
+19,Marxist-Leninist Party of Canada,cpcml.ca,1,,"404–1066 Somerset Street West, Ottawa ON K1Y 4T3",info@cpcml.ca,1 (613) 792-4475,,mlpcpmlc,,MLPCPMLC,,,
+20,Maverick Party,maverickparty.ca,1,,"405-1500 14 St. SW, Calgary, AB, T3C 1C9",info@maverickparty.ca,1 (587) 885-2555,1 (403) 276-6489,maverick_party,maverick_party,MaverickParty,UClDR0cuGgfDkfhLUD0OytSg,,
+21,National Advancement Party of Canada,,0,"voluntary deregistration, section 414","PO Box 94, 728 Northmount Drive North-West, Calgary, Alberta T2K 6J8",,1 (403) 669-8132,,,,,,,
+22,National Citizens Alliance of Canada,nationalcitizensalliance.ca,1,,"PO Box 94, 728 Northmount Drive North-West, Calgary AB T2K 6J9",info@nationalcitizensalliance.ca,1 (833) 822-8331,,natcitalliance,natcitalliance,NationalCitizensAlliance,UCpcmf6tRk1muXlkTI4aGIIA,,
+23,Natural Law Party of Canada,,0,"voluntary deregistration, section 414","503–20 Cherrytree Drive, Brampton ON L6Y 3V1",,1 (905) 450-0619,,,,,,,
+24,New Democratic Party,ndp.ca,1,,"300-279 Laurier Avenue West, Ottawa ON K1P 5J9",,1 (613) 236-3613,1 (613) 230-9950,ndp,jagmeetsingh,NDP.NPD,NDPCanada,,ndpcanada
+25,Newfoundland and Labrador First Party,,0,"involuntary deregistration, sections 410, 415","27 Bay Bulls Road, St. John's NL A1G 1A4",,1 (709) 722-6537,,,,,,,
+26,Parti Patriote,partipatriote.ca,1,,"6-90 Joseph Bresse Street, Chambly QC J3L 1V8",info@partipatriote.ca,1 (438) 498-1557,,,,partipatriote,UCJItW066pz6UquCWBKupg7w,,
+27,Parti pour I'Indépendance du Québec,quebecpays.com,1,,"381 Rang de Versailles, Mont-Saint-Grégoire QC J0J 1K0",jacinthe.lafrenaye@independantiste.quebec,1 (514) 823-8891,,,,,,,
+28,Parti Rhinocéros Party,partyrhino.ca,1,,"454 Tessier Street, Rimouski QC G5L 4L1",,1 (581) 624-2530,,CorRhino,corrhino,PartiRhino,,,
+29,"Party for Accountability, Competency and Transparency",,0,"voluntary deregistration, section 414","411-637 Lake Shore Boulevard West, Toronto ON M5V 3J6",,1 (416) 567-6913,,,,,,,
+30,People's Party of Canada,peoplespartyofcanada.ca,1,,"700-1 Nicholas Street, Ottawa ON K1N 7B7",info@peoplespartyofcanada.ca,1 (819) 205-2648,1 (819) 205-2383,peoplespca,peoplespca,peoplespca,UCMR4SQfGkEoiNfyaG_22Baw,,
+31,People's Political Power Party of Canada,,0,"involuntary deregistration, section 409","107 Marion Street, Winnipeg MB R2H 0T2",,1 (204) 233-6087,1 (204) 233-6217,,,,,,
+32,Pirate Party of Canada,,0,"involuntary deregistration, section 413(a)","1601–788 Jervis Street, Vancouver BC  V6E 0B5",,,,,,,,,
+33,Progressive Canadian Party,,0,"involuntary deregistration, section 415(3)","218 Twyford Street, Ottawa ON K1V 0V9",,1 (613) 738-8946,,,,,,,
+34,Seniors Party of Canada,,0,"involuntary deregistration, section 413(b)","31 Baymark Road, Thornhill ON L3T 3Y4",,1 (647) 454-5699,1 (416) 628-5274,,,,,,
+35,Stop Climate Change,,0,"involuntary deregistration, section 415(3)","434 Hillcrest Avenue, Peterborough ON K9J 6H6",,1 (705) 743-2939,,,,,,,
+36,The Bridge Party of Canada,,0,"involuntary deregistration, section 402","38 Albany Avenue, Toronto ON M5R 3C3",,1 (647) 964-0536,,,,,,,
+37,The United Party of Canada,,0,"involuntary deregistration, section (415(3)","201-1025 Fergus Avenue, Mississauga ON L5E 3G7",,1 (416) 728-7372,,,,,,,
+38,United Party of Canada,,0,"voluntary deregistration, section 414","119 Oakcrest Drive, Keswick ON  L4P 3J2",,1 (905) 476-0000,,,,,,,
+39,Veterans Coalition Party of Canada,veteranscoalitionpartyofcanada.com/,1,,"265 Wallace Road, Glace Bay NS B1A 4P5",randyjoy2010@hotmail.com,1 (902) 217-7682,,,,,,,
+40,Work Less Party,,0,"voluntary deregistration, section 414","1545 10th Avenue East, Vancouver BC V5N 1X6",,1 (604) 215-9395,,,,,,,
+41,Western Block Party,,0,"involuntary deregistration, sections 410(3)","PO Box 24052, 4420 West Saanich Road, Victoria BC  V8Z 7E7",,1 (250) 479-6270,1 (250) 479-3294,,,,,,

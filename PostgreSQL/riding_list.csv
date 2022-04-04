@@ -1,339 +1,340 @@
-riding_id,employee_id,province_id,riding_name,office_address,email_address,phone_number,fax_number
-48001,,1,Banff-Airdrie,"620 - 1st Avenue NW, Suite 16, Airdrie, Alberta, T4B 2R3",Banff.Airdrie,403-948-5103,403-948-0879
-48002,,1,Battle River-Crowfoot,"4945 - 50th Street, Camrose, Alberta, T4V 1P9",Battle.River.Crowfoot,780-608-4600,780-608-4603
-48003,,1,Bow River,"403 - 2nd Avenue W, Suite 2, Brooks, Alberta, T1R 0S3",Bow.River,844-241-0020,403-793-6778
-48004,,1,Calgary Centre,"1414 - 8th Street S.W., Unit 445, Calgary, Alberta, T2R 1J6",Calgary.Centre,403-244-1880,403-245-3468
-48005,,1,Calgary Confederation,"2020 - 10th Street NW, Calgary, Alberta, T2M 3M2",Calgary.Confederation,403-220-0888,403-299-8024
-48006,,1,Calgary Forest Lawn,"525 - 28th Street SE, Suite 225, Calgary, Alberta, T2A 6W9",Calgary.Forest.Lawn,403-207-3030,403-207-3035
-48007,,1,Calgary Heritage,"1010 - 10201 Southport Rd SW, Calgary, Alberta, T2W 4X9",Calgary.Heritage,403-253-7990,403-253-8203
-48008,,1,Calgary Midnapore,"279 Midpark Way SE, Suite 204, Calgary, Alberta, T2X 1M2",Calgary.Midnapore,403-225-3480,403-225-3504
-48009,,1,Calgary Nose Hill,"70 Country Hills Landing NW, Suite 115, Calgary, Alberta, T3K 2L2",Calgary.Nose.Hill,403-216-7777,403-230-4368
-48010,,1,Calgary Rocky Ridge,"400 Crowfoot Crescent, Suite 202, Calgary, Alberta, T3G 5H6",Calgary.Rocky.Ridge,403-282-7980,403-282-3587
-48011,,1,Calgary Shepard,"12221-44 Street SE, Unit 40A, Calgary, Alberta, T2Z 4H3",Calgary.Shepard,403-974-1285,
-48012,,1,Calgary Signal Hill,"8561 - 8A Avenue SW, Suite 2216, Calgary, Alberta, T3H 0V5",Calgary.Signal.Hill,403-292-6666,403-292-6670
-48013,,1,Calgary Skyview,"2635 - 37th Avenue NE, Suite 101, Calgary, Alberta, T1Y 5Z6",Calgary.Skyview,403-291-0018,403-291-9516
-48014,,1,Edmonton Centre,"202-10235 124 St NW, Edmonton, Alberta, T5N 1P9",Edmonton.Centre,780-442-1888,780-442-1891
-48015,,1,Edmonton Griesbach,"10212 - 127th Avenue NW, Suite 102, Edmonton, Alberta, T5E 0B8",Edmonton.Griesbach,780-495-3261,780-495-3261
-48016,,1,Edmonton Manning,"8119 - 160 Avenue, Suite 204A, Edmonton, Alberta, T5Z 0G3",Edmonton.Manning,780-822-1540,780-822-1544
-48017,,1,Edmonton Mill Woods,"9225 - 28th Avenue, Edmonton, Alberta, T6N 1N1",Edmonton.Mill.Woods,780-497-3524,780-497-3511
-48018,,1,Edmonton Riverbend,"596 Riverbend Square, Suite 204, Edmonton, Alberta, T6R 2E3",Edmonton.Riverbend,780-495-4351,780-495-4485
-48019,,1,Edmonton Strathcona,"10045 - 81st Avenue, Edmonton, Alberta, T6E 1W7",Edmonton.Strathcona,780-495-8404,780-495-8403
-48020,,1,Edmonton West,"10471 - 178 Street, Suite 104-105, Edmonton, Alberta, T5S 1R5",Edmonton.West,780-392-2515,780-392-2519
-48021,,1,Edmonton-Wetaskiwin,"1230 - 91 Street SW, Edmonton, Alberta, T6X 0P2",Edmonton.Wetaskiwin,780-495-2149,780-495-2147
-48022,,1,Foothills,"109 - 4th Avenue South West, High River, Alberta, T1V 1M5",Foothills,403-603-3665,403-603-3669
-48023,,1,Fort McMurray-Cold Lake,"105-10110 Fraser Ave, Fort McMurray, Alberta, T9H 5C2",Fort.McMurray.Cold.Lake,780-743-2201,
-48024,,1,Grande Prairie-Mackenzie,"10625 West Side Drive, Suite 201, Grande Prairie, Alberta, T8V 8E6",Grande.Prairie.Mackenzie,780-538-1677,780-538-9257
-48025,,1,Lakeland,"5009 - 50 Street, Two Hills, Alberta, T0B 4K0",Lakeland,780-657-7075,780-657-7079
-48026,,1,Lethbridge,"255 - 8th Street South, Lethbridge, Alberta, T1J 4Y1",Lethbridge,403-320-0070,403-380-4026
-48027,,1,Medicine Hat-Cardston-Warner,"2810 - 13th Avenue SE, Suite 306, Medicine Hat, Alberta, T1A 3P9",Medicine.Hat.Cardston.Warner,844-781-9061,403-528-4365
-48028,,1,Peace River-Westlock,"5124 - 50th Street, Box 4458, Barrhead, Alberta, T7N 1A3",Peace.River.Westlock,800-667-8450,780-305-0343
-48029,,1,Red Deer-Mountain View,"4315 - 55th Avenue, Red Deer, Alberta, T4N 4N7",Red.Deer.Mountain.View,403-347-7426,403-347-7423
-48030,,1,Red Deer-Lacombe,"5025 Parkwood Road, PO Box 59, Suite 201, Blackfalds, Alberta, T0M 0J0",Red.Deer.Lacombe,587-621-0020,587-621-0029
-48031,,1,St. Albert-Edmonton,"20 Perron Street, Suite 220, St Albert, Alberta, T8N 1E4",St.Albert.Edmonton,780-459-0809,780-460-1246
-48032,,1,Sherwood Park-Fort Saskatchewan,"2018 Sherwood Drive, Suite 214, Sherwood Park, Alberta, T8A 5V3",Sherwood.Park.Fort.Saskatchewan,780-467-4944,780-449-1471
-48033,,1,Sturgeon River-Parkland,"4807 - 44 Avenue, Suite 102, Stony Plain, Alberta, T7Z 1V5",Sturgeon.River.Parkland,780-823-2050,780-823-2055
-48034,,1,Yellowhead,"119 - 50th Street, Edson, Alberta, T7E 1V9",Yellowhead,780-723-6068,780-723-5060
-59001,,2,Abbotsford,"2825 Clearbrook Road, Suite 205, Abbotsford, British Columbia, V2T 6S3",Abbotsford,604-557-7888,604-557-9918
-59002,,2,Burnaby North-Seymour,"3906 Hastings Street, Burnaby, British Columbia, V5C 6C1",Burnaby.North.Seymour,604-718-8870,604-718-8874
-59003,,2,Burnaby South,"4940 Kingsway, Burnaby, British Columbia, V5H 2E2",Burnaby.South,604-291-8863,604-666-0727
-59004,,2,Cariboo-Prince George,"1520 - 3rd Avenue, Prince George, British Columbia, V2L 3G4",Cariboo.Prince.George,250-564-7771,250-564-6224
-59005,,2,Central Okanagan-Similkameen-Nicola,"2562B Main Street, West Kelowna, British Columbia, V4T 2N5",Central.Okanagan.Similkameen.Nicola,800-665-8711,250-707-2153
-59006,,2,Chilliwack-Hope,"7388 Vedder Road, Suite 102, Chilliwack, British Columbia, V2R 4E4",Chilliwack.Hope,604-847-9711,604-847-9744
-59007,,2,Cloverdale-Langley City,"214-6820 188 St, Surrey, British Columbia, V4N 3G6",Cloverdale.Langley.City,604-575-6595,604-575-6599
-59008,,2,Coquitlam-Port Coquitlam,"3278 Westwood Street, Suite 101, Port Coquitlam, British Columbia, V3C 3L8",Coquitlam.Port.Coquitlam,604-927-1080,604-927-1084
-59009,,2,Courtenay-Alberni,"1209 East Island, Suite 12, Parksville, British Columbia, V9P 1R5",Courtenay.Alberni,250-947-2140,250-947-2144
-59010,,2,Cowichan-Malahat-Langford,"126 Ingram Street, Suite 101, Duncan, British Columbia, V9L 1P1",Cowichan.Malahat.Langford,250-746-4896,250-746-2354
-59011,,2,Delta,"5064 - 48th Avenue, Delta, British Columbia, V4K 1V8",Delta,778-593-4007,778-593-4008
-59012,,2,Fleetwood-Port Kells,"16088 - 84th Avenue, Suite 301, Surrey, British Columbia, V4N 0V9",Fleetwood.Port.Kells,604-501-5900,604-501-5901
-59013,,2,Kamloops-Thompson-Cariboo,"275 Seymour Street, Suite 6, Kamloops, British Columbia, V2C 2E7",Kamloops.Thompson.Cariboo,250-851-4991,250-851-4994
-59014,,2,Kelowna-Lake Country,"1420 St. Paul Street, Suite 102, Kelowna, British Columbia ,V1Y 2E6",Kelowna.Lake.Country,250-470-5075,250-470-5077
-59015,,2,Kootenay-Columbia,"C-415 Industrial Road A, Cranbrook, British Columbia, V1C 4X8",Kootenay.Columbia,250-417-2250,250-417-2253
-59016,,2,Langley-Aldergrove,"4769 - 222nd Street, Suite 104, Langley, British Columbia, V2Z 3C1",Langley.Aldergrove,604-534-5955,604-534-5970
-59017,,2,Mission-Matsqui-Fraser Canyon,"32650 Logan Avenue, Suite 7, Mission, British Columbia, V2V 6C7",Mission.Matsqui.Fraser.Canyon,604-814-5710,604-814-5714
-59018,,2,Nanaimo-Ladysmith,"495 Dunsmuir Street, Suite 103, Nanaimo, British Columbia, V9R 6B9",Nanaimo.Ladysmith,250-734-6400,250-734-6404
-59019,,2,New Westminster-Burnaby,"888 Carnarvon Street, Suite 110, New Westminster, British Columbia, V3M 0C6",New.Westminster.Burnaby,604-775-5707,604-775-5743
-59020,,2,North Okanagan-Shuswap,"3105 - 29th Street, Vernon, British Columbia, V1T 5A8",North.Okanagan.Shuswap,250-260-5020,250-260-5025
-59021,,2,North Vancouver,"310 Esplanade E, Suite 201, North Vancouver, British Columbia, V7L 1A4",North.Vancouver,604-775-6333,604-775-6332
-59022,,2,Pitt Meadows-Maple Ridge,"22369 Lougheed Hwy, Maple Ridge, British Columbia, V2X 2T3",Pitt.Meadows.Maple.Ridge,604-466-2761,604-466-7593
-59023,,2,Port Moody-Coquitlam,"1116 Austin Avenue, Coquitlam, British Columbia, V3K 3P5",Port.Moody.Coquitlam,604-664-9229,604-664-9231
-59024,,2,Prince George-Peace River-Northern Rockies,"9916 - 100th Avenue, Fort St. John, British Columbia, V1J 1Y5",Prince.George.Peace.River.Northern.Rockies,250-787-1192,250-787-1195
-59025,,2,Richmond Centre,,Richmond.Centre,,
-59026,,2,Esquimalt-Saanich-Sooke,"2-50 Burnside Road West, Victoria, British Columbia, V9A 1B5",Esquimalt.Saanich.Sooke,250-405-6550,250-405-6554
-59027,,2,Saanich-Gulf Islands,"9711 Fourth Street, Suite 1, Sidney, British Columbia, V8L 2Y8",Saanich.Gulf.Islands,250-657-2000,250-657-2004
-59028,,2,Skeena-Bulkley Valley,"4716 Lazelle Avenue, Suite 112, Terrace, British Columbia, V8G 1T2",Skeena.Bulkley.Valley,250-615-5339,250-615-5344
-59029,,2,South Okanagan-West Kootenay,"301 Main Street, Suite 202, Penticton, British Columbia, V2A 5B7",South.Okanagan.West.Kootenay,250-770-4480,
-59030,,2,South Surrey-White Rock,"1959 152 Street, Suite 135, Surrey, British Columbia, V4A 9E3",South.Surrey.White.Rock,604-542-9495,604-542-9496
-59031,,2,Steveston-Richmond East,,Steveston.Richmond.East,604-257-2900,604-257-2904
-59032,,2,Surrey Centre,"10362 King George Blvd, Suite 170, Surrey, British Columbia, V3T 2W5",Surrey.Centre,604-589-2441,604-589-2445
-59033,,2,Surrey-Newton,"12992 - 76th Avenue, Unit 202, Surrey, British Columbia, V3W 2V6",Surrey.Newton,604-598-2200,604-598-2212
-59034,,2,Vancouver Centre,"1030 Denman Street, Suite 112, Vancouver, British Columbia, V6G 2M6",Vancouver.Centre,604-666-0135,604-666-0114
-59035,,2,Vancouver East,"2572 East Hastings Street, Vancouver, British Columbia, V5K 1Z3",Vancouver.East,604-775-5800,604-775-5811
-59036,,2,Vancouver Granville,"100-3077 Granville St, Vancouver, British Columbia, V6H 3J9",Vancouver.Granville,604-717-1140,604-717-1144
-59037,,2,North Island-Powell River,"427 10th Avenue, Campbell River, British Columbia, V9W 4E4",North.Island.Powell.River,250-287-9388,250-287-9361
-59038,,2,Vancouver Kingsway,"2951 Kingsway, Vancouver, British Columbia, V5R 5J4",Vancouver.Kingsway,604-775-6263,604-775-6284
-59039,,2,Vancouver Quadra,"2112, West Broadway, Suite 206, Vancouver, British Columbia, V6K 2C8",Vancouver.Quadra,604-664-9220,604-664-9221
-59040,,2,Vancouver South,"6406 Victoria Drive, Vancouver, British Columbia, V5P 3X7",Vancouver.South,604-775-5323,604-775-5420
-59041,,2,Victoria,"1057 Fort Street, Victoria, British Columbia, V8V 3K5",Victoria,250-363-3600,250-363-8422
-59042,,2,West Vancouver-Sunshine Coast-Sea to Sky Country,"6367 Bruce Street, West Vancouver, British Columbia, V7W 2G5",West.Vancouver.Sunshine.Coast.Sea.to.Sky.Country,604-913-2660,604-913-2664
-46001,,3,Brandon-Souris,"658 10th Street, Unit B, Brandon, Manitoba, R7A 4G5",Brandon.Souris,204-726-7600,204-726-7699
-46002,,3,Charleswood-St. James-Assiniboia-Headingley,"3092 Portage Avenue, Unit D, Winnipeg, Manitoba, R3K 0Y2",Charleswood.St.James.Assiniboia.Headingley,204-984-6432,204-984-6451
-46003,,3,Churchill-Keewatinook Aski,"83 Churchill Drive, Suite 305, Thompson, Manitoba, R8N 0L6",Churchill.Keewatinook.Aski,204-677-1333,204-677-1339
-46004,,3,Dauphin-Swan River-Neepawa,"1450 Main Street South, Unit 22C, Dauphin, Manitoba, R7N 3H4",Dauphin.Swan.River.Neepawa,877-405-8946,
-46005,,3,Elmwood-Transcona,"1111 Munroe Avenue, Suite 207, Winnipeg, Manitoba, R2K 3Z5",Elmwood.Transcona,204-984-2499,204-984-2502
-46006,,3,Kildonan-St. Paul,"27 Red River Boulevard West, Unit B, Winnipeg, Manitoba, R2V 4E2",Kildonan.St.Paul,204-984-6322,204-984-6415
-46007,,3,Portage-Lisgar,"886 Thornhill Street, Unit E, Morden, Manitoba, R6M 2E1",Portage.Lisgar,204-822-7440,204-822-7445
-46008,,3,Provencher,"9A-90 Brandt Street, Steinbach, Manitoba, R5G 0T3",Provencher,204-326-9889,204-346-9874
-46009,,3,Saint Boniface-Saint Vital,"213 St.Mary's Road, Suite 4, Winnipeg, Manitoba, R2H 1J2",Saint.Boniface.Saint.Vital,204-983-3183,204-983-4274
-46010,,3,Selkirk-Interlake-Eastman,"228 Manitoba Avenue, Selkirk, Manitoba, R1A 0Y5",Selkirk.Interlake.Eastman,204-785-6151,204-785-6153
-46011,,3,Winnipeg Centre,"892 Sargent Avenue, Winnipeg, Manitoba, R3E 0C7",Winnipeg.Centre,204-984-1675,204-984-1676
-46012,,3,Winnipeg North,"98 Mandalay Drive, Winnipeg, Manitoba, R2P 1V8",Winnipeg.North,204-984-1767,204-984-1766
-46013,,3,Winnipeg South,"2800 Pembina Highway, Suite 103, Winnipeg, Manitoba, R3T 5P3",Winnipeg.South,204-984-6787,204-984-6792
-46014,,3,Winnipeg South Centre,"611 Corydon Avenue, Suite 102, Winnipeg, Manitoba, R3L 0P3",Winnipeg.South.Centre,204-983-1355,204-984-3979
-13001,,4,Acadie-Bathurst,"220 St-Pierre Blvd West, Suite 314, Caraquet, New Brunswick, E1W 1A5",Acadie.Bathurst,800-992-5699,800-992-5699
-13002,,4,Beauséjour,"328 Main Street, Suite I, Shediac, New Brunswick, E4P 2E3",Beausejour,506-533-5700,506-533-5888
-13003,,4,Fredericton,"154 Main Street, Unit 1001, Fredericton, New Brunswick, E3A 1C8",Fredericton,506-452-4110,506-452-4076
-13004,,4,Fundy Royal,"599 Main Street, Suite 104, Hampton, New Brunswick, E5N 6C2",Fundy.Royal,506-832-4200,506-832-4235
-13005,,4,Madawaska-Restigouche,"374 Adelaide Street, Dalhousie, New Brunswick, E8C 1A5",Madawaska.Restigouche,506-684-6267,506-789-4595
-13006,,4,Miramichi-Grand Lake,"A-2278 King George Hwy, Miramichi, New Brunswick, E1V 6N6",Miramichi.Grand.Lake,506-778-8448,506-778-8150
-13007,,4,Moncton-Riverview-Dieppe,"272 St-George Street, Suite 110, Moncton, New Brunswick, E1C 1W6",Moncton.Riverview.Dieppe,506-851-3310,506-851-3273
-13008,,4,New Brunswick Southwest,"69 Milltown Blvd, St. Stephen, New Brunswick, E3L 1G5",New.Brunswick.Southwest,888-350-4734,506-466-2813
-13009,,4,Saint John-Rothesay,"1 Market Square, Suite N306, Saint John, New Brunswick, E2L 4Z6",Saint.John.Rothesay,506-657-2500,506-657-2504
-13010,,4,Tobique-Mactaquac,"157 Otis Drive, Nackawic, New Brunswick, E6G 1G9",Tobique.Mactaquac,800-671-6160,506-575-6218
-10001,,5,Avalon,"120 Conception Bay Highway, Suite 105, Conception Bay South, Newfoundland and Labrador, A1W 3A6",Avalon,709-834-3424,709-834-3628
-10002,,5,Bonavista-Burin-Trinity,"76 Manitoba Drive, Suite B, Clarenville, Newfoundland and Labrador, A5A 1K6",Bonavista.Burin.Trinity,709-466-6502,709-466-6506
-10003,,5,Coast of Bays-Central-Notre Dame,"70B Hardy Avenue, P.O. Box 808, Grand Falls-Windsor, Newfoundland and Labrador, A2A 2S8",Coast.of.Bays.Central.Notre.Dame,709-489-8470,709-489-8478
-10004,,5,Labrador,"217 Hamilton River Road, PO Box 119 Station B, Happy Valley-Goose Bay, Newfoundland and Labrador, A0P 1E0",Labrador,709-896-2483,709-896-9425
-10005,,5,Long Range Mountains,"49-51 Park Street, Corner Brook, Newfoundland and Labrador, A2H 2X1",Long.Range.Mountains,709-637-4540,709-637-4537
-10006,,5,St. John's East,"120 Torbay Road, Suite E130, St. John's, Newfoundland and Labrador, A1A 2G8",St.Johns.East,709-772-7171,709-772-7175
-10007,,5,St. John's South-Mount Pearl,"689 Topsail Road, 2nd Floor, St. John's, Newfoundland and Labrador, A1E 2E3",St.Johns.South.Mount.Pearl,709-772-4608,709-772-4776
-61001,,6,Northwest Territories,"5109 - 48th Street, Suite 114, Yellowknife, Northwest Territories, X1A 1N5",Northwest.Territories,867-873-6995,867-920-4233
-12001,,7,Cape Breton-Canso,"78 Commercial Street, Dominion, Nova Scotia, B1G 1B4",Cape.Breton.Canso,902-842-9763,
-12002,,7,Central Nova,"2A - 115 MacLean Street, New Glasgow, Nova Scotia, B2H 4M5",Central.Nova,844-641-5886,902-752-0284
-12003,,7,Cumberland-Colchester,"40 Inglis Place, Truro, Nova Scotia, B2N 4B4",Cumberland.Colchester,902-895-2863,902-895-9544
-12004,,7,Dartmouth-Cole Harbour,"82 Tacoma Drive, Suite 200, Dartmouth, Nova Scotia, B2W 3E5",Dartmouth.Cole.Harbour,902-462-6453,902-462-6493
-12005,,7,Halifax,"1888 Brunswick Street, Suite 808, Halifax, Nova Scotia, B3J 3J8",Halifax,902-426-8691,902-426-8693
-12006,,7,Halifax West,"401-3845 Joseph Howe Dr, Halifax, Nova Scotia, B3L 4H9",Halifax.West,902-426-2217,902-426-8339
-12007,,7,Kings-Hants,"24 Harbourside Drive, Unit 101, Wolfville, Nova Scotia, B4P 2C1",Kings.Hants,902-542-4010,902-542-4184
-12008,,7,Sackville-Preston-Chezzetcook,"2900 Highway 2, Suite 2nd Floor, Fall River, Nova Scotia, B2T 1W4",Sackville.Preston.Chezzetcook,902-861-2311,902-861-4620
-12009,,7,South Shore-St. Margarets,"129 Aberdeen Road, Suite 106, Bridgewater, Nova Scotia, B4V 2S7",South.Shore.St.Margarets,902-527-5655,902-527-5656
-12010,,7,Sydney-Victoria,"201 Churchill Drive, Unit 207-A, Membertou First Nation (Sydney), Nova Scotia, B1S 2N9",Sydney.Victoria,902-567-6275,902-564-2479
-12011,,7,West Nova,"368 Main Street, Suite 223, Yarmouth, Nova Scotia, B5A 1E9",West.Nova,902-742-6808,
-62001,,8,Nunavut,"691B Palaugaa Lane, Iqaluit, Nunavut, X0A 0H0",Nunavut,866-267-7701,
-35001,,9,Ajax,"100 Old Kingston Road, Suite 1, Ajax, Ontario, L1T 2Z9",Ajax,905-426-6808,905-426-9564
-35002,,9,Algoma-Manitoulin-Kapuskasing,"289-A Hillside Drive South, Elliot Lake, Ontario, P5A 1N7",Algoma.Manitoulin.Kapuskasing,705-848-8080,705-848-1818
-35003,,9,Aurora-Oak Ridges-Richmond Hill,"12820 Yonge Street, Suite 202, Richmond Hill, Ontario, L4E 4H1",Aurora.Oak.Ridges.Richmond.Hill,905-773-8358,905-773-8374
-35004,,9,Barrie-Innisfil,"480 Huronia Road, Suite 204-B, Barrie, Ontario, L4N 6M2",Barrie.Innisfil,705-726-5959,705-726-3340
-35005,,9,Barrie-Springwater-Oro-Medonte,"48 Alliance Blvd, Suite 104, Barrie, Ontario, L4M 5K3",Barrie.Springwater.Oro.Medonte,705-728-2596,705-728-9465
-35006,,9,Bay of Quinte,"250 Sidney Street, Belleville, Ontario, K8P 3Z3",Bay.of.Quinte,613-969-3300,613-969-3313
-35007,,9,Beaches-East York,"1902 Danforth Avenue, Toronto, Ontario, M4C 1J4",Beaches.East.York,416-467-0860,416-467-0905
-35008,,9,Brampton Centre,"225A-350 Rutherford Rd S, Brampton, Ontario, L6W 4N6",Brampton.Centre,905-790-9211,905-790-9507
-35009,,9,Brampton East,"1 Gateway Blvd, Suite 204, Brampton, Ontario, L6T 0G3",Brampton.East,905-458-1474,905-458-8615
-35010,,9,Brampton North,"50 Sunny Meadow Blvd, Suite 306 - 307, Brampton, Ontario, L6R 0Y7",Brampton.North,905-840-0505,905-840-1778
-35011,,9,Brampton South,"Riverview Commons - 5 Montpelier Street, Unit A-213/A-214, Brampton, Ontario, L6Y 6H4",Brampton.South,905-846-0076,905-846-3901
-35012,,9,Brampton West,"35 Van Kirk Drive, Suite 10/10A, Brampton, Ontario, L7A 1A5",Brampton.West,905-454-4758,905-454-3192
-35013,,9,Brantford-Brant,"108 St. George Street, Suite 3, Brantford, Ontario, N3R 1V6",Brantford.Brant,519-754-4300,519-751-8177
-35014,,9,Bruce-Grey-Owen Sound,"1101 - 2nd Avenue East, Suite 208, Owen Sound, Ontario, N4K 2J1",Bruce.Grey.Owen.Sound,519-371-1059,519-371-1752
-35015,,9,Burlington,"777 Guelph Line, Suite 209, Burlington, Ontario, L7R 3N2",Burlington,905-639-5757,905-639-6031
-35016,,9,Cambridge,"534 Hespeler Road, Suite A4, Cambridge, Ontario, N1R 6J7",Cambridge,519-624-7440,519-624-3517
-35017,,9,Chatham-Kent-Leamington,"75 Erie Street South, Unit 100, Leamington, Ontario, N8H 3B2",Chatham.Kent.Leamington,519-326-9655,519-326-2042
-35018,,9,Davenport,"1202 Bloor Street West, Toronto, Ontario, M6H 1N2",Davenport,416-654-8048,416-654-5083
-35019,,9,Don Valley East,"300-1200 Lawrence Ave E, North York, Ontario, M3A 1C1",Don.Valley.East,416-443-0343,416-443-1393
-35020,,9,Don Valley North,"250 Consumers Road, Suite 1000, Toronto, Ontario, M2J 4R4",Don.Valley.North,416-443-0623,416-443-9819
-35021,,9,Don Valley West,"1670 Bayview Avenue, Suite 310, Toronto, Ontario, M4G 3C2",Don.Valley.West,416-467-7275,416-467-8550
-35022,,9,Dufferin-Caledon,"229 Broadway, Unit #2, Orangeville, Ontario, L9W 1K4",Dufferin.Caledon,519-941-1832,519-941-8660
-35023,,9,Durham,"54 King Street East, Suite 103, Bowmanville, Ontario, L1C 1N3",Durham,905-697-1699,905-697-1678
-35024,,9,Eglinton-Lawrence,"511 Lawrence Avenue West, Toronto, Ontario, M6A 1A3",Eglinton.Lawrence,416-781-5583,416-781-5586
-35025,,9,Elgin-Middlesex-London,"750 Talbot Street, Suite 215, St. Thomas, Ontario, N5P 1E2",Elgin.Middlesex.London,519-637-2255,519-637-3358
-35026,,9,Essex,"35 Victoria Avenue, Unit 7B, Essex, Ontario, N8M 1M4",Essex,519-776-4700,519-776-1383
-35027,,9,Etobicoke Centre,"577 Burnhamthorpe Road, Suite 2, Etobicoke, Ontario, M9C 2Y3",Etobicoke.Centre,416-249-7322,416-249-6117
-35028,,9,Etobicoke-Lakeshore,"1092 Islington Avenue, Suite 202, Toronto, Ontario, M8Z 4R9",Etobicoke.Lakeshore,416-251-5510,416-251-2845
-35029,,9,Etobicoke North,"815 Albion Rd, Etobicoke, Ontario, M9V 1A3",Etobicoke.North,416-747-6003,416-747-8295
-35030,,9,Flamborough-Glanbrook,"81 Hwy 5 W, Waterdown, Ontario, L9H 7L6",Flamborough.Glanbrook,905-648-3850,905-648-3898
-35031,,9,Glengarry-Prescott-Russell,"1468 Laurier Street, Suite 201, Rockland, Ontario, K4K 1C8",Glengarry.Prescott.Russell,613-446-6310,613-446-5666
-35032,,9,Guelph,"103-111 Farquhar Street, Guelph, Ontario, N1H 3N4",Guelph,519-837-8276,519-837-8443
-35033,,9,Haldimand-Norfolk,"210-185 Robinson St, Simcoe, Ontario, N3Y 5L6",Haldimand.Norfolk,866-496-3400,519-426-0003
-35034,,9,Haliburton-Kawartha Lakes-Brock,"68 McLaughlin Road, Lindsay, Ontario, K9V 6B5",Haliburton.Kawartha.Lakes.Brock,705-324-2400,705-324-0880
-35035,,9,Hamilton Centre,"630 Main Street East, Suite 1, Hamilton, Ontario, L8M 1J7",Hamilton.Centre,905-526-0770,905-526-9943
-35036,,9,Hamilton East-Stoney Creek,"42 King Street East, Unit 2, Stoney Creek, Ontario, L8G 1K1",Hamilton.East.Stoney.Creek,905-662-4763,905-662-2285
-35037,,9,Hamilton Mountain,"1A-1394 Upper Gage Ave, Hamilton, Ontario, L8W 1E7",Hamilton.Mountain,905-574-3331,905-574-4980
-35038,,9,Hamilton West-Ancaster-Dundas,"1686 Main Street West, Unit 4, Hamilton, Ontario, L8S 0A2",Hamilton.West.Ancaster.Dundas,905-529-5435,905-529-4123
-35039,,9,Hastings-Lennox and Addington,"4 Dundas Street West, Napanee, Ontario, K7R 1Z4",Hastings.Lennox.and.Addington,866-471-3800,613-969-8835
-35040,,9,Huron-Bruce,"30 Victoria Street North, Goderich, Ontario, N7A 2R6",Huron.Bruce,519-524-6560,519-612-1141
-35041,,9,Kanata-Carleton,"555 Legget Drive, Suite 121, Kanata, Ontario, K2K 2X3",Kanata.Carleton,613-592-3469,613-592-4756
-35042,,9,Kenora,"308 Second Street South, Unit 19, Kenora, Ontario, P9N 1G4",Kenora,807-468-2170,807-468-4896
-35043,,9,King-Vaughan,"115-9401 Jane St, Vaughan, Ontario, L6A 4H7",King.Vaughan,905-303-5000,905-303-5002
-35044,,9,Kingston and the Islands,"841 Princess Street, Kingston, Ontario, K7L 1G7",Kingston.and.the.Islands,613-542-3243,613-542-5461
-35045,,9,Kitchener Centre,"303-305 King St W, Kitchener, Ontario, N2G 1B9",Kitchener.Centre,519-741-2001,519-579-2404
-35046,,9,Kitchener-Conestoga,"1187 Fischer-Hallman Road, Unit 624, Kitchener, Ontario, N2E 4H9",Kitchener.Conestoga,519-578-3777,519-578-0138
-35047,,9,Kitchener South-Hespeler,,Kitchener.South.Hespeler,519-571-5509,519-571-5515
-35048,,9,Lambton-Kent-Middlesex,"65 Front Street West, Strathroy, Ontario, N7G 1X6",Lambton.Kent..Middlesex,519-245-6561,
-35049,,9,Lanark-Frontenac-Kingston,"224 Bridge Street, Carleton Place, Ontario, K7C 3G9",Lanark.Frontenac.Kingston,613-257-8130,613-257-4371
-35050,,9,Leeds-Grenville-Thousand Islands and Rideau Lakes,"68 William Street, Suite 205, Brockville, Ontario, K6V 4V5",Leeds.Grenville.Thousand.Islands.and.Rideau.Lakes,866-498-3096,613-498-3100
-35051,,9,London-Fanshawe,"1700 Dundas Street, Unit D, London, Ontario, N5W 3C9",London.Fanshawe,519-685-4745,519-685-1462
-35052,,9,London North Centre,"231 Hyman Street, London, Ontario, N6A 1N6",London.North.Centre,519-663-9777,519-663-2238
-35053,,9,London West,"390 Commissioners Road West, Suite 200, London, Ontario, N6J 1Y3",London.West,519-473-5955,519-473-7333
-35054,,9,Markham-Stouffville,"137 Main Street North, Suite 204, Markham, Ontario, L3P 1Y2",Markham.Stouffville,905-471-8963,905-471-7653
-35055,,9,Markham-Thornhill,"16 Esna Park Drive, Unit 107, Markham, Ontario, L3R 5X1",Markham.Thornhill,905-479-8100,905-479-3440
-35056,,9,Markham-Unionville,"400A-200 Town Centre Blvd, Markham, Ontario, L3R 8G5",Markham.Unionville,905-470-2024,905-470-1366
-35057,,9,Milton,"16 Hugh Street, Milton, Ontario, L9T 2C6",Milton,905-693-0166,905-693-0704
-35058,,9,Mississauga Centre,"10 Kingsbridge Garden Circle, Suite 506, Mississauga, Ontario, L5R 3K6",Mississauga.Centre,905-848-8595,905-848-2712
-35059,,9,Mississauga East-Cooksville,"980 Burnhamthorpe Road, Suite 3, Mississauga, Ontario, L4Y 2X6",Mississauga.East.Cooksville,905-566-0009,905-566-0017
-35060,,9,Mississauga-Erin Mills,"3184 Ridgeway Drive, Unit 41, Mississauga, Ontario, L5L 5S7",Mississauga.Erin.Mills,905-820-8814,905-820-4068
-35061,,9,Mississauga-Lakeshore,"1077 North Service Road, Suite 30, Mississauga, Ontario, L4Y 1A6",Mississauga.Lakeshore,905-273-8033,905-273-5040
-35062,,9,Mississauga-Malton,"440-5975 Whittle Rd, Mississauga, Ontario, L4Z 3N1",Mississauga.Malton,905-564-0228,905-564-1147
-35063,,9,Mississauga-Streetsville,"6990 Financial Drive, Unit 8G, Mississauga, Ontario, L5N 8J4",Mississauga.Streetsville,905-812-1811,905-812-8464
-35064,,9,Nepean,"240 Kennevale Drive, Suite 201, Nepean, Ontario, K2J 6B6",Nepean,613-825-5505,613-825-2055
-35065,,9,Newmarket-Aurora,"16600 Bayview Avenue, Suite 202, Newmarket, Ontario, L3X 1Z9",Newmarket.Aurora,905-953-7515,905-953-7527
-35066,,9,Niagara Centre,"136 East Main Street, Suite 103, Welland, Ontario, L3B 3W6",Niagara.Centre,905-788-2204,905-788-0071
-35067,,9,Niagara Falls,"4056 Dorchester Road, Suite 107, Niagara Falls, Ontario, L2E 6M9",Niagara.Falls,905-353-9590,905-353-9588
-35068,,9,Niagara West,"4994 King Street, Beamsville, Ontario, L0R 1B0",Niagara.West,905-563-7900,905-563-7500
-35069,,9,Nickel Belt,"2914 Highway 69 North, Unit 5, Val Caron, Ontario, P3N 1E3",Nickel.Belt,705-897-2222,705-897-2223
-35070,,9,Nipissing-Timiskaming,"375 Main Street West, North Bay, Ontario, P1B 2T9",Nipissing.Timiskaming,705-474-3700,705-474-6964
-35071,,9,Northumberland-Peterborough South,"12 Elgin Street East, Unit No. 4, Cobourg, Ontario, K9A 0C5",Northumberland.Peterborough.South,905-372-8757,905-372-1500
-35072,,9,Oakville,"301 Robinson Street, Oakville, Ontario, L6J 1G7",Oakville,905-338-2008,905-338-5432
-35073,,9,Oakville North-Burlington,"2525 Old Bronte Road, Suite 590, Oakville, Ontario, L6M 4J2",Oakville.North.Burlington,905-847-4043,905-847-3037
-35074,,9,Oshawa,"57 Simcoe Street South, Suite 2B, Oshawa, Ontario, L1H 4G4",Oshawa,905-440-4868,905-440-4872
-35075,,9,Ottawa Centre,"404-1066 Somerset St W, Ottawa, Ontario, K1Y 4T3",Ottawa.Centre,613-946-8682,613-946-8680
-35076,,9,Orléans,"255 Centrum Blvd, 2nd Floor, Orléans, Ontario, K1E 3W3",Orleans,613-834-1800,613-590-1201
-35077,,9,Ottawa South,"1883 Bank Street, Unit A, Ottawa, Ontario, K1V 7Z9",Ottawa.South,613-990-8640,613-990-2592
-35078,,9,Ottawa-Vanier,"233 Montreal Road, Vanier, Ontario, K1L 6C7",Ottawa.Vanier,613-998-1860,613-947-7963
-35079,,9,Ottawa West-Nepean,"1315 Richmond road, Ottawa, Ontario, K2B 7Y4",Ottawa.West.Nepean,613-990-7720,613-993-6501
-35080,,9,Oxford,"208 Huron Street, Suite 4, Woodstock, Ontario, N4S 7A1",Oxford,519-421-7214,519-421-9704
-35081,,9,Parkdale-High Park,"1596 Bloor Street West, Toronto, Ontario, M6P 1A7",Parkdale.High.Park,416-769-5072,416-769-8343
-35082,,9,Parry Sound-Muskoka,"94 Hanes Road, Unit 2, Huntsville, Ontario, P1H 1M4",Parry.Sound.Muskoka,705-789-4640,
-35083,,9,Perth-Wellington,"59 Lorne Avenue East, Unit A, Stratford, Ontario, N5A 6S4",Perth.Wellington,519-273-1400,519-273-9045
-35084,,9,Peterborough-Kawartha,"417 Bethune Street, Suite 4, Peterborough, Ontario, K9H 3Z1",Peterborough.Kawartha,705-745-2108,705-741-4123
-35085,,9,Pickering-Uxbridge,"1154 Kingston Road, Unit 4, Pickering, Ontario, L1V 1B4",Pickering.Uxbridge,905-839-2878,905-839-2423
-35086,,9,Renfrew-Nipissing-Pembroke,"84 Isabella Street, 1st Floor, Pembroke, Ontario, K8A 5S5",Renfrew.Nipissing.Pembroke,613-732-4404,613-732-4697
-35087,,9,Richmond Hill,"Main office - Richmond Hill, 100 Mural Street, Suite 101, Richmond Hill, Ontario ,L4B 1J3",Richmond.Hill,905-707-9701,905-707-9705
-35088,,9,Carleton,"1139 Mill Street, Manotick, Ontario, K4M 1A5",Carleton,613-692-3331,613-692-3303
-35089,,9,St. Catharines,"61 Geneva Street, Unit 1, St. Catharines, Ontario, L2M 4M6",St.Catharines,905-934-6767,905-934-1577
-35090,,9,Toronto-St. Paul's,"40 Holly Street, Suite 103 ,Toronto, Ontario, M4S 3C3",Toronto.St.Pauls,416-952-3990,416-952-3995
-35091,,9,Sarnia-Lambton,"1000 Finch Drive, Unit 2, Sarnia, Ontario, N7S 6G5",Sarnia.Lambton,519-383-6600,519-383-0609
-35092,,9,Sault Ste. Marie,"369 Queen Street East, Suite 102, Sault Ste Marie, Ontario, P6A 1Z4",Sault.Ste.Marie,705-941-2900,705-941-2903
-35093,,9,Scarborough-Agincourt,"3195 Sheppard Avenue E, Suite 201, Scarborough, Ontario, M1T 3K1",Scarborough.Agincourt,416-321-5454,416-321-5456
-35094,,9,Scarborough Centre,"2155 Lawrence Avenue East, Unit 5, Scarborough, Ontario, M1R 5G9",Scarborough.Centre,416-752-2358,416-752-4624
-35095,,9,Scarborough-Guildwood,"3785 Kingston Road, Suite 10, Scarborough, Ontario, M1J 3H4",Scarborough.Guildwood,416-283-1226,416-283-7935
-35096,,9,Scarborough North,"4386 Sheppard Ave East, Unit C, Scarborough, Ontario, M1S 1T8",Scarborough.North,416-321-2436,416-298-6035
-35097,,9,Scarborough-Rouge Park,"3600 Ellesmere Road, Unit 3, Toronto, Ontario, M1C 4Y8",Scarborough.Rouge.Park,416-283-1414,416-283-5012
-35098,,9,Scarborough Southwest,"2263 Kingston Road, Scarborough, Ontario, M1N 1T8",Scarborough.Southwest,416-261-8613,416-261-5268
-35099,,9,Simcoe-Grey,"452 Victoria Street East, Alliston, Ontario, L9R 1J8",Simcoe.Grey,705-435-1809,705-435-6448
-35100,,9,Simcoe North,"504 Dominion Avenue, Midland, Ontario, L4R 1P8",Simcoe.North,705-527-7654,705-527-7668
-35101,,9,Spadina-Fort York,"1 University Ave, Toronto, Ontario, M5J 2P1",Spadina.Fort.York,416-533-2710,416-533-2236
-35102,,9,Stormont-Dundas-South Glengarry,"691 Brookdale Avenue, Unit C, Cornwall, Ontario, K6J 5C6",Stormont.Dundas.South.Glengarry,613-937-3331,613-937-3251
-35103,,9,Sudbury,"93 Cedar Street, Suite 302, Sudbury, Ontario, P3E 1A7",Sudbury,705-673-7107,705-673-0944
-35104,,9,Thornhill,"1118 Centre Street, Unit 23, Thornhill, Ontario, L4J 7R9",Thornhill,905-886-9911,905-886-5267
-35105,,9,Thunder Bay-Rainy River,"905 E Victoria Avenue, Unit 1, Thunder Bay, Ontario, P7C 1B3",Thunder.Bay.Rainy.River,807-625-1160,807-625-1164
-35106,,9,Thunder Bay-Superior North,"705 Red River Road, Suite 3, Thunder Bay, Ontario, P7B 1J3",Thunder.Bay.Superior.North,807-766-2090,807-766-2094
-35107,,9,Timmins-James Bay,"60 Wilson Avenue, Suite 202, Timmins, Ontario, P4N 2S7",Timmins.James.Bay,705-268-6464,705-268-6460
-35108,,9,Toronto Centre,"430 Parliament Street, Toronto, Ontario, M5A 3A2",Toronto.Centre,416-972-9749,416-972-9891
-35109,,9,Toronto-Danforth,"1028 Queen Street East, Toronto, Ontario, M4M 1K4",Toronto.Danforth,416-405-8914,416-405-8916
-35110,,9,University-Rosedale,"344 Bloor Street West, Suite 510, Toronto, Ontario, M5S 3A7",University.Rosedale,416-928-1451,416-928-2377
-35111,,9,Vaughan-Woodbridge,"8633 Weston Road, Suite 6A, Woodbridge, Ontario, L4L 9R6",Vaughan.Woodbridge,905-264-6446,905-264-8637
-35112,,9,Waterloo,"100 Regina Street South, Suite 360, Waterloo, Ontario, N2J 4P9",Waterloo,519-746-1573,519-746-6436
-35113,,9,Wellington-Halton Hills,"A-190 St.David Street S., Fergus, Ontario, N1M 2L3",Wellington.Halton.Hills,519-843-7344,519-843-3760
-35114,,9,Whitby,"400 Dundas Street West, Suite 105-106, Whitby, Ontario, L1N 2M7",Whitby,905-665-8182,905-665-8124
-35115,,9,Willowdale,"115 Sheppard Avenue West, Toronto, Ontario, M2N 1M7",Willowdale,416-223-2858,416-223-9715
-35116,,9,Windsor-Tecumseh,"9733 Tecumseh Road East, Suite 2, Windsor, Ontario, N8R 1A5",Windsor.Tecumseh,519-979-2707,519-979-7747
-35117,,9,Windsor West,"1398 Ouellette Avenue, Suite 2, Windsor, Ontario, N8X 1J8",Windsor.West,519-255-1631,519-255-7913
-35118,,9,York Centre,"2800 Keele Street, Unit 2, Toronto, Ontario, M3M 0B8",York.Centre,416-638-3700,416-638-1407
-35119,,9,York-Simcoe,"45 Grist Mill Road, Suite 10, Holland Landing, Ontario, L9N 1M7",York.Simcoe,905-898-1600,905-898-4600
-35120,,9,York South-Weston,"48 Rosemount Avenue, Unit B, York, Ontario, M9N 3B3",York South.Weston,416-656-2526,416-656-9908
-35121,,9,Humber River-Black Creek,"2201 Finch Avenue West, Suite 25, Toronto, Ontario, M9M 2Y9",Humber.River.Black.Creek,416-744-1882,416-952-1696
-11001,,10,Cardigan,"551 Main Street, PO Box 1150, Montague, Prince Edward Island, C0A 1R0",Cardigan,902-838-4139,902-838-3790
-11002,,10,Charlottetown,"75 Fitzroy Road, Suite 201, Charlottetown, Prince Edward Island, C1A 1R6",Charlottetown,902-566-7770,902-566-7780
-11003,,10,Egmont,"263 Heather Moyse Drive, Summerside, Prince Edward Island, C1N 5P1",Egmont,800-224-0018,902-432-6853
-11004,,10,Malpeque,"2-4 Meadowbank Road, Cornwall, Prince Edward Island, C0A 1H0",Malpeque,800-442-4050,902-964-3242
-24001,,11,Abitibi-Baie-James-Nunavik-Eeyou,"888 3rd Avenue, Suite 204, Val-d'Or, Quebec, J9P 5E6",Abitibi.Baie.James.Nunavik.Eeyou,819-824-2942,819-824-2958
-24002,,11,Abitibi-Témiscamingue,"33-A Gamble Street West, RC 15, Rouyn-Noranda, Quebec, J9X 2R3",Abitibi.Temiscamingue,800-567-6433,819-762-8732
-24003,,11,Ahuntsic-Cartierville,"225 Chabanel West, Suite 1109, Montréal, Quebec, H2N 2C9",Ahuntsic.Cartierville,514-383-3709,514-383-3589
-24004,,11,Alfred-Pellan,"3131 de la Concorde East, Suite 300, Laval, Quebec, H7E 4W4",Alfred.Pellan,450-661-4117,450-661-5623
-24005,,11,Argenteuil-La Petite-Nation,"505 Bethany Avenue, Suite 204, Lachute, Quebec, J8H 4A6",Argenteuil.La.Petite.Nation,450-562-0737,450-562-2527
-24006,,11,Avignon-La Mitis-Matane-Matapédia,"35 Saint-Benoit Boulevard East, Amqui, Quebec, G5J 2B8",Avignon.La.Mitis.Matane.Matapedia,418-629-6456,418-629-1204
-24007,,11,Beauce,"250 Vachon North Boulevard, Suite 201, Sainte-Marie de Beauce, Quebec, G6E 4G3",Beauce,418-387-4224,418-387-8124
-24008,,11,Beauport-Limoilou,"2000 Sanfaçon Avenue, Suite 101, Québec, Quebec, G1E 3R7",Beauport.Limoilou,418-663-2113,418-663-2988
-24009,,11,Bécancour-Nicolet-Saurel,"307 Marie-Victorin Road, Sorel-Tracy, Quebec, J3R 1K6",Becancour.Nicolet.Saurel,450-742-0479,450-742-1976
-24010,,11,Bellechasse-Les Etchemins-Lévis,"115 President Kennedy Road, Suite 102, Lévis, Quebec, G6V 6C8",Bellechasse.Les.Etchemins.Levis,418-830-0500,418-830-0504
-24011,,11,Beloeil-Chambly,"270 Fréchette Boulevard, Chambly, Quebec, J3L 2Z5",Beloeil.Chambly,450-658-0088,450-658-0885
-24012,,11,Berthier-Maskinongé,"343 St-Laurent Avenue, Louiseville, Quebec, J5V 1K2",Berthier.Maskinonge,819-228-1210,819-228-1181
-24013,,11,Thérèse-De Blainville,"8 Saint-Charles Street, Sainte-Thérèse, Quebec, J7E 2A2",Therese.De.Blainville,450-965-1188,450-965-3221
-24014,,11,Pierre-Boucher-Les Patriotes-Verchères,"1625 Lionel-Boulet Blvd., Suite 202, Varennes, Quebec, J3X 1P7",Pierre.Boucher.Les.Patriotes.Vercheres,450-652-4442,450-652-4447
-24015,,11,Bourassa,"5835 Leger Blvd, Suite 203, Montreal-Nord, Quebec, H1G 6E1",Bourassa,514-323-1212,514-323-2875
-24016,,11,Brome-Missisquoi,"301-145 Rue de Sherbrooke, Cowansville, Quebec, J2K 5E7",Brome.Missisquoi,819-868-1305,819-868-5609
-24017,,11,Brossard-Saint-Lambert,"6955 Taschereau Blvd., Suite 225, Brossard, Quebec, J4Z 1A7",Brossard.Saint.Lambert,450-466-6872,450-466-9822
-24018,,11,Rimouski-Neigette-Témiscouata-Les Basques,"320 Saint-Germain Street East, Suite 701, Rimouski, Quebec, G5L 1C2",Rimouski.Neigette.Temiscouata.Les.Basques,418-725-2562,418-725-3993
-24019,,11,Charlesbourg-Haute-Saint-Charles,"8400 Henri-Bourassa Blvd, Suite 204, Québec, Quebec, G1G 4E2",Charlesbourg.Haute.Saint.Charles,418-624-0022,418-624-1095
-24020,,11,Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix,"9749 Sainte-Anne Blvd., Suite 160, Ste-Anne-de-Beaupré, Quebec, G0A 3C0",Beauport.Cote.de.BeaupreIle.dOrleans.Charlevoix,418-827-6776,418-827-7077
-24021,,11,Châteauguay-Lacolle,"253 D'Anjou Blvd, Châteauguay, Quebec, J6J 2R4",Chateauguay.Lacolle,450-691-7044,450-691-3114
-24022,,11,Chicoutimi-Le Fjord,"320 Ste-Anne Street, Suite 101, Chicoutimi, Quebec, G7J 2M4",Chicoutimi.Le.Fjord,418-698-5648,418-698-5611
-24023,,11,Compton-Stanstead,"175 Queen Street, Suite 204, Sherbrooke, Quebec, J1M 1K1",Compton.Stanstead,819-347-2598,819-347-3583
-24024,,11,Dorval-Lachine-LaSalle,"735 Notre-Dame Street, Lachine, Quebec, H8S 2B5",Dorval.Lachine.LaSalle,514-639-4497,514-639-7407
-24025,,11,Drummond,"150 Marchand Street, Suite 100, Drummondville, Quebec, J2C 4N1",Drummond,819-477-3611,819-477-7116
-24026,,11,Gaspésie-Les Îles-de-la-Madeleine,"153 La Grande Allée East, Suite 104, Grande-Rivière, Quebec, G0C 1V0",Gaspesie.Les.Iles.de.la.Madeleine,418-385-4264,418-385-4276
-24027,,11,Gatineau,"160 de l'Hôpital Blvd, Suite 401, Gatineau, Quebec, J8T 8J1",Gatineau,819-561-5555,819-561-0005
-24028,,11,Hochelaga,"2030 Pie-IX Blvd, Suite 225, Montréal, Quebec, H1V 2C8",Hochelaga,514-283-2655,514-283-6485
-24029,,11,Honoré-Mercier,"8595 Maurice-Duplessis Blvd, Suite 208, Montréal, Quebec, H1E 4H7",Honore.Mercier,514-353-5044,514-353-3050
-24030,,11,Hull-Aylmer,"179 du Portage Promenade, Suite 301, Gatineau, Quebec, J8X 2K5",Hull.Aylmer,819-994-8844,819-994-8557
-24031,,11,Joliette,"120 Place Bourget North, Joliette, Quebec, J6E 5E5",Joliette,450-752-1940,450-752-1719
-24032,,11,Jonquière,"1930 Davis Street, Jonquiere, Quebec, G7S 3B6",Jonquiere,418-695-4477,418-695-4467
-24033,,11,La Pointe-de-l'Île,"12500 Industriel Blvd, Suite 100, Montréal, Quebec, H1B 5P5",La.Pointe.de.lIle,514-645-0101,514-645-0032
-24034,,11,La Prairie,"66 Road 132, Suite 200, Delson, Quebec, J5B 0A1",La.Prairie,450-632-3383,450-632-2033
-24035,,11,Lac-Saint-Jean,"100 St-Joseph Street S, Suite 7, Alma, Quebec, G8B 7A6",Lac.Saint.Jean,418-669-0013,418-669-0048
-24036,,11,Lac-Saint-Louis,"1 Holiday Avenue, 635 East Tower, Pointe-Claire, Quebec, H9R 5N3",Lac.Saint.Louis,514-695-6661,514-695-3708
-24037,,11,LaSalle-Émard-Verdun,"6023 Monk Blvd., Montréal, Quebec, H4E 3H5",LaSalle.Emard.Verdun,514-363-0954,514-367-5533
-24038,,11,Laurentides-Labelle,"359 Boul Albiny-Paquette, Mont-Laurier, Quebec, J9L 1K5",Laurentides.Labelle,819-440-3091,819-440-3095
-24039,,11,Laurier-Sainte-Marie,"800 Boulevard de Maisonneuve East, Suite 604, Montréal, Quebec, H2L 4L8",Laurier.Sainte.Marie,514-522-1339,514-522-9899
-24040,,11,Laval-Les Îles,"674 Place Publique, Suite 200, Laval, Quebec, H7X 1G1",Laval.Les.Iles,450-689-4594,450-689-5092
-24041,,11,Longueuil-Charles-LeMoyne,"2120 Victoria Avenue, Suite 150, Greenfield Park, Quebec, J4V 1M9",Longueuil.Charles.LeMoyne,450-671-1222,450-671-8884
-24042,,11,Lévis-Lotbinière,"2677 Lagueux Road, Lévis, Quebec, G6J 1B7",Levis.Lotbiniere,418-836-0970,418-836-6177
-24043,,11,Longueuil-Saint-Hubert,"192 Saint-Jean Street, Suite 200, Longueuil, Quebec, J4H 2X5",Longueuil.Saint.Hubert,450-928-4288,450-928-4293
-24044,,11,Louis-Hébert,"3700 du Campanile Street, Suite 110, Québec, Quebec, G1X 4G6",Louis-Hébert,418-648-3244,418-648-3260
-24045,,11,Louis-Saint-Laurent,"192 Saint-Jean Street, Suite 200, Longueuil, Quebec, J4H 2X5",Louis-Saint-Laurent,450-928-4288,450-928-4293
-24046,,11,Manicouagan,"1001 Laflèche Blvd, Suite 201, Baie-Comeau, Quebec, G5C 1C8",Manicouagan,418-589-0573,581-508-0124
-24047,,11,Mégantic-L'Érable,"105A Notre-Dame Street East, Thetford Mines, Quebec, G6G 2J9",Megantic.LErable,418-338-2903,418-338-3631
-24048,,11,Mirabel,"13479 Curé-Labelle Blvd, Suite 102, Mirabel, Quebec, J7J 1H1",Mirabel,450-430-5535,450-430-5155
-24049,,11,Montarville,"1990 Léonard-de-Vinci Street, Suite 201, Sainte-julie, Quebec, J3E 1Y8",Montarville,450-922-2562,450-922-1223
-24050,,11,Montcalm,"1095 Montée Masson, Mascouche, Quebec, J7K 2M1",Montcalm,800-263-5726,450-474-1585
-24051,,11,Montmagny-L'Islet-Kamouraska-Rivière-du-Loup,"6 St-Jean Baptiste Street East, Suite 101, Montmagny, Quebec, G5V 1J7",Montmagny.Lislet.Kamouraska.Riviere.du.Loup,418-248-1211,418-248-1244
-24052,,11,Mount Royal,"4770 Kent Avenue, Suite 316, Montréal, Quebec, H3W 1H2",Mount Royal,514-283-0171,514-283-2407
-24053,,11,Notre-Dame-de-Grâce-Westmount,"4060 Sainte-Catherine Street West, Suite 340, Westmount, Quebec, H3Z 2Z3",Notre.Dame.de.Grace.Westmount,514-283-2013,514-283-9790
-24054,,11,Outremont,"154 Laurier Avenue West, Suite 302, Montréal, Quebec, H2T 2N7",Outremont,514-736-2727,514-736-2726
-24055,,11,Papineau,"1100 Crémazie East, Suite 220, Montréal, Quebec, H2P 2X2",Papineau,514-277-6020,514-277-3454
-24056,,11,Pierrefonds-Dollard,"3883 Blvd St-Jean, Suite 501, Dollard-des-Ormeaux, Quebec, H9G 3B9",Pierrefonds.Dollard,514-624-5725,514-624-5728
-24057,,11,Pontiac,"87-B St Joseph Street, Gracefield, Quebec, J0X 1W0",Pontiac,819-463-0112,819-463-2554
-24058,,11,Portneuf-Jacques-Cartier,"334 Road 138, Unit 230, Saint-Augustin-de-Desmaures, Quebec, G3A 1G8",Portneuf.Jacques.Cartier,418-870-1571,418-870-1577
-24059,,11,Québec,"600 Charest Blvd East, PO Box 30014, Suite 201, Québec, Quebec, G1K 3J4",Quebec,418-523-6666,418-523-6672
-24060,,11,Repentigny,"184 Notre-Dame Street, Suite 201, Repentigny, Quebec, J6A 2P9",Repentigny,450-581-3896,450-581-9958
-24061,,11,Richmond-Arthabaska,"3 de la Gare Street, Victoriaville, Quebec, G6P 6S4",Richmond.Arthabaska,819-751-1375,819-751-5517
-24062,,11,Rivière-des-Mille-Îles,"45 Grignon Street, St-Eustache, Quebec, J7P 4X2",Riviere.des.Mille.Iles,450-623-3335,450-623-3103
-24063,,11,Rivière-du-Nord,"72 de la Gare Street, Suite 203, Saint-Jérôme, Quebec, J7Z 2B8",Riviere.du.Nord,450-565-0061,450-565-0118
-24064,,11,Rosemont-La Petite-Patrie,"1453 Beaubien Street East, Suite 208, Montréal, Quebec, H2G 3C6",Rosemont.La.Petite.Patrie,514-729-5342,514-729-5875
-24065,,11,Marc-Aurèle-Fortin,"2968 Dagenais Blvd West, Suite 101, Laval, Quebec, H7P 1T1",Mar.Aurele.Fortin,450-622-2992,450-622-3003
-24066,,11,Saint-Hyacinthe-Bagot,"2710 Bachand Street, Suite 108 ,Saint-Hyacinthe, Quebec, J2S 8B6",Saint.Hyacinthe.Bagot,450-771-0505,450-771-0767
-24067,,11,Saint-Jean,"100 Richelieu Street, Suite 210, Saint-Jean-sur-Richelieu, Quebec, J3B 6X3",Saint.Jean,450-357-9100,450-357-9109
-24068,,11,Saint-Laurent,"750 Marcel Laurin Blvd, Suite 102, Saint-Laurent, Quebec, H4M 2M4",Saint.Laurent,514-335-6655,514-335-2712
-24069,,11,Saint-Léonard-Saint-Michel,"8370 Lacordaire Blvd, Saint-Léonard, Quebec, H1R 3Y6",Saint.Leonard.Saint.Michel,514-256-4548,514-256-8828
-24070,,11,Saint-Maurice-Champlain,"632 Grand-Mère Avenue, Suite 1, Shawinigan, Quebec, G9T 2H5",Saint.Maurice.Champlain,819-538-5291,819-538-7624
-24071,,11,Salaberry-Suroît,"106 Saint-Jean-Baptiste Street, Salaberry-de-Valleyfield, Quebec, J6T 1Z8",Salaberry.Suroit,450-371-0644,450-371-3330
-24072,,11,Shefford,"400 Principale Street, Suite 101, Granby, Quebec, J2G 2W6",Shefford,450-378-3221,450-378-3380
-24073,,11,Sherbrooke,"1640 King Street West, Suite M-10, Sherbrooke, Quebec, J1J 2C3",Sherbrooke,819-564-4200,819-564-3745
-24074,,11,Vaudreuil-Soulanges,"223 St. Charles Avenue, Vaudreuil-Dorion, Quebec, J7V 2L6",Vaudreuil.Soulanges,450-510-2305,450-510-2383
-24075,,11,Terrebonne,"730-732 St. Louis Street, Terrebonne, Quebec, J6W 1J6",Terrebonne,450-964-9417,450-964-1234
-24076,,11,Trois-Rivières,"3-245 St-Georges Street, Trois-Rivières, Quebec, G9A 2K1",Trois.Rivieres,819-371-5901,819-371-5912
-24077,,11,Ville-Marie-Le Sud-Ouest-Île-des-Soeurs,"3175 Saint-Jacques Street, Montréal, Quebec, H4C 1G7",Ville.Marie.Le.Sud.Ouest.Ile.des.Soeurs,514-496-4885,514-496-8097
-24078,,11,Vimy,"2500 Daniel-Johnson Boulevard, Suite 405, Laval, Quebec, H7T 2P6",Vimy,450-973-5660,450-973-5661
-47001,,12,Battlefords-Lloydminster,"4304 - 40th Avenue, Suite 3, Lloydminster, Saskatchewan, S9V 2H1",Battlefords.Lloydminster,306-825-5005,
-47002,,12,Cypress Hills-Grasslands,"42A Central Avenue North, Suite 1, Swift Current, Saskatchewan, S9H 0K7",Cypress.Hills.Grasslands,306-778-4480,306-778-6981
-47003,,12,Desnethé-Missinippi-Churchill River,"201 2nd Street West, Unit 13, Meadow Lake, Saskatchewan, S9X 1C7",Desnethe.Missinippi.Churchill.River,844-365-9664,
-47004,,12,Carlton Trail-Eagle Creek,"725 Centennial Drive S., Unit 2-B, Martensville, Saskatchewan, S0K 2T0",Carlton.Trail.Eagle.Creek,306-975-4004,306-975-4051
-47005,,12,Moose Jaw-Lake Centre-Lanigan,"54 Stadacona Street W., Suite 1, Moose Jaw, Saskatchewan, S6H 1Z1",Moose.Jaw.Lake.Centre.Lanigan,306-691-3577,306-391-3579
-47006,,12,Prince Albert,"79 - 11th Street West, Prince Albert, Saskatchewan, S6V 3A8",Prince.Albert,306-953-8622,306-953-8625
-47007,,12,Regina-Lewvan,"6845 Rochdale Boulevard, Regina, Saskatchewan, S4X 2Z2",Regina.Lewvan,306-790-4747,
-47008,,12,Regina-Qu'Appelle,"984 A Albert Street, Regina, Saskatchewan, S4R 2P7",Regina.QuAppelle,306-790-4727,306-790-4728
-47009,,12,Regina-Wascana,"2723 East Quance Street, Regina, Saskatchewan, S4N 7M3",Regina.Wascana,306-585-2202,
-47010,,12,Saskatoon-Grasswood,"2720 - 8th Street East, Suite 5, Saskatoon, Saskatchewan, S7H 0V8",Saskatoon.Grasswood,306-975-6472,306-975-6492
-47011,,12,Saskatoon-University,"350 - 103rd Street East, Suite 104, Saskatoon, Saskatchewan, S7N 1Z1",Saskatoon.University,306-975-6133,306-975-6670
-47012,,12,Saskatoon West,"904E - 22nd Street West, Saskatoon, Saskatchewan, S7M 0S1",Saskatoon.West,306-975-6555,306-975-5786
-47013,,12,Souris-Moose Mountain,"1133 - 4th Street, Suite 302, Estevan, Saskatchewan. S4A 0W6",Souris.Moose.Mountain,306-634-3000,306-634-4835
-47014,,12,Yorkton-Melville,"43 Betts Avenue, Yorkton, Saskatchewan, S3N 1M1",Yorkton.Melville,306-782-3309,306-786-7207
-60001,,13,Yukon,"200-204 Black St, Whitehorse, Yukon, Y1A 2M9",Yukon,867-668-6565,867-668-6570
+riding_id,office_id,riding_name,riding_email,riding_phone,riding_fax,latitude,longitude
+59030,718cf8b1-3fea-4609-b560-3e8414735c4f,South Surrey-White Rock,South-Surrey-White-Rock,604-542-9495,604-542-9496,49.0508018456919,-122.798543179937
+48001,c77876cf-f30f-4b4e-9fcd-d73da6c762c3,Banff-Airdrie,Banff-Airdrie,403-948-5103,403-948-0879,51.4464094249874,-115.509097661507
+48002,fe9c82c9-7f1e-475f-8d58-b51b01420385,Battle River-Crowfoot,Battle-River-Crowfoot,780-608-4600,780-608-4603,52.0760943854793,-111.553688834894
+48003,25a62c68-72da-40f7-b9e9-06aa86647e77,Bow River,Bow-River,844-241-0020,403-793-6778,50.6549009545464,-112.616954183547
+59011,61c410bb-e9af-4721-9975-310db58aee0b,Delta,Delta,778-593-4007,778-593-4008,49.0764925779717,-123.078384225784
+48028,c1eeaa05-7c1f-434d-8f29-243815b52cd5,Peace River-Westlock,Peace-River-Westlock,800-667-8450,780-305-0343,56.1828543159803,-115.760573133856
+59024,2c7d00ae-d9fe-4817-9000-efc45f9b2f8c,Prince George-Peace River-Northern Rockies,Prince-George-Peace-River-Northern-Rockies,250-787-1192,250-787-1195,57.0583063498741,-122.879114617884
+48033,fc89319a-0095-4438-855c-d04694afbcb8,Sturgeon River-Parkland,Sturgeon-River-Parkland,780-823-2050,780-823-2055,53.7478503711659,-113.803729876777
+59019,bb848b74-778d-4f6e-9d86-933750e1edeb,New Westminster-Burnaby,New-Westminster-Burnaby,604-775-5707,604-775-5743,49.2155553681208,-122.924113946294
+59003,53c74adf-11df-4c97-8e9b-5a61fa59014f,Burnaby South,Burnaby-South,604-291-8863,604-666-0727,49.2289157154973,-122.981535821812
+59002,ab13a757-2d99-4d37-9564-dd3f72743eb0,Burnaby North-Seymour,Burnaby-North-Seymour,604-718-8870,604-718-8874,49.3343270781247,-122.952404499022
+48009,d01190f9-d1b2-4d00-a5d4-f14b3fd78cd6,Calgary Nose Hill,Calgary-Nose-Hill,403-216-7777,403-230-4368,51.1372204874172,-114.100348413598
+48012,790a34f0-eadf-4a81-8a80-25929e2eb0e7,Calgary Signal Hill,Calgary-Signal-Hill,403-292-6666,403-292-6670,51.0547392768758,-114.200015698052
+48004,594478ff-576c-4f1f-b4eb-2ded578e1953,Calgary Centre,Calgary-Centre,403-244-1880,403-245-3468,51.022330651118,-114.074919100377
+48007,19cf0348-00a8-4c27-88ce-12ddc896c594,Calgary Heritage,Calgary-Heritage,403-253-7990,403-253-8203,50.9405453592249,-114.125378326298
+48013,68356121-20a2-4b73-8258-b6805816b3fa,Calgary Skyview,Calgary-Skyview,403-291-0018,403-291-9516,51.144095218015,-113.993856523396
+48027,255b6e15-b1ee-4c38-be33-28752d834ba8,Medicine Hat-Cardston-Warner,Medicine-Hat-Cardston-Warner,844-781-9061,403-528-4365,49.6601633829903,-111.329247121162
+59004,2965450f-fc2c-4c69-b57e-2aaf6ea90754,Cariboo-Prince George,Cariboo-Prince-George,250-564-7771,250-564-6224,52.5462938841069,-123.317091414754
+59013,eb2d2944-02cd-4cc9-b824-55d87fedfbf2,Kamloops-Thompson-Cariboo,Kamloops-Thompson-Cariboo,250-851-4991,250-851-4994,51.5591440386578,-120.432674081067
+59005,56eb092d-eae6-4abe-821e-446ba23efa95,Central Okanagan-Similkameen-Nicola,Central-Okanagan-Similkameen-Nicola,800-665-8711,250-707-2153,49.7522106049701,-120.382596098376
+59010,39752009-40d9-43ae-8699-36ae8dcea172,Cowichan-Malahat-Langford,Cowichan-Malahat-Langford,250-746-4896,250-746-2354,48.6913615572746,-124.131380941027
+59006,19fc54c7-dc7b-4ba7-b981-8aa55485d5e3,Chilliwack-Hope,Chilliwack-Hope,604-847-9711,604-847-9744,49.1961972117567,-121.391703706113
+59007,652b3363-d41b-4045-a623-a1dc6f5ed49f,Cloverdale-Langley City,Cloverdale-Langley-City,604-575-6595,604-575-6599,49.1231178845191,-122.717539002293
+48030,fb59053b-4ac7-4d68-bd4a-c37196a3220d,Red Deer-Lacombe,Red-Deer-Lacombe,587-621-0020,587-621-0029,52.5727785810998,-113.814710152595
+59023,635df892-480a-4dc7-9a2a-66071e3dd521,Port Moody-Coquitlam,Port-Moody-Coquitlam,604-664-9229,604-664-9231,49.2984591102416,-122.861284340599
+59008,c6c91dd4-4c18-4ceb-b9b6-1072f325e345,Coquitlam-Port Coquitlam,Coquitlam-Port-Coquitlam,604-927-1080,604-927-1084,49.4308989444808,-122.733411807195
+59034,ccc7de4b-e2b6-49ba-8a21-882af182643c,Vancouver Centre,Vancouver-Centre,604-666-0135,604-666-0114,49.290433143976,-123.135087702304
+59021,e8aee13d-008e-460c-9afb-e82955816d36,North Vancouver,North-Vancouver,604-775-6333,604-775-6332,49.440380442741,-123.016714405072
+59014,7f4c6f79-3f24-47b9-9260-4bbb64646a34,Kelowna-Lake Country,Kelowna-Lake-Country,250-470-5075,250-470-5077,49.9283843453798,-119.248979708182
+59009,6215a696-113f-41ce-ad3b-f1280bddc0e9,Courtenay-Alberni,Courtenay-Alberni,250-947-2140,250-947-2144,49.215692090823,-125.272141639615
+59036,e7eb9bf8-4166-46c7-8bcd-93fe17f0c83d,Vancouver Granville,Vancouver-Granville,604-717-1140,604-717-1144,49.238010552202,-123.129983978441
+59035,1a611032-750f-423f-a0e7-e1c1387481f7,Vancouver East,Vancouver-East,604-775-5800,604-775-5811,49.2768713238663,-123.065272154159
+48021,c578411c-0c6f-47d8-a98c-fdb293026892,Edmonton-Wetaskiwin,Edmonton-Wetaskiwin,780-495-2149,780-495-2147,53.0603592679753,-113.84976034119
+59026,56a57b30-45f8-4182-aa82-cfc07654dda5,Esquimalt-Saanich-Sooke,Esquimalt-Saanich-Sooke,250-405-6550,250-405-6554,48.3604393952967,-123.685910393565
+59012,40064755-0f27-4dc5-b486-c91198fd041a,Fleetwood-Port Kells,Fleetwood-Port-Kells,604-501-5900,604-501-5901,49.1741327602901,-122.75742184129
+48022,f8b6d986-bb99-4700-a60e-fbbc233e1ec3,Foothills,Foothills,403-603-3665,403-603-3669,50.1345827011367,-114.166987993535
+48032,9b12bc13-26d8-4390-9b2e-3000d757d848,Sherwood Park-Fort Saskatchewan,Sherwood-Park-Fort-Saskatchewan,780-467-4944,780-449-1471,53.5728468129596,-113.102088583934
+48023,a062c7eb-d68c-477e-a9c5-e734da7c3b40,Fort McMurray-Cold Lake,Fort-McMurray-Cold-Lake,780-743-2201,,57.3863272606995,-112.143077996644
+59016,d66a3103-36fb-480d-b321-3c313ca107ef,Langley-Aldergrove,Langley-Aldergrove,604-534-5955,604-534-5970,49.0892839230688,-122.545049989267
+48024,22083e09-bcbe-4b22-8fab-d3cfd8e9a226,Grande Prairie-Mackenzie,Grande-Prairie-Mackenzie,780-538-1677,780-538-9257,57.7770688150036,-118.130564877928
+59029,7b1045ab-aa0e-4d73-8443-4590a2f2c551,South Okanagan-West Kootenay,South-Okanagan-West-Kootenay,250-770-4480,,49.5518651829832,-118.366497733147
+59015,ba8a5ce5-886a-48fe-8c57-23f31fb0c275,Kootenay-Columbia,Kootenay-Columbia,250-417-2250,250-417-2253,50.5019622078222,-116.658362968939
+48025,b1537662-3e13-48bc-ada0-9ec3cca67f79,Lakeland,Lakeland,780-657-7075,780-657-7079,54.0113041909416,-111.777878005052
+59018,e4cb0835-3384-42d4-a7ce-dc15475a1e2f,Nanaimo-Ladysmith,Nanaimo-Ladysmith,250-734-6400,250-734-6404,49.1267720655653,-123.992133074424
+59027,45828d30-6ff8-48d1-abfb-e03e160e7e2b,Saanich-Gulf Islands,Saanich-Gulf-Islands,250-657-2000,250-657-2004,48.7828725332333,-123.349309436394
+48026,c4d69727-c243-4c18-a7fe-1479391a176d,Lethbridge,Lethbridge,403-320-0070,403-380-4026,49.8437671075108,-112.767591873951
+59020,2a197e6c-4c70-4327-99e8-eab026806c53,North Okanagan-Shuswap,North-Okanagan-Shuswap,250-260-5020,250-260-5025,50.5891309000022,-118.814814273372
+59017,8c2feb47-7a70-4269-abe2-744068c6c523,Mission-Matsqui-Fraser Canyon,Mission-Matsqui-Fraser-Canyon,604-814-5710,604-814-5714,50.279395379796,-122.027427530311
+48029,e5257964-5da0-4c6b-8b4a-cf33ba327a15,Red Deer-Mountain View,Red-Deer-Mountain-View,403-347-7426,403-347-7423,51.895952761061,-114.021013427137
+59033,71c34a20-c050-4988-8c00-dc63132ef8ac,Surrey-Newton,Surrey-Newton,604-598-2200,604-598-2212,49.1351820211783,-122.856537345848
+48034,7ef83477-590a-45b1-8020-00951ac75cce,Yellowhead,Yellowhead,780-723-6068,780-723-5060,53.2353322017652,-116.938051300874
+59028,dab38cd9-50d0-4fc4-a925-c5378637c8c2,Skeena-Bulkley Valley,Skeena-Bulkley-Valley,250-615-5339,250-615-5344,56.0728903974684,-129.377647074944
+59022,efe855e8-11ea-4df3-8032-27bce4490c9f,Pitt Meadows-Maple Ridge,Pitt-Meadows-Maple-Ridge,604-466-2761,604-466-7593,49.561047688177,-122.543982744746
+59031,97e1007c-20f5-4b2b-b76f-76c6204ac4e8,Steveston-Richmond East,Steveston-Richmond-East,604-257-2900,604-257-2904,49.1083730594971,-123.219932340422
+10001,0a27183d-f6e8-4f9c-b337-dd9cd554f1b6,Avalon,Avalon,709-834-3424,709-834-3628,47.107650029131,-53.4337643533218
+35005,bfa8eef6-2d4f-4587-83d5-5c35ca7f8787,Barrie-Springwater-Oro-Medonte,Barrie-Springwater-Oro-Medonte,705-728-2596,705-728-9465,44.5070230778358,-79.7419676660001
+35004,a8b1be6c-082b-4466-a348-de940873062e,Barrie-Innisfil,Barrieâ€”Innisfil,705-726-5959,705-726-3340,44.2928852464547,-79.6168364124645
+35007,646d7166-651d-4902-b72e-0c2326f03a08,Beaches-East York,Beaches-East-York,416-467-0860,416-467-0905,43.687360539496,-79.3064539984582
+35006,6659b50b-e22b-48fa-87bb-0b2c06fc31d0,Bay of Quinte,Bay-of-Quinte,613-969-3300,613-969-3313,44.0166111502364,-77.2090463155895
+13002,a99986cd-af7a-4f4e-9363-3f37f95bb9e6,Beausejour,Beausejour,506-533-5700,506-533-5888,46.2467412543789,-64.5500263801469
+10002,3df83e8d-f9aa-4d63-a359-ac7ad44b2751,Bonavista-Burin-Trinity,Bonavista-Burin-Trinity,709-466-6502,709-466-6506,48.1214864030463,-54.149561046249
+35010,987c4f04-c5df-4e4c-91fc-d7e73623dcbb,Brampton North,Brampton-North,905-840-0505,905-840-1778,43.7389785793057,-79.7763029099341
+35008,080d3e67-2489-47b5-ab2f-414c21587231,Brampton Centre,Brampton-Centre,905-790-9211,905-790-9507,43.7006343050975,-79.7204151634283
+35013,2c114a4f-66f2-4fe9-8aae-069a8dd26fa5,Brantford-Brant,Brantford-Brant,519-754-4300,519-751-8177,43.1143027504333,-80.2360118267713
+35014,54c7787f-c80e-471a-89c5-fe88164e8aa6,Bruce-Grey-Owen Sound,Bruce-Grey-Owen-Sound,519-371-1059,519-371-1752,44.6971634497551,-80.9802415859803
+35019,f22a579b-bd69-454c-99ab-58c89a3b76ec,Don Valley East,Don-Valley-East,416-443-0343,416-443-1393,43.7397179711656,-79.3329711582613
+35020,93696d80-b903-40e6-b0b5-82c087b1f6cd,Don Valley North,Don-Valley-North,416-443-0623,416-443-9819,43.7876106099931,-79.3600166432927
+35021,44c7b534-be58-48d7-8d39-47fb3fd6c144,Don Valley West,Don-Valley-West,416-467-7275,416-467-8550,43.7284031818318,-79.3753619407194
+46006,cd276668-455c-4c4b-acd5-0ddddcc4d581,Kildonan-St- Paul,Kildonan-St-Paul,204-984-6322,204-984-6415,49.9929555579942,-97.0874697924544
+59037,e189b768-618f-4728-840b-25f4768fb276,North Island-Powell River,North-Island-Powell-River,250-287-9388,250-287-9361,50.6856554556188,-126.325717177933
+13007,e9cb4116-c0fb-4648-96d7-7a8fbd931dcb,Moncton-Riverview-Dieppe,Moncton-Riverview-Dieppe,506-851-3310,506-851-3273,46.1111946702559,-64.8090195461555
+46004,888e9b24-9c28-4dcf-8f52-17b301cda06c,Dauphin-Swan River-Neepawa,Dauphin-Swan-River-Neepawa,877-405-8946,,51.2772659277025,-100.292904039829
+35015,f3b35fe6-49c8-4d26-a301-033c80c8a545,Burlington,Burlington,905-639-5757,905-639-6031,43.339490344812,-79.8177835249931
+35016,75413d50-597c-4e85-a6b9-6ea1e5798c6a,Cambridge,Cambridge,519-624-7440,519-624-3517,43.3223941688157,-80.349233936856
+12001,40c7940a-dcc6-47ac-9ec9-aa079ba9e6b3,Cape Breton-Canso,Cape-Breton-Canso,902-842-9763,,45.7721637121082,-61.0049758479714
+10003,74e31901-ebf1-41af-b50e-9d92708c4ece,Coast of Bays-Central-Notre Dame,Coast-of-Bays-Central-Notre-Dame,709-489-8470,709-489-8478,48.8281761413852,-55.7469325261722
+12002,90fdc542-293e-4c74-bf9e-6283b1e157dd,Central Nova,Central-Nova,844-641-5886,902-752-0284,45.2916190630877,-62.5474874905196
+46002,1a8e23af-7c49-49d4-8d6f-f95538d4044b,Charleswood-St- James-Assiniboia-Headingley,Charleswood-St-James-Assiniboia-Headingley,204-984-6432,204-984-6451,49.8679128786218,-97.3387638892515
+46003,d710ad80-bfc3-495f-bb70-5a312b257813,Churchill-Keewatinook Aski,Churchill-Keewatinook-Aski,204-677-1333,204-677-1339,55.9434555047191,-97.090960140478
+13006,3032ab2e-0262-4bc9-9696-bd3e3d78eef6,Miramichi-Grand Lake,Miramichi-Grand-Lake,506-778-8448,506-778-8150,46.8408990550119,-65.8649001248563
+59039,ff537cc9-f564-465a-a78f-4e37d33d7cf4,Vancouver Quadra,Vancouver-Quadra,604-664-9220,604-664-9221,49.256119645382,-123.212653645496
+59040,3f6cf285-7901-4ba2-8037-2e1459911db7,Vancouver South,Vancouver-South,604-775-5323,604-775-5420,49.2187083251781,-123.0694497121
+12003,c59157e3-5767-481d-bdd6-d0ed49d89ed8,Cumberland-Colchester,Cumberland-Colchester,902-895-2863,902-895-9544,45.5693995410174,-63.822272596269
+12004,a4e08e46-e4e4-41cb-b760-5e778de63674,Dartmouth-Cole Harbour,Dartmouth-Cole-Harbour,902-462-6453,902-462-6493,44.682785260607,-63.5478477666963
+35018,88e93023-7cb5-4dff-8410-7aea8f0f7094,Davenport,Davenport,416-654-8048,416-654-5083,43.6693786780621,-79.4440448771724
+46005,6ef6b8e4-834f-4fe2-a1fc-b3c9b3dd3f5c,Elmwood-Transcona,Elmwood-Transcona,204-984-2499,204-984-2502,49.9044842814911,-97.0374753452808
+13003,3df0fb09-4bd8-4f14-85a7-f9601bba224a,Fredericton,Fredericton,506-452-4110,506-452-4076,45.9668169103579,-66.3482866703721
+13004,9cfd96aa-f6ed-42f5-bf9e-90dd52a37afb,Fundy Royal,Fundy-Royal,506-832-4200,506-832-4235,45.7780234512585,-65.3352401669624
+12006,2c7df8cc-bde4-41cb-8166-f10b7a39fbe8,Halifax West,Halifax-West,902-426-2217,902-426-8339,44.7249737630759,-63.7485050433947
+12005,29a64329-e15a-4599-aeff-ec84ea0d1ffd,Halifax,Halifax,902-426-8691,902-426-8693,44.2460130943008,-61.7705132274014
+12007,3b8bb378-6212-4a20-add8-9dd390793d1c,Kings-Hants,Kings-Hants,902-542-4010,902-542-4184,45.0882412042773,-64.0638534952657
+10004,e787e817-3ca9-4c78-bac2-1f269903c340,Labrador,Labrador,709-896-2483,709-896-9425,54.4661253307303,-61.6123251566005
+46010,5ff223ee-8560-4aec-b5d8-3e0c3f9b7b86,Selkirk-Interlake-Eastman,Selkirk-Interlake-Eastman,204-785-6151,204-785-6153,50.6967843026604,-97.3885852870946
+10005,21a05664-0fe9-4bb1-8f33-1e0dbc4cdf31,Long Range Mountains,Long-Range-Mountains,709-637-4540,709-637-4537,49.4557413206124,-57.3840477849061
+13005,e483f7b4-9384-4286-ba67-147457ca2ba6,Madawaska-Restigouche,Madawaska-Restigouche,506-684-6267,506-789-4595,47.6565211889364,-67.3475555386734
+10007,53de5983-f515-411d-bb3e-5ad217f0ee04,St- John's South-Mount Pearl,St-Johns-South-Mount-Pearl,709-772-4608,709-772-4776,47.4296529150191,-52.773174060605
+13008,82fc5928-c8b8-45a1-bb1d-60d6232258e5,New Brunswick Southwest,New-Brunswick-Southwest,888-350-4734,506-466-2813,45.4604727028677,-66.6729196242278
+61001,0260d02d-8810-4068-8263-a479a94de1c5,Northwest Territories,Northwest-Territories,867-873-6995,867-920-4233,73.1578237624081,-123.36307087698
+62001,614ab019-919e-4e3e-9f23-f105a1077cb5,Nunavut,Nunavut,866-267-7701,,72.9693355301339,-89.3369005830646
+46011,6196ea40-7a63-458f-814e-e1a25701a0a3,Winnipeg Centre,Winnipeg-Centre,204-984-1675,204-984-1676,49.8996464161988,-97.1804768040182
+46008,385e9aad-ae94-4a61-ae1f-95988e022c81,Provencher,Provencher,204-326-9889,204-346-9874,49.5592561765028,-96.1216865696048
+12011,53728d29-b8ed-41b0-8f23-889a3823a463,West Nova,West-Nova,902-742-6808,,44.3550262798466,-65.5887154316617
+12010,3f2f87ed-274c-4e20-be85-440fe7fd1bf8,Sydney-Victoria,Sydney-Victoria,902-567-6275,902-564-2479,46.4560559877478,-60.5743143816872
+12009,8ddf10e2-9118-4ca4-8424-9c014a151f7a,South Shore-St- Margarets,South-Shore-St-Margarets,902-527-5655,902-527-5656,44.1686583901415,-64.8319974695804
+46009,b69bddaf-68b5-4960-b30f-df945ddb876d,Saint Boniface-Saint Vital,Saint-Boniface-Saint-Vital,204-983-3183,204-983-4274,49.851578181591,-97.0755543738368
+35040,cc247c3c-81ae-40a5-82ef-73efe1986c6f,Huron-Bruce,Huron-Bruce,519-524-6560,519-612-1141,43.8777443462058,-81.418453051488
+35022,2aa53cf3-cee9-4ad0-912f-59d01656316b,Dufferin-Caledon,Dufferin-Caledon,519-941-1832,519-941-8660,43.9827974194166,-80.1074030784444
+35051,26b684ac-1c0d-46ff-ae94-77e6e8e032ad,London-Fanshawe,London-Fanshawe,519-685-4745,519-685-1462,42.9925995782713,-81.1807927093551
+35023,77927643-a78b-4b2b-920f-2e876c3dc1f1,Durham,Durham,905-697-1699,905-697-1678,44.0574819323062,-78.8591708741032
+35073,abcd44ed-3a7b-450f-8773-b39bdf6a48c0,Oakville North-Burlington,Oakville-North-Burlington,905-847-4043,905-847-3037,43.4456462209388,-79.7681598409065
+35034,dcd65491-803a-41da-bf82-6e7acd7b09be,Haliburton-Kawartha Lakes-Brock,Haliburton-Kawartha-Lakes-Brock,705-324-2400,705-324-0880,44.8277573656703,-78.6593924728603
+35041,f6cad2a6-d8a0-4871-8187-e18e60a643b3,Kanata-Carleton,Kanata-Carleton,613-592-3469,613-592-4756,45.3710495085017,-76.0970712457037
+35093,639509f3-9e3b-4b96-a88d-641d3f540418,Scarborough-Agincourt,Scarborough-Agincourt,416-321-5454,416-321-5456,43.7964887957738,-79.308115098959
+35026,7e13462b-1478-4df3-805d-ef0d9a6465d6,Essex,Essex,519-776-4700,519-776-1383,42.0906354264903,-82.8473706014891
+35024,f4fe5bb5-c899-419d-a993-3322f826b62a,Eglinton-Lawrence,Eglinton-Lawrence,416-781-5583,416-781-5586,43.7183112223608,-79.4338321241988
+35028,b0aac066-e2c0-47c5-be90-d6d051e4d48c,Etobicoke-Lakeshore,Etobicoke-Lakeshore,416-251-5510,416-251-2845,43.6148954839656,-79.5181087185738
+35027,53f898dd-1dfc-4cdc-bcf8-45a903530dec,Etobicoke Centre,Etobicoke-Centre,416-249-7322,416-249-6117,43.6644141407361,-79.5525376785171
+35030,41a18a63-d371-4149-a9af-f8a5358f2eca,Flamborough-Glanbrook,Flamborough-Glanbrook,905-648-3850,905-648-3898,43.2573327525822,-79.983968577507
+35080,e5c3131f-494d-46fd-b9b1-159856d0ff92,Oxford,Oxford,519-421-7214,519-421-9704,43.106486406756,-80.7450557833091
+35086,413e8a4f-fb49-4351-9cb1-072b6d97ebcf,Renfrew-Nipissing-Pembroke,Renfrew-Nipissing-Pembroke,613-732-4404,613-732-4697,45.6798464292451,-77.5451811932169
+35031,93a515d2-9527-41bc-947f-079cdce41aa5,Glengarry-Prescott-Russell,Glengarry-Prescott-Russell,613-446-6310,613-446-5666,45.430260365989,-74.9320641368353
+35032,75e73da3-520c-4878-b539-e065ab151a4e,Guelph,Guelph,519-837-8276,519-837-8443,43.5327776181942,-80.2369350298618
+35046,b94264cc-6df4-4342-959a-218bfde122d8,Kitchener-Conestoga,Kitchener-Conestoga,519-578-3777,519-578-0138,43.5016633617894,-80.6122632897605
+35033,5dca4d5d-4bca-4b8e-9221-f9efe01ea727,Haldimand-Norfolk,Haldimand-Norfolk,866-496-3400,519-426-0003,42.7981597384136,-80.1520161910247
+35055,d6fdd91d-5e83-4a7c-bacc-6390c1e21331,Markham-Thornhill,Markham-Thornhill,905-479-8100,905-479-3440,43.8346545535427,-79.3210314705258
+35039,3a7145f8-fa78-4dd3-8dc5-4698bd1824d4,Hastings-Lennox and Addington,Hastings-Lennox-and-Addington,866-471-3800,613-969-8835,44.7071791497893,-77.4020764403618
+35048,a078588c-a716-4a80-8d55-08aa06431f89,Lambton-Kent-Middlesex,Lambton-Kent--Middlesex,519-245-6561,,42.8595148206749,-81.894208059828
+35043,20e8dd6d-0ec8-4762-a06b-a32b5379ea8a,King-Vaughan,King-Vaughan,905-303-5000,905-303-5002,43.9310075044718,-79.6038861543311
+35049,dbf492e1-af59-48d9-b70d-57d8727c9b0b,Lanark-Frontenac-Kingston,Lanark-Frontenac-Kingston,613-257-8130,613-257-4371,44.8645662594272,-76.5563158353971
+35044,9692ac66-cada-4dfc-8623-a8eb41decdc7,Kingston and the Islands,Kingston-and-the-Islands,613-542-3243,613-542-5461,44.2106966053865,-76.4220318716539
+35045,58aad5e8-4d3c-4e8f-a3a3-6e8e88e6a58f,Kitchener Centre,Kitchener-Centre,519-741-2001,519-579-2404,43.4486822972109,-80.4706853344602
+35050,7be9ae00-af8d-406b-b9a3-a46379412040,Leeds-Grenville-Thousand Islands and Rideau Lakes,Leeds-Grenville-Thousand-Islands-and-Rideau-Lakes,866-498-3096,613-498-3100,44.6852992882973,-75.9191455637413
+35061,4c99dd04-a6a1-4aa7-a00f-f8ed8b71200b,Mississauga-Lakeshore,Mississauga-Lakeshore,905-273-8033,905-273-5040,43.5408261265485,-79.5995831740433
+35071,c0e03c11-061a-4ffc-8723-70b543779b54,Northumberland-Peterborough South,Northumberland-Peterborough-South,905-372-8757,905-372-1500,44.1305509884837,-78.0942058216207
+35091,fb969b30-bd0e-4369-bf4f-7df29611470a,Sarnia-Lambton,Sarnia-Lambton,519-383-6600,519-383-0609,42.8954149804495,-82.2488017946176
+35062,7255144f-5f94-4e42-8330-2111bdc863f5,Mississauga-Malton,Mississauga-Malton,905-564-0228,905-564-1147,43.657663787227,-79.6577510264103
+35058,a0a6bdc6-89ce-4b49-bcaa-8eb66b47f616,Mississauga Centre,Mississauga-Centre,905-848-8595,905-848-2712,43.5808985722578,-79.6593381676496
+35060,d0cf08a9-65cb-4e9c-b30b-6a6036f683df,Mississauga-Erin Mills,Mississauga-Erin-Mills,905-820-8814,905-820-4068,43.545311605358,-79.7082165863622
+35057,a4f27be1-0b28-49b7-9773-2696bd32c14d,Milton,Milton,905-693-0166,905-693-0704,43.4995144526657,-79.9338651974735
+35070,bd31c8f8-689c-4292-a5a2-c82cd23d229e,Nipissing-Timiskaming,Nipissing-Timiskaming,705-474-3700,705-474-6964,46.4779474054798,-79.3365463840234
+35072,741de480-85f5-4595-9711-b2498c164310,Oakville,Oakville,905-338-2008,905-338-5432,43.4437007954164,-79.6947672587673
+35065,e50195a2-e881-4cae-982d-907869e5600c,Newmarket-Aurora,Newmarket-Aurora,905-953-7515,905-953-7527,44.0401422094102,-79.4588029562429
+35079,d53542eb-41c4-47a6-92d4-3983cbfe0c52,Ottawa West-Nepean,Ottawa-West-Nepean,613-990-7720,613-993-6501,45.3614155700001,-75.8274808423608
+35064,8c2e8288-fde3-4a93-88ac-f5f2ad5ed3d8,Nepean,Nepean,613-825-5505,613-825-2055,45.2722179712971,-75.7768764894557
+35067,c772ab97-fdb6-4e6c-b92b-74c4fd9b6363,Niagara Falls,Niagara-Falls,905-353-9590,905-353-9588,43.0058695756595,-79.0710480502475
+35068,3fd72e02-4acf-4623-9fa3-e3d852f177f9,Niagara West,Niagara-West,905-563-7900,905-563-7500,43.038544482924,-79.4554936181036
+35066,bb9fdda6-e8dc-4200-b0bf-5ea769371de5,Niagara Centre,Niagara-Centre,905-788-2204,905-788-0071,42.9280723929693,-79.2090646209565
+35069,9abce339-248b-4b6e-a664-b8f38892264b,Nickel Belt,Nickel-Belt,705-897-2222,705-897-2223,47.0142726276843,-81.2713710014875
+35075,e25a86ed-f543-487c-bf06-44f23da285aa,Ottawa Centre,Ottawa-Centre,613-946-8682,613-946-8680,45.3951171719391,-75.719012365718
+35078,76675dde-2892-42ad-b636-693bd3c2440a,Ottawa-Vanier,Ottawa-Vanier,613-998-1860,613-947-7963,45.4442414492354,-75.6381891612823
+35077,c3b8f6b0-ca3e-476f-8cdb-d12b1ba07afd,Ottawa South,Ottawa-South,613-990-8640,613-990-2592,45.3668558704456,-75.6488477347664
+35074,219cd3d2-6c9c-44ad-aabd-1f49bdfe6b53,Oshawa,Oshawa,905-440-4868,905-440-4872,43.885056113582,-78.8486617089239
+35085,169e189e-2d81-4aa8-a043-b09e42996e02,Pickering-Uxbridge,Pickering-Uxbridge,905-839-2878,905-839-2423,44.0437695971755,-79.1617626598061
+35089,52eaaa05-ceb8-429a-a6d3-6803ad1fd8b5,St-Catharines,St-Catharines,905-934-6767,905-934-1577,43.1936130485046,-79.241940490988
+24003,83ca4289-788e-4496-a972-990930d80acc,Ahuntsic-Cartierville,Ahuntsic-Cartierville,514-383-3709,514-383-3589,45.5411531579602,-73.6832129750033
+24006,99a83555-cd57-4830-a412-b4ebc32e39d9,Avignon-La-Mitis-Matane-Matapedia,Avignon-La-Mitis-Matane-Matapedia,418-629-6456,418-629-1204,48.5051332537232,-67.2385433839258
+24007,1a634fef-6ed7-40e0-b94e-8ace455ef672,Beauce,Beauce,418-387-4224,418-387-8124,46.1576178045224,-70.7339953456802
+24009,a575334e-9db7-482b-931d-3cdebd71ce2f,Becancour-Nicolet-Saurel,Becancour-Nicolet-Saurel,450-742-0479,450-742-1976,46.1922337455577,-72.5138342646247
+24011,177d5c75-d985-4650-825a-cf542b29c321,Beloeil-Chambly,Beloeil-Chambly,450-658-0088,450-658-0885,45.4802531785304,-73.207866288862
+24010,3668196d-e4b4-4821-8efd-a6bc853bd4f0,Bellechasse-Les-Etchemins-Levis,Bellechasse-Les-Etchemins-Levis,418-830-0500,418-830-0504,46.5879937318257,-70.6075973224258
+24015,a426e11f-a3b2-4326-8273-66085dd5f89f,Bourassa,Bourassa,514-323-1212,514-323-2875,45.5988826094479,-73.6342639374741
+24017,4f0344b9-b218-4bc6-b8e5-1e19c79825f9,Brossard-Saint-Lambert,Brossard-Saint-Lambert,450-466-6872,450-466-9822,45.4543933301652,-73.4634774374302
+24016,b5803780-e0d4-43da-88f7-470a5cfa0fb7,Brome-Missisquoi,Brome-Missisquoi,819-868-1305,819-868-5609,45.1778589029736,-72.6516211896978
+24024,8e137363-44a7-4c79-8d8b-7543e49a872c,Dorval-Lachine-LaSalle,Dorval-Lachine-LaSalle,514-639-4497,514-639-7407,45.4448576827798,-73.7074457173342
+24025,de806058-916b-47ec-bb0d-b1d0330cfc58,Drummond,Drummond,819-477-3611,819-477-7116,45.8576470444268,-72.4707412149442
+35105,b9031579-9517-4594-b41b-83d853b110bb,Thunder Bay-Rainy River,Thunder-Bay-Rainy-River,807-625-1160,807-625-1164,48.8246186366543,-91.4036001218269
+35121,7edeefad-946f-49c7-8066-9f3855231626,Humber River-Black Creek,Humber-River-Black-Creek,416-744-1882,416-952-1696,43.7507497627839,-79.5301925313894
+35103,08ab1b12-ad09-4186-810b-d2c33cbecc3e,Sudbury,Sudbury,705-673-7107,705-673-0944,46.4065968464307,-81.2944353124599
+35096,f149e9ae-1460-4f86-9734-0ef517c070c4,Scarborough North,Scarborough-North,416-321-2436,416-298-6035,43.8096516196731,-79.2546580818733
+35095,903728da-ba42-4b74-895b-d2359357578e,Scarborough-Guildwood,Scarborough-Guildwood,416-283-1226,416-283-7935,43.765335907564,-79.2142924322864
+35098,02d8cfdc-65a0-4485-9deb-4606d706b060,Scarborough Southwest,Scarborough-Southwest,416-261-8613,416-261-5268,43.712605017821,-79.2582287216541
+35097,36c9099e-b2b4-4e20-b345-00e78ce410ac,Scarborough-Rouge Park,Scarborough-Rouge-Park,416-283-1414,416-283-5012,43.8052262676786,-79.1763910535248
+24021,3035eea8-3237-48ce-8a54-0853c6fa9c61,Chateauguay-Lacolle,Chateauguay-Lacolle,450-691-7044,450-691-3114,45.2136516691579,-73.5925310838344
+24019,0c610c11-6f89-4b61-bace-7c31ec3fd703,Charlesbourg-Haute-Saint-Charles,Charlesbourg-Haute-Saint-Charles,418-624-0022,418-624-1095,46.9051802422565,-71.3328821648224
+24022,86374eb3-fa47-4ba5-9e3f-b553c7aa0efb,Chicoutimi-Le Fjord,Chicoutimi-Le-Fjord,418-698-5648,418-698-5611,48.2034823929317,-70.545526443128
+24023,192f9f0a-5ce8-4a2f-bafc-4267d83b4c82,Compton-Stanstead,Compton-Stanstead,819-347-2598,819-347-3583,45.3456763159134,-71.6552170180379
+24018,ea12076c-8456-4807-831d-89cf3de3d9b1,Rimouski-Neigette-Temiscouata-Les-Basques,Rimouski-Neigette-Temiscouata-Les-Basques,418-725-2562,418-725-3993,47.9610440301536,-68.7528580969521
+35116,b45b5627-4d7f-4719-b2de-f5a1eee9288f,Windsor-Tecumseh,Windsor-Tecumseh,519-979-2707,519-979-7747,42.2671345276751,-82.9274381990997
+11003,ca2a2393-8b1d-4248-bfee-d1aece2a908f,Egmont,Egmont,800-224-0018,902-432-6853,46.6618715967181,-64.0667622332108
+35101,da2b0225-df8b-419c-8c48-71694735924c,Spadina-Fort York,Spadina-Fort-York,416-533-2710,416-533-2236,43.634438710169,-79.3864738295402
+35109,62948a6a-1493-4fec-8f0d-a0d2fddabcba,Toronto-Danforth,Toronto-Danforth,416-405-8914,416-405-8916,43.6606657023191,-79.3380472291679
+24026,0736992f-48df-4aac-a797-eb40253ea216,Gaspesie-Les-Iles-de-la-Madeleine,Gaspesie-Les-Iles-de-la-Madeleine,418-385-4264,418-385-4276,48.6076508583506,-65.1036620521531
+24027,b67a54cc-40cb-4e0b-b86f-fdbd17515166,Gatineau,Gatineau,819-561-5555,819-561-0005,45.5095384632404,-75.6228459524917
+35113,97d07c2f-74f9-4aa5-92a3-48e84ff8313a,Wellington-Halton Hills,Wellington-Halton-Hills,519-843-7344,519-843-3760,43.6467283358652,-80.1925713526422
+24030,07169062-a24e-4fcf-9d2e-20ac1f0ae722,Hull-Aylmer,Hull-Aylmer,819-994-8844,819-994-8557,45.4237220569734,-75.7853317044928
+24029,0db6b470-93df-49b9-909c-8e66143fc196,Honore-Mercier,Honore-Mercier,514-353-5044,514-353-3050,45.6392903625571,-73.5648469334084
+24032,573112bd-0594-455b-b036-9867561d1011,Jonquiere,Jonquiere,418-695-4477,418-695-4467,50.2171024463541,-70.6910962947153
+24038,10c2989e-ab99-4246-a2cd-d600fcebc46f,Laurentides-Labelle,Laurentides-Labelle,819-440-3091,819-440-3095,46.7787562151152,-75.0842564788015
+24036,631d5fbc-e0a5-443b-a092-f0461957eb7d,Lac-Saint-Louis,Lac-Saint-Louis,514-695-6661,514-695-3708,45.4386344653089,-73.8789593146296
+24035,e39a272a-6583-4957-a4eb-cda52adc1035,Lac-Saint-Jean,Lac-Saint-Jean,418-669-0013,418-669-0048,49.5399936017989,-72.5566890551627
+24037,1fe14a27-b3e7-4c29-941a-62965133cd23,LaSalle-Emard-Verdun,LaSalle-Emard-Verdun,514-363-0954,514-367-5533,45.438214092145,-73.581998302179
+24033,db7b854b-62b4-4c91-a994-84137ea47587,La-Pointe-de-lIle,La-Pointe-de-lIle,514-645-0101,514-645-0032,45.6374481443658,-73.5133755641609
+24013,c982d14a-fe17-4c04-a62f-b13968603881,Therese-De-Blainville,Therese-De-Blainville,450-965-1188,450-965-3221,45.6770819350615,-73.8415032177363
+11004,0270117d-1c03-4e41-bd97-efca867acdbc,Malpeque,Malpeque,800-442-4050,902-964-3242,46.310631965017,-63.4437791096573
+35100,c197db8e-f5f3-4167-a6c6-0d11f08cf736,Simcoe North,Simcoe-North,705-527-7654,705-527-7668,44.7119581146073,-79.7536222304719
+35106,17556550-5a41-45ad-9f52-ddb857de29dc,Thunder Bay-Superior North,Thunder-Bay-Superior-North,807-766-2090,807-766-2094,49.7925203612124,-87.9348093294445
+35117,5ac024ed-358c-4949-8edb-cdbdefffd0e2,Windsor West,Windsor-West,519-255-1631,519-255-7913,42.2782235104546,-83.0307961447737
+35118,fde6b710-f097-44c8-b992-3ed956f7fbe5,York Centre,York-Centre,416-638-3700,416-638-1407,43.7525519347534,-79.4677712350555
+35120,4ed5abca-7ec3-4db9-aa3c-658df029d401,York South-Weston,York South-Weston,416-656-2526,416-656-9908,43.6949394149079,-79.4933400977397
+35119,39b12281-b9df-46bd-8e90-5756ad18b78a,York-Simcoe,York-Simcoe,905-898-1600,905-898-4600,44.2372126463409,-79.4231394583294
+35114,32da1555-0ba5-44ff-a20c-020e8aa68b44,Whitby,Whitby,905-665-8182,905-665-8124,43.9330847980975,-78.965249239622
+35112,21496af5-63a5-4c8d-889f-6ef77f19c5ce,Waterloo,Waterloo,519-746-1573,519-746-6436,43.4804034292713,-80.5351930531598
+35108,eef3c73e-272e-45a0-a273-586c25638041,Toronto Centre,Toronto-Centre,416-972-9749,416-972-9891,43.660126844822,-79.3700543558964
+35107,707fbf77-bf79-436f-a802-67da44772c7c,Timmins-James Bay,Timmins-James-Bay,705-268-6464,705-268-6460,51.8040233248139,-83.3271089016807
+35104,6bccb3bb-50bc-4e9f-bd2d-082b4a6714c3,Thornhill,Thornhill,905-886-9911,905-886-5267,43.8117551477229,-79.4778259595008
+35099,c7e5ce79-33c1-4102-b879-487e6718574a,Simcoe-Grey,Simcoe-Grey,705-435-1809,705-435-6448,44.4054175831639,-80.1256020723562
+24059,9147bf23-a5ea-45fd-8bf8-b8a060f65edb,Quebec,Quebec,418-523-6666,418-523-6672,46.8089875722938,-71.2647427981647
+1,11111111-1111-1111-1111-111111111111,National - No Specific Riding,,,,45.4248281024925,-75.699652872698
+11001,1fa3d446-c354-425e-80f3-3a9355d89af9,Cardigan,Cardigan,902-838-4139,902-838-3790,46.2058112315214,-62.6482947439963
+11002,5aeccc01-3896-44e7-bd80-56124ac58a4e,Charlottetown,Charlottetown,902-566-7770,902-566-7780,46.265844613835704,-63.1351007619004
+59001,e24a57fa-6376-4d0c-963c-311d48ad5486,Abbotsford,Abbotsford,604-557-7888,604-557-9918,49.042905323612,-122.217845469036
+13001,8f2fcada-66a0-4443-84f0-33965e8c68cf,Acadie-Bathurst,Acadie-Bathurst,800-992-5699,800-992-5699,47.6264076262129,-65.4098345553796
+35002,e32a1730-4fec-4463-a94f-0df4c777146c,Algoma-Manitoulin-Kapuskasing,Algoma-Manitoulin-Kapuskasing,705-848-8080,705-848-1818,48.0404565052791,-83.614841691908
+24005,0589a904-272d-4a67-a859-1fff0513c30e,Argenteuil-La Petite-Nation,Argenteuil-La-Petite-Nation,450-562-0737,450-562-2527,45.8126371683269,-74.9650805202529
+24001,0afecc67-c61d-404c-8ec2-cf6d0bd677e7,Abitibi-Baie-James-Nunavik-Eeyou,Abitibi-Baie-James-Nunavik-Eeyou,819-824-2942,819-824-2958,55.8079276938397,-73.0991674503273
+35001,c74b0fda-7d8a-468a-9f15-b97852c75c82,Ajax,Ajax,905-426-6808,905-426-9564,43.8690701895349,-79.0275655471477
+24004,7f10e960-edbf-4741-9fe8-f6bc80a74e99,Alfred-Pellan,Alfred-Pellan,450-661-4117,450-661-5623,45.6477436358083,-73.6597476296938
+24002,44c39758-910d-4faa-ab43-11e171bc8886,Abitibi-Temiscamingue,Abitibi-Temiscamingue,800-567-6433,819-762-8732,47.799191837677,-78.5337754592963
+35003,6ab9d619-1b90-4342-bfcd-f78a08b8bf2d,Aurora-Oak Ridges-Richmond Hill,Aurora-Oak-Ridges-Richmond-Hill,905-773-8358,905-773-8374,43.9467897523672,-79.4350158759187
+47001,0fdf244e-c833-4a87-9a07-e199c89b3548,Battlefords-Lloydminster,Battlefords-Lloydminster,306-825-5005,,52.7481165160386,-109.037401850394
+24076,a6ff51b6-9bcc-49ac-9f6c-df9cc84176c4,Trois-Rivieres,Trois-Rivieres,819-371-5901,819-371-5912,46.3572278992742,-72.6100008222438
+24050,6aa84909-c94d-4b0b-b271-11b9a1396074,Montcalm,Montcalm,800-263-5726,450-474-1585,45.9002399274513,-73.6794077738084
+24058,a13169d4-8301-4861-91a4-00472ad5a601,Portneuf-Jacques-Cartier,Portneuf-Jacques-Cartier,418-870-1571,418-870-1577,47.1221233557114,-71.8652239225242
+47004,8f722d1c-7917-40a0-9c38-6ce3b11538b6,Carlton Trail-Eagle Creek,Carlton-Trail-Eagle-Creek,306-975-4004,306-975-4051,52.2839651550776,-106.960537313331
+24041,23873bc1-923e-457d-9453-47b23627b58a,Longueuil-Charles-LeMoyne,Longueuil-Charles-LeMoyne,450-671-1222,450-671-8884,45.488781255456,-73.4494874903628
+24070,1a032205-5ad5-4049-9398-4e12a56d1b55,Saint-Maurice-Champlain,Saint-Maurice-Champlain,819-538-5291,819-538-7624,47.8146377535004,-73.8115530828261
+24046,2a350c76-fffa-466f-91d8-a432bb77e3e3,Manicouagan,Manicouagan,418-589-0573,581-508-0124,51.2974508351782,-65.4147054491979
+47002,bc5f67e0-3c28-4653-ab32-1d398a2c6621,Cypress Hills-Grasslands,Cypress-Hills-Grasslands,306-778-4480,306-778-6981,50.158644474971,-108.009192876926
+24072,27f45453-0d70-463d-a2f9-548b62d583ba,Shefford,Shefford,450-378-3221,450-378-3380,45.4286882502958,-72.6294293812877
+24065,f11e5fe0-b841-4a88-90e7-14cc81cc9e9d,Marc-Aurele-Fortin,Marc-Aurele-Fortin,450-622-2992,450-622-3003,45.6013878399976,-73.7761965649542
+47010,524a1c23-3814-4ed5-b664-b0ba8f23b5ca,Saskatoon-Grasswood,Saskatoon-Grasswood,306-975-6472,306-975-6492,52.047374282601,-106.570569879562
+24053,fedd9065-7231-4def-b946-171a1dcb28fa,Notre-Dame-de-Grace-Westmount,Notre-Dame-de-Grace-Westmount,514-283-2013,514-283-9790,45.4734312745567,-73.6210556823784
+24043,45b207d5-d6a3-4df7-8b4d-5aad0dfe94e1,Longueuil-Saint-Hubert,Longueuil-Saint-Hubert,450-928-4288,450-928-4293,45.5379615011576,-73.4521252982614
+35047,597e8f35-e292-405d-8b95-7a1ef692261e,Kitchener South-Hespeler,Kitchener-South-Hespeler,519-571-5509,519-571-5515,43.4162194625068,-80.4012258444471
+24071,bc71f07e-f4cf-489c-90cb-6d7c31153461,Salaberry-Suroit,Salaberry-Suroit,450-371-0644,450-371-3330,45.1620497713757,-74.098544306906
+47005,f5a1f330-a586-411d-a014-2763e1143d8b,Moose Jaw-Lake Centre-Lanigan,Moose-Jaw-Lake-Centre-Lanigan,306-691-3577,306-391-3579,51.1127537419653,-105.516029700183
+24068,5a1e128b-c521-42f5-9431-262bea371fdb,Saint-Laurent,Saint-Laurent,514-335-6655,514-335-2712,45.498336817875,-73.712632274696
+24042,ea3d4463-fa74-44d0-9aa4-2ef44185f917,Levis-Lotbiniere,Levis-Lotbiniere,418-836-0970,418-836-6177,46.5323070968712,-71.5052422294551
+24044,41345ad8-3aa8-4b20-a88f-85f16e709858,Louis-Hebert,Louis-Hebert,418-648-3244,418-648-3260,46.7792354054388,-71.3587970891539
+24047,44e6bf5d-dd60-428e-bc1a-911bf8856b1e,Megantic-LErable,Megantic-LErable,418-338-2903,418-338-3631,45.903928733459,-71.2152194610118
+24048,d15c414e-27db-4892-9cf3-82445f72d75c,Mirabel,Mirabel,450-430-5535,450-430-5155,45.6367370826468,-74.0496087049494
+24049,719cbcef-74ee-489b-a75b-17524221279b,Montarville,Montarville,450-922-2562,450-922-1223,45.5441627506175,-73.3275623495668
+24077,3641ac2d-c7de-46c5-b72a-fe889f25cfdb,Ville-Marie-Le-Sud-Ouest-Ile-des-Soeurs,Ville-Marie-Le-Sud-Ouest-Ile-des-Soeurs,514-496-4885,514-496-8097,45.483991925197,-73.5504688467341
+47014,3cb17993-4d65-4335-9ee3-ba24f7c9c736,Yorkton-Melville,Yorkton-Melville,306-782-3309,306-786-7207,51.9480990597805,-102.761245117309
+24052,4057c0ae-6861-42ee-8a9f-5c0352ecf5d8,Mount Royal,Mount Royal,514-283-0171,514-283-2407,45.4902903518074,-73.6548583915515
+47013,ae1c99d1-1ba5-4efd-a6f2-06d4a067d3f2,Souris-Moose Mountain,Souris-Moose-Mountain,306-634-3000,306-634-4835,49.6845960824555,-103.260027440399
+24067,9b65a93c-afda-4be0-836e-f40f527345e0,Saint-Jean,Saint-Jean,450-357-9100,450-357-9109,45.2543210237518,-73.2402311608923
+24069,c0aee47c-f125-43f4-af81-36201947078e,Saint-Leonard-Saint-Michel,Saint-Leonard-Saint-Michel,514-256-4548,514-256-8828,45.5828855116502,-73.6042571996123
+24061,303ffc90-3467-4b5a-84da-74207b342d61,Richmond-Arthabaska,Richmond-Arthabaska,819-751-1375,819-751-5517,45.8535912920052,-71.9407349247358
+24054,3a0e1e54-ab7b-433f-a0ab-d71df337a52f,Outremont,Outremont,514-736-2727,514-736-2726,45.5105481961448,-73.6106657471254
+24057,b718fab8-2b1e-4f7b-a730-2e8939953405,Pontiac,Pontiac,819-463-0112,819-463-2554,46.601466480562,-76.5820904548037
+24055,bc4edab9-45f1-45a2-80fa-d81df499b8dd,Papineau,Papineau,514-277-6020,514-277-3454,45.546536875545,-73.6184023876386
+60001,e2d9c531-5b19-414f-a0b0-881838bf107e,Yukon,Yukon,867-668-6565,867-668-6570,63.6465817227563,-135.519842014774
+24073,a433cf10-eb22-4749-8d61-bd3479a1ccaf,Sherbrooke,Sherbrooke,819-564-4200,819-564-3745,45.4062714590768,-71.902020231389
+59025,5cb4a820-25c7-4722-8e76-6d5e9c50b9a7,Richmond Centre,Richmond-Centre,,,49.2099292248943,-123.351418977798
+35076,656be01f-db25-451a-bc5e-88ae8546fd1f,OrlÃ©ans,OrlÃ©ans,613-834-1800,613-590-1201,45.4096900546545,-75.5087524270162
+47009,950a79cf-3052-4cc2-962d-e4a31ee23293,Regina-Wascana,Regina-Wascana,306-585-2202,,50.4266931576988,-104.551012463198
+47007,4e6d740e-acfc-484d-a2ad-5b915fc70ae8,Regina-Lewvan,Regina-Lewvan,306-790-4747,,50.4586694933174,-104.665297352201
+24020,d8d24181-c3eb-4853-a577-5166c000121e,Beauport-Cote-de-BeaupreIle-dOrleans-Charlevoix,Beauport-Cote-de-BeaupreIle-dOrleans-Charlevoix,418-827-6776,418-827-7077,47.6124124911283,-70.8067870538423
+24008,feb327bd-495d-4be3-86dc-016736622e09,Beauport-Limoilou,Beauport-Limoilou,418-663-2113,418-663-2988,46.8561425175864,-71.2050502442692
+24012,c615e7f4-9821-429c-b595-69d2d9bee52a,Berthier-Maskinonge,Berthier-Maskinonge,819-228-1210,819-228-1181,46.4022115224378,-73.1758811652638
+35011,ea6fc525-bb3f-40db-a59f-95a9d4f1a5cb,Brampton South,Brampton-South,905-846-0076,905-846-3901,43.6500749980922,-79.767660053484
+35012,da0ca5af-2d08-4a7a-9875-7c9a4044fa70,Brampton West,Brampton-West,905-454-4758,905-454-3192,43.679331404917,-79.8266986237578
+35009,3b18e104-fa24-4d27-bf9d-46ea15f43737,Brampton East,Brampton-East,905-458-1474,905-458-8615,43.7744860594019,43.7744860594019
+46001,86fe7305-d791-46c8-abc8-3992eafd5944,Brandon-Souris,Brandon-Souris,204-726-7600,204-726-7699,49.4439164308067,-100.166706854404
+47003,7d2a584f-b76a-4534-bacf-747f8e2b4a06,Desnethe-Missinippi-Churchill-River,Desnethe-Missinippi-Churchill-River,844-365-9664,,56.7124734995137,-105.935680227796
+35025,ec639135-8b6f-4483-badb-047ff20fcc74,Elgin-Middlesex-London,Elgin-Middlesex-London,519-637-2255,519-637-3358,42.7166497432371,-81.1927693729842
+35052,d0cc87ff-e280-4435-87a7-0827b149a3c5,London North Centre,London-North-Centre,519-663-9777,519-663-2238,43.0144686770611,-81.2592158020169
+35053,a1a70059-9a62-44f8-9c3b-1746079556da,London West,London-West,519-473-5955,519-473-7333,42.9738144230342,-81.3197416146483
+48031,46f1aa6b-63f2-45d3-bfaf-7cfa8b22d678,St- Albert-Edmonton,St-Albert-Edmonton,780-459-0809,780-460-1246,53.6222833882401,-113.613189854731
+48016,649bc433-7bc3-418b-bf28-4685fbfc1d7f,Edmonton Manning,Edmonton-Manning,780-822-1540,780-822-1544,53.6433898145178,-113.374288981603
+48020,d6fa3a0c-1bf8-4fa7-b5d0-13b88f6de26b,Edmonton West,Edmonton-West,780-392-2515,780-392-2519,53.5061970880574,-113.651171180788
+48018,bc920d6e-bf7f-46ab-aa68-f1b3db1acb03,Edmonton Riverbend,Edmonton-Riverbend,780-495-4351,780-495-4485,53.4551650864645,-113.562539257366
+48015,a871633f-19aa-4e80-8fec-cca07a5c4029,Edmonton Griesbach,Edmonton-Griesbach,780-495-3261,780-495-3261,53.5823052184761,-113.467481720976
+48014,72798334-8321-4506-bafa-120a66333475,Edmonton Centre,Edmonton-Centre,780-442-1888,780-442-1891,53.5483079035985,-113.546237507235
+48019,b33226bf-e33d-4243-9f07-ee18f411d0cd,Edmonton Strathcona,Edmonton-Strathcona,780-495-8404,780-495-8403,53.512879742281,-113.453485503447
+48017,707fa0b9-066b-4fea-9bb7-6ff37c7492fc,Edmonton Mill Woods,Edmonton-Mill-Woods,780-497-3524,780-497-3511,53.4611269859763,-113.420194033392
+24062,b38322a1-9951-4089-ae90-1c742e9e776f,Riviere-des-Mille-Iles,Riviere-des-Mille-Iles,450-623-3335,450-623-3103,45.5904284310797,-73.899566255173
+24051,6d9ae443-f77e-4fe1-89cb-6e245f866981,Montmagny-Lislet-Kamouraska-Riviere-du-Loup,Montmagny-Lislet-Kamouraska-Riviere-du-Loup,418-248-1211,418-248-1244,47.3096659124833,-69.8918252256773
+24063,01863efd-419e-470a-a1da-8fa3f97bd604,Riviere-du-Nord,Riviere-du-Nord,450-565-0061,450-565-0118,45.8569413772319,-73.9903157260008
+48008,5a22fcd1-97fa-4744-b900-4139972b9c29,Calgary Midnapore,Calgary-Midnapore,403-225-3480,403-225-3504,50.9088308388897,-114.042010190898
+48011,60a1d116-10b3-43b9-bc3a-a208ef67fd29,Calgary Shepard,Calgary-Shepard,403-974-1285,,50.9444596710077,-113.940374166456
+48006,7efe1c90-2964-4244-b79e-8099f85d2a4a,Calgary Forest Lawn,Calgary-Forest-Lawn,403-207-3030,403-207-3035,51.0606226118232,-113.95248282056
+48005,ac5d28b9-c47e-4c6a-8137-1754c62edaf7,Calgary Confederation,Calgary-Confederation,403-220-0888,403-299-8024,51.077183869666,-114.103550835498
+48010,3718479f-d776-4c5e-98c4-1ef1b6b80fb6,Calgary Rocky Ridge,Calgary-Rocky-Ridge,403-282-7980,403-282-3587,51.1533454095904,-114.189753664143
+35094,f454b63d-2f4d-4722-9a4f-66ab8d21c8ed,Scarborough Centre,Scarborough-Centre,416-752-2358,416-752-4624,43.7527680870408,-79.2765826237139
+35088,947d2245-e69a-48a7-b972-94b8b872bff5,Carleton,Carleton,613-692-3331,613-692-3303,45.1744885984288,-75.7068580099807
+35017,711b65a3-35e1-46b6-ace6-c4d935c584ec,Chatham-Kent-Leamington,Chatham-Kent-Leamington,519-326-9655,519-326-2042,42.1953630118606,-82.280688292336
+59038,76e32d42-5492-4ba0-a9e2-1174a1bce6ed,Vancouver Kingsway,Vancouver-Kingsway,604-775-6263,604-775-6284,49.2449572082792,-123.061664649047
+59042,6ce7b3d5-4284-45c0-b4d1-89950f2ecc54,West Vancouver-Sunshine Coast-Sea to Sky Country,West-Vancouver-Sunshine-Coast-Sea-to-Sky-Country,604-913-2660,604-913-2664,50.0554780262444,-123.369076298844
+35029,82f7f693-2b35-4a20-8272-aa12b7e356f3,Etobicoke North,Etobicoke-North,416-747-6003,416-747-8295,43.7194437008674,-79.5845609584669
+35102,bb7c5278-bc38-4917-9b50-89e078fb28c6,Stormont-Dundas-South Glengarry,Stormont-Dundas-South-Glengarry,613-937-3331,613-937-3251,45.0986389260302,-74.9965600355326
+35042,3d5741ad-3534-4a2a-b5b4-27b6b99c4fb5,Kenora,Kenora,807-468-2170,807-468-4896,52.7297426224911,-90.7881746122632
+35054,f0d131e9-3fdd-4040-be2a-aeb798735af3,Markham-Stouffville,Markham-Stouffville,905-471-8963,905-471-7653,43.9823538154909,-79.2987511244524
+35056,22cf82da-d83a-4552-b767-04e630945e94,Markham-Unionville,Markham-Unionville,905-470-2024,905-470-1366,43.8950507535164,-79.3268706600505
+35037,e0bf35b8-b857-4f8f-af1a-abc88593cf16,Hamilton Mountain,Hamilton-Mountain,905-574-3331,905-574-4980,43.2165386387604,-79.8570685989189
+35035,e5653fd2-d734-4ffd-b97e-0afc1ec4829f,Hamilton Centre,Hamilton-Centre,905-526-0770,905-526-9943,43.2685017182874,-79.8461130487518
+35036,d24aba3c-b24c-406d-b391-8320524015e2,Hamilton East-Stoney Creek,Hamilton-East-Stoney-Creek,905-662-4763,905-662-2285,43.2322550906827,-79.7415630200623
+35038,7e6cf0af-f7f8-46ff-9eee-aa2ed6feec0d,Hamilton West-Ancaster-Dundas,Hamilton-West-Ancaster-Dundas,905-529-5435,905-529-4123,43.2354452713483,-79.9682132234715
+24031,9c9aab9a-f5db-4ad6-b0ec-00eecc3b27c9,Joliette,Joliette,450-752-1940,450-752-1719,46.6566205877371,-73.9903504751389
+24028,0b33d885-dc61-4c46-80d4-02db55d73c59,Hochelaga,Hochelaga,514-283-2655,514-283-6485,45.5641662789381,-73.542764939301
+24034,089f8f5c-fb9e-4aee-81cb-1d1fd5a9166f,La Prairie,La-Prairie,450-632-3383,450-632-2033,45.3660154382143,-73.5462858908467
+24064,e3943b4b-9c42-4bf6-b12d-caa97a61dde9,Rosemont-La Petite-Patrie,Rosemont-La-Petite-Patrie,514-729-5342,514-729-5875,45.5457555056823,-73.586854525463
+24045,45b207d5-d6a3-4df7-8b4d-5aad0dfe94e1,Louis-Saint-Laurent,Louis-Saint-Laurent,450-928-4288,450-928-4293,46.8473568395774,-71.4093566621255
+24056,86b44510-66a0-4d30-96c6-55978aa7aa58,Pierrefonds-Dollard,Pierrefonds-Dollard,514-624-5725,514-624-5728,45.4952733135665,-73.8624325633799
+24074,d56c5679-b69d-4b74-991e-9a30a1a822f8,Vaudreuil-Soulanges,Vaudreuil-Soulanges,450-510-2305,450-510-2383,45.4092029704939,-74.1201324843277
+24039,e3a23860-a55d-417c-a271-46be668b023e,Laurier-Sainte-Marie,Laurier-Sainte-Marie,514-522-1339,514-522-9899,45.5261667297404,-73.5658360186776
+24040,e62a1732-d0c4-44b8-9706-b254b8e51dd2,Laval-Les-Iles,Laval-Les-Iles,450-689-4594,450-689-5092,45.5389452830974,-73.822057555255
+35059,12b87dbe-eb5a-4846-9806-2877386a5a84,Mississauga East-Cooksville,Mississauga-East-Cooksville,905-566-0009,905-566-0017,43.6067020803169,-79.6062136100364
+35063,8c7b270e-1696-44d6-896f-34ea72962d7d,Mississauga-Streetsville,Mississauga-Streetsville,905-812-1811,905-812-8464,43.5921137974581,-79.7473447396646
+12008,d23531c8-4dfb-4a2a-bbe1-26c1dc9536cf,Sackville-Preston-Chezzetcook,Sackville-Preston-Chezzetcook,902-861-2311,902-861-4620,44.7493410777564,-63.4785805559722
+46012,6b8a8cec-2b34-42f9-ba9a-74a9e78ed6fd,Winnipeg North,Winnipeg-North,204-984-1767,204-984-1766,49.9428429282334,-97.1800384588288
+46014,428a5321-5ca3-4ca0-bce7-f818178c6a69,Winnipeg South Centre,Winnipeg-South-Centre,204-983-1355,204-984-3979,49.8490793042946,-97.1792225149517
+46013,bb591627-af53-4664-990a-0b4d3949b47a,Winnipeg South,Winnipeg-South,204-984-6787,204-984-6792,49.7799789522406,-97.1449591328036
+24066,3db823d5-8b68-4237-bb28-22fd6983b392,Saint-Hyacinthe-Bagot,Saint-Hyacinthe-Bagot,450-771-0505,450-771-0767,45.6562170260396,-72.7934371316683
+35115,26aadcd1-4dcf-46f0-b048-ec6c07dc1b00,Willowdale,Willowdale,416-223-2858,416-223-9715,43.7768890590297,-79.416481073066
+13010,9206238f-85fd-410a-b4bc-632223ab3d46,Tobique-Mactaquac,Tobique-Mactaquac,800-671-6160,506-575-6218,46.5672679481124,-67.241623122593
+13009,7bf0a2d0-de8d-4c8b-becb-ebbf7dd5caa4,Saint John-Rothesay,Saint-John-Rothesay,506-657-2500,506-657-2504,45.270933717975,-66.0407126640715
+46007,66d5dde5-534a-4a08-b453-ca875abb8209,Portage-Lisgar,Portage-Lisgar,204-822-7440,204-822-7445,49.5478779682711,-98.0587686261676
+10006,bd9b54ec-9eac-4f02-b2cc-c893f9d66285,St. John's East,St-Johns-East,709-772-7171,709-772-7175,47.6891602075053,-52.863101711584
+59041,d1cdfddf-00d6-4e87-b2df-4db58d78aedc,Victoria,Victoria,250-363-3600,250-363-8422,48.3738854889296,-123.285604671838
+59032,fd3cefdc-0ada-4a45-bb56-31bc4094a9cd,Surrey Centre,Surrey-Centre,604-589-2441,604-589-2445,49.1914497245539,-122.854831275745
+35110,5668c627-96d4-4beb-af78-9ed6d3f3d977,University-Rosedale,University-Rosedale,416-928-1451,416-928-2377,43.671140978972,-79.3943122167719
+24014,6ea48cfb-4b0b-443e-ae91-c7ff56cab154,Pierre-Boucher-Les-Patriotes-Vercheres,Pierre-Boucher-Les-Patriotes-Vercheres,450-652-4442,450-652-4447,45.7160937525165,-73.2742782733374
+35111,1462816a-16d4-4414-8d62-02f012477700,Vaughan-Woodbridge,Vaughan-Woodbridge,905-264-6446,905-264-8637,43.79860316139,-79.6011941454649
+35087,65e311a7-cda3-4fd5-906b-c77c9279d0b3,Richmond Hill,Richmond-Hill,905-707-9701,905-707-9705,43.8614496134662,-79.420109078015
+35083,d69e23e8-0da7-4161-82d1-5c1b62dbb924,Perth-Wellington,Perth-Wellington,519-273-1400,519-273-9045,43.6272876487472,-80.9049104682204
+35084,67127830-f830-4614-b7d2-3899f93bd317,Peterborough-Kawartha,Peterborough-Kawartha,705-745-2108,705-741-4123,44.6111973577634,-78.1990448612956
+35092,c89346d4-e0b9-49b5-9264-de03a7ebe094,Sault Ste- Marie,Sault-Ste-Marie,705-941-2900,705-941-2903,46.926122816395,-84.3378514442329
+35081,95721234-de43-45bd-918e-2899082e4a6b,Parkdale-High Park,Parkdale-High-Park,416-769-5072,416-769-8343,43.6492431745101,-79.4661000797948
+47008,81a26f19-85b4-4815-a52a-83f3c7e88282,Regina-Qu'Appelle,Regina-QuAppelle,306-790-4727,306-790-4728,51.0648289900497,-103.939138530809
+24060,745a1d9e-3c6e-4a1f-bef6-0c7a8ee07a79,Repentigny,Repentigny,450-581-3896,450-581-9958,45.818682979901,-73.4227345948226
+35082,a931b86f-9030-48f2-ab6f-60e591b1bc85,Parry Sound-Muskoka,Parry-Sound-Muskoka,705-789-4640,,45.4592038822088,-79.946379856321
+24075,ba686b06-fcf6-46ac-8665-d74ea5ff2483,Terrebonne,Terrebonne,450-964-9417,450-964-1234,45.7322274044797,-73.6842190237274
+24078,16732368-4b86-4918-bbdd-97acda90ad3b,Vimy,Vimy,450-973-5660,450-973-5661,45.5607375201959,-73.7304479111215
+47012,e1b33799-0440-40a4-867d-0399f6bb6a98,Saskatoon West,Saskatoon-West,306-975-6555,306-975-5786,52.1500011338792,-106.709945456981
+47006,a4ce2156-f98f-4389-a874-2bd586092b49,Prince Albert,Prince-Albert,306-953-8622,306-953-8625,53.1503909339912,-104.653356973599
+47011,c9f80b6f-de44-4adb-9796-cb3cc26f1fa1,Saskatoon-University,Saskatoon-University,306-975-6133,306-975-6670,52.158754115754,-106.587426209174
+35090,fd494220-5574-42b8-ab88-44690cc83def,Toronto-St- Paul's,Toronto-St-Pauls,416-952-3990,416-952-3995,43.6905506728794,-79.4139756811426

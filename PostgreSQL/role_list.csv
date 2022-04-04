@@ -1,51 +1,13 @@
-﻿role_id,role_title,role_group
-1,Prime Minister,legislature
-2,Leader of the Opposition,legislature
-3,Member of Parliament,legislature
-4,MP Candidate,party
-5,Leader,party
-6,President,party
-7,National Director,party
-8,National Vice-President (English),party
-9,National Vice-President (French),party
-10,Policy Secretary,party
-11,Secretary,party
-12,Past President,party
-13,Director (Newfoundland & Labrador),party
-14,Director (Prince Edward Island),party
-15,Director (Nova Scotia),party
-16,Director (New Brunswick),party
-17,Director (Québec),party
-18,Director (Manitoba),party
-19,Director (Saskatchewan),party
-20,Director (Alberta),party
-21,Director (British Columbia),party
-22,Director (Yukon),party
-23,Director (Northwest Territories),party
-24,Director (Nunavut),party
-25,Director (Platform),party
-26,Director (Fundraising),party
-27,Director (Volunteers),party
-28,Director (Outreach),party
-29,Director (Riding Associations),party
-30,Director (Campaigns),party
-31,Caucus Representative,party
-32,Leader’s Representative,party
-33,Treasurer,party
-34,Revenue Chair,party
-35,General Staffer,party
-36,Riding Association President,party
-37,Riding Association Vice-President,party
-38,Riding Association Secretary,party
-39,Riding Association Treasurer,party
-40,Riding Association Coordinator,party
-41,Riding Association Staffer,party
-42,Riding Association Volunteer,party
-43,Chief Electoral Officer of Canada,elections
-44,Elections Manager,elections
-45,System Administrator,elections
-46,Auditor,elections
-47,Riding Administrator,elections
-48,Riding Manager,elections
-49,Riding Staffer,elections
-50,Technical Support,elections
+role_id,role_title,role_group,role_code
+0,No Role Assigned,NG,NR
+1,Election Manager,EO,EM
+2,System Administrator,EO,SA
+3,Riding Administrator,EO,RA
+4,Riding Staff,EO,RS
+5,Candidate,LR,PC
+6,Manager,LR,LM
+7,Volunteer,LR,CV
+8,Party Manager,PS,PM
+9,Candidate Manager,PS,CM
+10,Financial Manager,PS,FM
+11,Outreach Manager,PS,OM

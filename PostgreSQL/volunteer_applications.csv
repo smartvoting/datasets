@@ -1,0 +1,14 @@
+application_id,party_id,riding_id,first_name,last_name,phone_number,email_address,legal_resident,past_volunteer,party_member,is_approved,submitted,updated
+22,24,5310,Stephen,Davis,416-555-1234,stephenkdavis@outlook.com,true,false,false,false,2022-02-15 20:35:51.595000,2022-02-15 20:35:51.595000
+23,24,5310,Stephen,Davis,416-555-1234,stephenkdavis@outlook.com,true,false,false,false,2022-02-15 20:38:27.613000,2022-02-15 20:38:27.613000
+24,24,5310,Stephen,Davis,416-555-1234,stephenkdavis@outlook.com,true,false,false,false,2022-02-16 03:00:39.371000,2022-02-16 03:00:39.371000
+25,14,48029,Stephen,Davis,416-555-1234,stephenkdavis@outlook.com,true,false,false,false,2022-02-16 20:37:42.507000,2022-02-16 20:37:42.507000
+26,18,35027,Sarah,Williams,416-555-1234,sarah.williams@skdprojects.net,true,true,true,false,2022-03-11 14:47:42.470085,2022-03-11 14:47:42.470085
+27,12,45223,string,string,string,string,true,true,true,false,2022-03-11 14:55:20.785483,2022-03-11 14:55:20.785483
+28,23,76,string,string,string,string,true,true,true,false,2022-03-11 14:56:47.391382,2022-03-11 14:56:47.391382
+29,80,153102,string,string,string,string,true,true,true,false,2022-03-11 15:00:32.658973,2022-03-11 15:00:32.658973
+30,2340,4350,string,string,string,string,true,true,true,false,2022-03-11 15:05:51.594899,2022-03-11 15:05:51.594899
+31,230,430,string,string,string,string,true,true,true,false,2022-03-11 15:08:05.418915,2022-03-11 15:08:05.418915
+32,450,450,string,string,string,string,true,true,true,false,2022-03-11 15:08:52.677102,2022-03-11 15:08:52.677102
+33,2340,2340,string,string,string,string,true,true,true,false,2022-03-11 15:11:12.635980,2022-03-11 15:11:12.635980
+34,88,69,string,string,string,string,true,true,true,false,2022-03-11 15:21:04.788540,2022-03-11 15:21:04.788540

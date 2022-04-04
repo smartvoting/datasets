@@ -1,0 +1,382 @@
+office_id,type_id,street_number,street_name,unit_number,city,province_id,post_code,po_box,is_public,updated
+e189b768-618f-4728-840b-25f4768fb276,3,427,10th Avenue,,Campbell River,2,V9W 4E4,,true,2022-03-10 20:55:20.790793
+56a57b30-45f8-4182-aa82-cfc07654dda5,3,50,Burnside Road West,2,Victoria,2,V9A 1B5,,true,2022-03-10 08:13:34.381646
+3035eea8-3237-48ce-8a54-0853c6fa9c61,3,253,D'Anjou Boulevard,,Chateauguay,11,J6J 2R4,,true,2022-03-10 21:54:10.452974
+62948a6a-1493-4fec-8f0d-a0d2fddabcba,3,1028,Queen Street East,,Toronto,9,M4M 1K4,,true,2022-03-10 21:54:10.452974
+a575334e-9db7-482b-931d-3cdebd71ce2f,3,307,Marie-Victorin Road,,Sorel-Tracy,11,J3R 1K6,,true,2022-03-10 21:54:10.452974
+a433cf10-eb22-4749-8d61-bd3479a1ccaf,3,1640,King Street West,M-10,Sherbrooke,11,J1J 2C3,,true,2022-03-10 22:33:41.960339
+fd494220-5574-42b8-ab88-44690cc83def,3,40,Holly Street,103,Toronto,9,M4S 3C3,,true,2022-03-10 21:54:10.452974
+1fe14a27-b3e7-4c29-941a-62965133cd23,3,6023,Monk Boulevard,,Montreal,11,H4E 3H5,,true,2022-03-10 21:54:10.452974
+41a18a63-d371-4149-a9af-f8a5358f2eca,3,81,Highway 5 West,,Waterdown,9,L9H 7L6,,true,2022-03-10 20:55:20.790793
+8f722d1c-7917-40a0-9c38-6ce3b11538b6,3,725,Centennial Drive South,2-B,Martensville,12,S0K 2T0,,true,2022-03-10 22:33:41.960339
+17f05b29-5cbe-49ce-b615-3f0a6be8220d,1,207,Bank Street,409,Ottawa,9,K2P 2N2,,false,2022-03-10 06:43:16.019615
+575b0050-931e-423c-aa82-fb9cc4280abc,1,788,Mabel Lake Road,,Lumby,2,V0E 2G5,,false,2022-03-10 06:43:16.019615
+7f4c6f79-3f24-47b9-9260-4bbb64646a34,3,1420,St. Paul Street,102,Kelowna,2,V1Y 2E6,,true,2022-03-10 08:07:51.688568
+5a1e128b-c521-42f5-9431-262bea371fdb,3,750,Marcel Laurin Boulevard,102,Saint-Laurent,11,H4M 2M4,,true,2022-03-10 22:33:41.960339
+9c9aab9a-f5db-4ad6-b0ec-00eecc3b27c9,3,120,Place Bourget North,,Joliette,11,J6E 5E5,,true,2022-03-10 21:54:10.452974
+e5c3131f-494d-46fd-b9b1-159856d0ff92,3,208,Huron Street,4,Woodstock,9,N4S 7A1,,true,2022-03-10 21:54:10.452974
+385e9aad-ae94-4a61-ae1f-95988e022c81,3,90,Brandt Street,9A,Steinbach,3,R5G 0T3,,true,2022-03-10 20:55:20.790793
+d01190f9-d1b2-4d00-a5d4-f14b3fd78cd6,3,70,Country Hills Landing North West,115,Calgary,1,T3K 2L2,,true,2022-03-10 08:07:51.688568
+a13169d4-8301-4861-91a4-00472ad5a601,3,334,Road 138,230,Saint-Augustin-de-Desmaures,11,G3A 1G8,,true,2022-03-10 22:33:41.960339
+26b684ac-1c0d-46ff-ae94-77e6e8e032ad,3,1700,Dundas Street,D,London,9,N5W 3C9,,true,2022-03-10 21:54:10.452974
+1a611032-750f-423f-a0e7-e1c1387481f7,3,2572,East Hastings Street,,Vancouver,2,V5K 1Z3,,true,2022-03-10 20:55:20.790793
+ae1c99d1-1ba5-4efd-a6f2-06d4a067d3f2,3,1133,4th Street,302,Estevan,12,S4A 0W6,,true,2022-03-10 22:33:41.960339
+b9c016b3-568c-4981-bc9a-595b87c93d54,1,20,Cherrytree Drive,503,Brampton,9,L6Y 3V1,,false,2022-03-10 06:43:16.019615
+cd276668-455c-4c4b-acd5-0ddddcc4d581,3,27,Red River Boulevard West,B,Winnipeg,3,R2V 4E2,,true,2022-03-10 20:55:20.790793
+56eb092d-eae6-4abe-821e-446ba23efa95,3,2562B,Main Street,,Kelowna,2,V4T 2N5,,true,2022-03-10 08:07:51.688568
+718cf8b1-3fea-4609-b560-3e8414735c4f,3,1959,152 Street,135,Surrey,2,V4A 9E3,,true,2022-03-10 08:13:34.381646
+3db823d5-8b68-4237-bb28-22fd6983b392,3,2710,Bachand Street,108,Saint-Hyacinthe,11,J2S 8B6,,true,2022-03-10 22:33:41.960339
+3032ab2e-0262-4bc9-9696-bd3e3d78eef6,3,2278,King George Highway,A,Miramichi,4,E1V 6N6,,true,2022-03-10 20:55:20.790793
+0afecc67-c61d-404c-8ec2-cf6d0bd677e7,3,888,3rd Avenue,204,Val-d'Or,11,J9P 5E6,,true,2022-03-10 21:54:10.452974
+5dca4d5d-4bca-4b8e-9221-f9efe01ea727,3,185,Robinson Street,210,Simcoe,9,N3Y 5L6,,true,2022-03-10 20:55:20.790793
+3641ac2d-c7de-46c5-b72a-fe889f25cfdb,3,3175,Saint-Jacques Street,,Montreal,11,H4C 1G7,,true,2022-03-10 22:33:41.960339
+0589a904-272d-4a67-a859-1fff0513c30e,3,505,Bethany Avenue,204,Lachute,11,J8H 4A6,,true,2022-03-10 21:54:10.452974
+a4ce2156-f98f-4389-a874-2bd586092b49,3,79,11th Street West,,Prince Albert,12,S6V 3A8,,true,2022-03-10 22:33:41.960339
+b1537662-3e13-48bc-ada0-9ec3cca67f79,3,5009,50 Street,,Two Hills,1,T0B 4K0,,true,2022-03-10 08:07:51.688568
+6ce7b3d5-4284-45c0-b4d1-89950f2ecc54,3,6367,Bruce Street,,West Vancouver,2,V7W 2G5,,true,2022-03-10 20:55:20.790793
+501662e3-b4b6-4498-8bd9-cb669566fdbb,1,72,Birchmount Walk,,London,1,N6K 4K5,,false,2022-03-10 06:43:16.019615
+e3a23860-a55d-417c-a271-46be668b023e,3,800,Maisonneuve Boulevard East,604,Montreal,11,H2L 4L8,,true,2022-03-10 21:54:10.452974
+3668196d-e4b4-4821-8efd-a6bc853bd4f0,3,115,President Kennedy Road,102,Levis,11,G6V 6C8,,true,2022-03-10 21:54:10.452974
+d0cf08a9-65cb-4e9c-b30b-6a6036f683df,3,3184,Ridgeway Drive,41,Mississauga,9,L5L 5S7,,true,2022-03-10 21:54:10.452974
+fc89319a-0095-4438-855c-d04694afbcb8,3,4807,44 Avenue,102,Stony Plain,1,T7Z 1V5,,true,2022-03-10 08:07:51.688568
+77927643-a78b-4b2b-920f-2e876c3dc1f1,3,54,King Street East,103,Bowmanville,9,L1C 1N3,,true,2022-03-10 20:55:20.790793
+d1cdfddf-00d6-4e87-b2df-4db58d78aedc,3,1057,Fort Street,,Victoria,2,V8V 3K5,,true,2022-03-10 20:55:20.790793
+10c2989e-ab99-4246-a2cd-d600fcebc46f,3,359,Albiny Paquette Boulevard,,Mont-Laurier,11,J9L 1K5,,true,2022-03-10 21:54:10.452974
+950a79cf-3052-4cc2-962d-e4a31ee23293,3,2723,East Quance Street,,Regina,12,S4N 7M3,,true,2022-03-10 22:33:41.960339
+c615e7f4-9821-429c-b595-69d2d9bee52a,3,343,St. Laurent Avenue,,Louiseville,11,J5V 1K2,,true,2022-03-10 21:54:10.452974
+b718fab8-2b1e-4f7b-a730-2e8939953405,3,87,St. Joseph Street,B,Gracefield,11,J0X 1W0,,true,2022-03-10 22:33:41.960339
+5ff223ee-8560-4aec-b5d8-3e0c3f9b7b86,3,228,Manitoba Avenue,,Selkirk,3,R1A 0Y5,,true,2022-03-10 20:55:20.790793
+080d3e67-2489-47b5-ab2f-414c21587231,3,350,Rutherford Road South,225A,Brampton,9,L6W 4N6,,true,2022-03-10 20:55:20.790793
+a8b1be6c-082b-4466-a348-de940873062e,3,480,Huronia Road,204-B,Barrie,9,L4N 6M2,,true,2022-03-10 20:55:20.790793
+6ab9d619-1b90-4342-bfcd-f78a08b8bf2d,3,12820,Yonge Street,202,Richmond Hill,9,L4E 4H1,,true,2022-03-10 20:55:20.790793
+abcd44ed-3a7b-450f-8773-b39bdf6a48c0,3,2525,Old Bronte Road,590,Oakville,9,L6M 4J2,,true,2022-03-10 21:54:10.452974
+573112bd-0594-455b-b036-9867561d1011,3,1930,Davis Street,,Jonquiere,11,G7S 3B6,,true,2022-03-10 21:54:10.452974
+c74b0fda-7d8a-468a-9f15-b97852c75c82,3,100,Old Kingston Road,1,Ajax,9,L1T 2Z9,,true,2022-03-10 20:55:20.790793
+86b44510-66a0-4d30-96c6-55978aa7aa58,3,3883,St. Jean Boulevard,501,Dollard-des-Ormeaux,11,H9G 3B9,,true,2022-03-10 22:33:41.960339
+09dc2b80-2065-48ff-a250-5f011a9568ed,1,4651,Sheppard Avenue East,205,Toronto,9,M1S 3V4,,false,2022-03-10 06:43:16.019615
+53c74adf-11df-4c97-8e9b-5a61fa59014f,3,4940,Kingsway,,Burnaby,2,V5H 2E2,,true,2022-03-10 08:07:51.688568
+9147bf23-a5ea-45fd-8bf8-b8a060f65edb,3,600,Charest Boulevard,201,Quebec,11,G1K 3J4,PO Box 30014,true,2022-03-10 22:33:41.960339
+01863efd-419e-470a-a1da-8fa3f97bd604,3,72,de la Gare Street,203,Saint-Jerome,11,J7Z 2B8,,true,2022-03-10 22:33:41.960339
+8c7b270e-1696-44d6-896f-34ea72962d7d,3,6990,Financial Drive,8G,Mississauga,9,L5N 8J4,,true,2022-03-10 21:54:10.452974
+a1a70059-9a62-44f8-9c3b-1746079556da,3,390,Commissioners Road West,200,London,9,N6J 1Y3,,true,2022-03-10 21:54:10.452974
+ea3d4463-fa74-44d0-9aa4-2ef44185f917,3,2677,Lagueux Road,,Levis,11,G6J 1B7,,true,2022-03-10 21:54:10.452974
+e62a1732-d0c4-44b8-9706-b254b8e51dd2,3,674,Place Publique,200,Laval,11,H7X 1G1,,true,2022-03-10 21:54:10.452974
+db7b854b-62b4-4c91-a994-84137ea47587,3,12500,Industriel Boulevard,100,Montreal,11,H1B 5P5,,true,2022-03-10 21:54:10.452974
+0db6b470-93df-49b9-909c-8e66143fc196,3,8595,Maurice-Duplessis Boulevard,208,Montreal,11,H1E 4H7,,true,2022-03-10 21:54:10.452974
+ba686b06-fcf6-46ac-8665-d74ea5ff2483,3,732,St. Louis Street,730,Terrebonne,11,J6W 1J6,,true,2022-03-10 22:33:41.960339
+dbf492e1-af59-48d9-b70d-57d8727c9b0b,3,224,Bridge Street,,Carleton Place,9,K7C 3G9,,true,2022-03-10 21:54:10.452974
+e483f7b4-9384-4286-ba67-147457ca2ba6,3,374,Adelaide Street,,Dalhousie,4,E8C 1A5,,true,2022-03-10 20:55:20.790793
+4c99dd04-a6a1-4aa7-a00f-f8ed8b71200b,3,1077,North Service Road,30,Mississauga,9,L4Y 1A6,,true,2022-03-10 21:54:10.452974
+bb848b74-778d-4f6e-9d86-933750e1edeb,3,888,Carnarvon Street,110,New Westminster,2,V3M 0C6,,true,2022-03-10 08:07:51.688568
+6196ea40-7a63-458f-814e-e1a25701a0a3,3,892,Sargent Avenue,,Winnipeg,3,R3E 0C7,,true,2022-03-10 20:55:20.790793
+40c7940a-dcc6-47ac-9ec9-aa079ba9e6b3,3,78,Commercial Street,,Dominion,7,B1G 1B4,,true,2022-03-10 20:55:20.790793
+d6fdd91d-5e83-4a7c-bacc-6390c1e21331,3,16,Esna Park Drive,107,Markham,9,L3R 5X1,,true,2022-03-10 21:54:10.452974
+ccc7de4b-e2b6-49ba-8a21-882af182643c,3,1030,Denman Street,112,Vancouver,2,V6G 2M6,,true,2022-03-10 20:55:20.790793
+7c205a82-87e1-4ec8-a0c0-1833f6bd8e9f,1,130,Albert Street,1720,Ottawa,9,K1P 5G4,,false,2022-03-10 06:43:16.019615
+ca2a2393-8b1d-4248-bfee-d1aece2a908f,3,263,Heather Moyse Drive,,Summerside,10,C1N 5P1,,true,2022-03-10 21:54:10.452974
+ea12076c-8456-4807-831d-89cf3de3d9b1,3,320,Saint Germain Street East,701,Rimouski,11,G5L 1C2,,true,2022-03-10 21:54:10.452974
+d53542eb-41c4-47a6-92d4-3983cbfe0c52,3,1315,Richmond Road,,Ottawa,9,K2B 7Y4,,true,2022-03-10 21:54:10.452974
+1a634fef-6ed7-40e0-b94e-8ace455ef672,3,250,Vachon North Boulevard,201,Sainte-Marie de Beauce,11,G6E 4G3,,true,2022-03-10 21:54:10.452974
+b33226bf-e33d-4243-9f07-ee18f411d0cd,3,10045,81st Avenue,,Edmonton,1,T6E 1W7,,true,2022-03-10 08:07:51.688568
+d038ea1a-4bbd-4335-8c64-3c154c070f08,1,116,Albert Street,812,Ottawa,9,K1P 5G3,,false,2022-03-10 06:43:16.019615
+e50195a2-e881-4cae-982d-907869e5600c,3,16600,Bayview Avenue,202,Newmarket,9,L3X 1Z9,,true,2022-03-10 21:54:10.452974
+22cf82da-d83a-4552-b767-04e630945e94,3,200,Town Centre Boulevard,400A,Markham,9,L3R 8G5,,true,2022-03-10 21:54:10.452974
+90fdc542-293e-4c74-bf9e-6283b1e157dd,3,115,MacLean Street,2A,New Glasgow,7,B2H 4M5,,true,2022-03-10 20:55:20.790793
+219cd3d2-6c9c-44ad-aabd-1f49bdfe6b53,3,57,Simcoe Street South,2B,Oshawa,9,L1H 4G4,,true,2022-03-10 21:54:10.452974
+7183a0a7-eee5-4cf0-bcc5-137a61115d57,1,31,Baymark Road,,Thornhill,9,L3T 3Y4,,false,2022-03-10 06:43:16.019615
+3718479f-d776-4c5e-98c4-1ef1b6b80fb6,3,400,Crowfoot Crescent,202,Calgary,1,T3G 5H6,,true,2022-03-10 08:07:51.688568
+f0d131e9-3fdd-4040-be2a-aeb798735af3,3,137,Main Street North,204,Markham,9,L3P 1Y2,,true,2022-03-10 21:54:10.452974
+8ddf10e2-9118-4ca4-8424-9c014a151f7a,3,129,Aberdeen Road,106,Bridgewater,7,B4V 2S7,,true,2022-03-10 20:55:20.790793
+9b12bc13-26d8-4390-9b2e-3000d757d848,3,2018,Sherwood Drive,214,Sherwood Park,1,T8A 5V3,,true,2022-03-10 08:07:51.688568
+7ef83477-590a-45b1-8020-00951ac75cce,3,119,50th Street,,Edson,1,T7E 1V9,,true,2022-03-10 08:07:51.688568
+0736992f-48df-4aac-a797-eb40253ea216,3,153,Grande Allee East,104,Grande-Riviere,11,G0C 1V0,,true,2022-03-10 21:54:10.452974
+81a26f19-85b4-4815-a52a-83f3c7e88282,3,984,Albert Street,A,Regina,12,S4R 2P7,,true,2022-03-10 22:33:41.960339
+707fa0b9-066b-4fea-9bb7-6ff37c7492fc,3,9225,28th Avenue,,Edmonton,1,T6N 1N1,,true,2022-03-10 08:07:51.688568
+4e6d740e-acfc-484d-a2ad-5b915fc70ae8,3,6845,Rochdale Boulevard,,Regina,12,S4X 2Z2,,true,2022-03-10 22:33:41.960339
+efe855e8-11ea-4df3-8032-27bce4490c9f,3,22369,Lougheed Highway,,Maple Ridge,2,V2X 2T3,,true,2022-03-10 08:07:51.688568
+2c114a4f-66f2-4fe9-8aae-069a8dd26fa5,3,108,St. George Street,3,Brantford,9,N3R 1V6,,true,2022-03-10 20:55:20.790793
+e1b33799-0440-40a4-867d-0399f6bb6a98,3,904,22nd Street West,E,Saskatoon,12,S7M 0S1,,true,2022-03-10 22:33:41.960339
+76675dde-2892-42ad-b636-693bd3c2440a,3,233,Montreal Road,,Vanier,9,K1L 6C7,,true,2022-03-10 21:54:10.452974
+089f8f5c-fb9e-4aee-81cb-1d1fd5a9166f,3,66,Road 132,200,Delson,11,J5B 0A1,,true,2022-03-10 21:54:10.452974
+a078588c-a716-4a80-8d55-08aa06431f89,3,65,Front Street West,,Strathroy,9,N7G 1X6,,true,2022-03-10 21:54:10.452974
+4f0344b9-b218-4bc6-b8e5-1e19c79825f9,3,6955,Taschereau Boulevard,225,Brossard,11,J4Z 1A7,,true,2022-03-10 21:54:10.452974
+7be9ae00-af8d-406b-b9a3-a46379412040,3,68,William Street,205,Brockville,9,K6V 4V5,,true,2022-03-10 21:54:10.452974
+6a69e2c4-f6b7-4807-8c40-8be6f1176771,1,381,Rang de Versailles,,Mont-Saint-Gregoire,11,J0J 1K0,,false,2022-03-10 06:43:16.019615
+947d2245-e69a-48a7-b972-94b8b872bff5,3,1139,Mill Street,,Manotick,9,K4M 1A5,,true,2022-03-10 21:54:10.452974
+0c610c11-6f89-4b61-bace-7c31ec3fd703,3,8400,Henri-Bourassa Boulevard,204,Quebec City,11,G1G 4E2,,true,2022-03-10 21:54:10.452974
+1a032205-5ad5-4049-9398-4e12a56d1b55,3,632,Grand-Mere Avenue,1,Shawinigan,11,G9T 2H5,,true,2022-03-10 22:33:41.960339
+93a515d2-9527-41bc-947f-079cdce41aa5,3,1468,Laurier Street,201,Rockland,9,K4K 1C8,,true,2022-03-10 20:55:20.790793
+c0aee47c-f125-43f4-af81-36201947078e,3,8370,Lacordaire Boulevard,,Saint-Leonard,11,H1R 3Y6,,true,2022-03-10 22:33:41.960339
+b0aac066-e2c0-47c5-be90-d6d051e4d48c,3,1092,Islington Avenue,202,Toronto,9,M8Z 4R9,,true,2022-03-10 20:55:20.790793
+6bccb3bb-50bc-4e9f-bd2d-082b4a6714c3,3,1118,Centre Street,23,Thornhill,9,L4J 7R9,,true,2022-03-10 21:54:10.452974
+e5257964-5da0-4c6b-8b4a-cf33ba327a15,3,4315,55th Avenue,,Red Deer,1,T4N 4N7,,true,2022-03-10 08:07:51.688568
+3a7145f8-fa78-4dd3-8dc5-4698bd1824d4,3,4,Dundas Street West,,Napanee,9,K7R 1Z4,,true,2022-03-10 20:55:20.790793
+86374eb3-fa47-4ba5-9e3f-b553c7aa0efb,3,320,Ste-Anne Street,101,Chicoutimi,11,G7J 2M4,,true,2022-03-10 21:54:10.452974
+76e32d42-5492-4ba0-a9e2-1174a1bce6ed,3,2951,Kingsway,,Vancouver,2,V5R 5J4,,true,2022-03-10 20:55:20.790793
+17556550-5a41-45ad-9f52-ddb857de29dc,3,705,Red River Road,3,Thunder Bay,9,P7B 1J3,,true,2022-03-10 21:54:10.452974
+1a8e23af-7c49-49d4-8d6f-f95538d4044b,3,3092,Portage Avenue,D,Winnipeg,3,R3K 0Y2,,true,2022-03-10 20:55:20.790793
+b5803780-e0d4-43da-88f7-470a5cfa0fb7,3,145,Rue de Sherbrooke,301,Cowansville,11,J2K 5E7,,true,2022-03-10 21:54:10.452974
+4489fbdd-2210-40ef-aafb-00612601834b,1,637,Lake Shore Boulevard West,411,Toronto,9,M5V 3J6,,false,2022-03-10 06:43:16.019615
+39752009-40d9-43ae-8699-36ae8dcea172,3,126,Ingram Street,101,Duncan,2,V9L 1P1,,true,2022-03-10 08:07:51.688568
+3b8bb378-6212-4a20-add8-9dd390793d1c,3,24,Harbourside Drive,101,Wolfville,7,B4P 2C1,,true,2022-03-10 20:55:20.790793
+9bb1b3b6-dde1-464a-a9c3-5cbc272e3903,1,434,Hillcrest Avenue,,Peterborough,9,K9J 6H6,,false,2022-03-10 06:43:16.019615
+e2d9c531-5b19-414f-a0b0-881838bf107e,3,204,Black Street,200,Whitehorse,13,Y1A 2M9,,true,2022-03-10 22:33:41.960339
+de806058-916b-47ec-bb0d-b1d0330cfc58,3,150,Marchand Street,100,Drummondville,11,J2C 4N1,,true,2022-03-10 21:54:10.452974
+413e8a4f-fb49-4351-9cb1-072b6d97ebcf,3,84,Isabella Street,1st Floor,Pembroke,9,K8A 5S5,,true,2022-03-10 21:54:10.452974
+7bf0a2d0-de8d-4c8b-becb-ebbf7dd5caa4,3,1,Market Square,N306,Saint John,4,E2L 4Z6,,true,2022-03-10 20:55:20.790793
+707fbf77-bf79-436f-a802-67da44772c7c,3,60,Wilson Avenue,202,Timmins,9,P4N 2S7,,true,2022-03-10 21:54:10.452974
+7b1045ab-aa0e-4d73-8443-4590a2f2c551,3,301,Main Street,202,Penticton,2,V2A 5B7,,true,2022-03-10 08:13:34.381646
+255b6e15-b1ee-4c38-be33-28752d834ba8,3,2810,13th Avenue South East,306,Medicine Hat,1,T1A 3P9,,true,2022-03-10 08:07:51.688568
+93696d80-b903-40e6-b0b5-82c087b1f6cd,3,250,Consumers Road,1000,Toronto,9,M2J 4R4,,true,2022-03-10 20:55:20.790793
+bf27176b-5ef5-4cdf-964e-74499750b3f6,1,454,Tessier Street,,Rimouski,11,G5L 4L1,,false,2022-03-10 06:43:16.019615
+e8aee13d-008e-460c-9afb-e82955816d36,3,310,Esplanade East,201,North Vancouver,2,V7L 1A4,,true,2022-03-10 08:07:51.688568
+5668c627-96d4-4beb-af78-9ed6d3f3d977,3,344,Bloor Street West,510,Toronto,9,M5S 3A7,,true,2022-03-10 21:54:10.452974
+e25a86ed-f543-487c-bf06-44f23da285aa,3,1066,Somerset Street West,404,Ottawa,9,K1Y 4T3,,true,2022-03-10 21:54:10.452974
+e0bf35b8-b857-4f8f-af1a-abc88593cf16,3,1394,Upper Gage Avenue,1A,Hamilton,9,L8W 1E7,,true,2022-03-10 20:55:20.790793
+646d7166-651d-4902-b72e-0c2326f03a08,3,1902,Danforth Avenue,,Toronto,9,M4C 1J4,,true,2022-03-10 20:55:20.790793
+c3b8f6b0-ca3e-476f-8cdb-d12b1ba07afd,3,1883,Bank Street,A,Ottawa,9,K1V 7Z9,,true,2022-03-10 21:54:10.452974
+8f2fcada-66a0-4443-84f0-33965e8c68cf,3,220,St. Pierre Boulevard West,314,Caraquet,4,E1W 1A5,,true,2022-03-10 20:55:20.790793
+745a1d9e-3c6e-4a1f-bef6-0c7a8ee07a79,3,184,Notre-Dame Street,201,Repentigny,11,J6A 2P9,,true,2022-03-10 22:33:41.960339
+4057c0ae-6861-42ee-8a9f-5c0352ecf5d8,3,4770,Kent Avenue,316,Montreal,11,H3W 1H2,,true,2022-03-10 22:33:41.960339
+428a5321-5ca3-4ca0-bce7-f818178c6a69,3,611,Corydon Avenue,102,Winnipeg,3,R3L 0P3,,true,2022-03-10 20:55:20.790793
+27f45453-0d70-463d-a2f9-548b62d583ba,3,400,Principale Street,101,Granby,11,J2G 2W6,,true,2022-03-10 22:33:41.960339
+dfd56603-dfb4-4c88-892b-2c028c871873,1,265,Wallace Road,,Glace Bay,7,B1A 4P5,,false,2022-03-10 06:43:16.019615
+6aa84909-c94d-4b0b-b271-11b9a1396074,3,1095,Mnt Masson,,Mascouche,11,J7K 2M1,,true,2022-03-10 22:33:41.960339
+f5a1f330-a586-411d-a014-2763e1143d8b,3,54,Stadacona Street West,1,Moose Jaw,12,S6H 1Z1,,true,2022-03-10 22:33:41.960339
+29a64329-e15a-4599-aeff-ec84ea0d1ffd,3,1888,Brunswick Street,808,Halifax,7,B3J 3J8,,true,2022-03-10 20:55:20.790793
+dab38cd9-50d0-4fc4-a925-c5378637c8c2,3,4716,Lazelle Avenue,112,Terrace,2,V8G 1T2,,true,2022-03-10 08:13:34.381646
+d64de8bd-a996-4ada-a9ba-34acb985cabc,1,1066,Somerset Street,404,Ottawa,9,K1Y 4T3,,false,2022-03-10 06:43:16.019615
+87db46a1-57d1-4c8b-94f0-267e43e26a17,1,788,Jervis Street,1601,Vancouver,2,V6E 0B5,,false,2022-03-10 06:43:16.019615
+3fd72e02-4acf-4623-9fa3-e3d852f177f9,3,4994,King Street,,Beamsville,9,L0R 1B0,,true,2022-03-10 21:54:10.452974
+75453d32-c31d-456f-ae1f-e2e36b8454fa,1,,,,Montreal,11,H2L 4L5,"Post Office Box 666, Station C",false,2022-03-10 06:43:16.019615
+67127830-f830-4614-b7d2-3899f93bd317,3,417,Bethune Street,4,Peterborough,9,K9H 3Z1,,true,2022-03-10 21:54:10.452974
+53de5983-f515-411d-bb3e-5ad217f0ee04,3,689,Topsail Road,2nd Floor,St. John's,5,A1E 2E3,,true,2022-03-10 20:55:20.790793
+83ca4289-788e-4496-a972-990930d80acc,3,225,Chabanel West,1109,Montreal,11,H2N 2C9,,true,2022-03-10 21:54:10.452974
+e787e817-3ca9-4c78-bac2-1f269903c340,3,217,Hamilton River Road,,Happy Valley-Goose Bay,5,A0P 1E0,PO Box 119 Station B,true,2022-03-10 20:55:20.790793
+a6ff51b6-9bcc-49ac-9f6c-df9cc84176c4,3,245,St. Georges Street,3,Trois-Rivieres,11,G9A 2K1,,true,2022-03-10 22:33:41.960339
+6215a696-113f-41ce-ad3b-f1280bddc0e9,3,1209,East Island,12,Parksville,2,V9P 1R5,,true,2022-03-10 08:07:51.688568
+9692ac66-cada-4dfc-8623-a8eb41decdc7,3,841,Princess Street,,Kingston,9,K7L 1G7,,true,2022-03-10 20:55:20.790793
+9b65a93c-afda-4be0-836e-f40f527345e0,3,100,Richelieu Street,210,Saint-Jean-sur-Richelieu,11,J3B 6X3,,true,2022-03-10 22:33:41.960339
+69396a7a-bf79-4de3-ae4d-4fd285a624f9,1,38,Albany Avenue,,Toronto,9,M5R 3C3,,false,2022-03-10 06:43:16.019615
+169e189e-2d81-4aa8-a043-b09e42996e02,3,1154,Kingston Road,4,Pickering,9,L1V 1B4,,true,2022-03-10 21:54:10.452974
+60a1d116-10b3-43b9-bc3a-a208ef67fd29,3,12221,44 Street South East,40A,Calgary,1,T2Z 4H3,,true,2022-03-10 08:07:51.688568
+3b18e104-fa24-4d27-bf9d-46ea15f43737,3,1,Gateway Boulevard,204,Brampton,9,L6T 0G3,,true,2022-03-10 20:55:20.790793
+594478ff-576c-4f1f-b4eb-2ded578e1953,3,1414,8th Street South West,445,Calgary,1,T2R 1J6,,true,2022-03-10 08:07:51.688568
+a931b86f-9030-48f2-ab6f-60e591b1bc85,3,94,Hanes Road,2,Huntsville,9,P1H 1M4,,true,2022-03-10 21:54:10.452974
+0a27183d-f6e8-4f9c-b337-dd9cd554f1b6,3,120,Conception Bay Highway,105,Conception Bay South,5,A1W 3A6,,true,2022-03-10 20:55:20.790793
+6ef6b8e4-834f-4fe2-a1fc-b3c9b3dd3f5c,3,1111,Munroe Avenue,207,Winnipeg,3,R2K 3Z5,,true,2022-03-10 20:55:20.790793
+c9f80b6f-de44-4adb-9796-cb3cc26f1fa1,3,350,103rd Street East,104,Saskatoon,12,S7N 1Z1,,true,2022-03-10 22:33:41.960339
+95721234-de43-45bd-918e-2899082e4a6b,3,1596,Bloor Street West,,Toronto,9,M6P 1A7,,true,2022-03-10 21:54:10.452974
+d8d24181-c3eb-4853-a577-5166c000121e,3,9749,Sainte-Anne Boulevard,160,Sainte-Anne-de-Beaupre,11,G0A 3C0,,true,2022-03-10 21:54:10.452974
+61c410bb-e9af-4721-9975-310db58aee0b,3,5064,48th Avenue,,Delta,2,V4K 1V8,,true,2022-03-10 08:07:51.688568
+725e2c15-ed2c-4362-abd8-375dad1475c8,1,90,Joseph Bresse Street,6,Chambly,11,J3L 1V8,,false,2022-03-10 06:43:16.019615
+44c39758-910d-4faa-ab43-11e171bc8886,3,33-A,Gamble Street West,RC 15,Rouyn-Noranda,11,J9X 2R3,,true,2022-03-10 21:54:10.452974
+d66a3103-36fb-480d-b321-3c313ca107ef,3,4769,222nd Street,104,Langley,2,V2Z 3C1,,true,2022-03-10 08:07:51.688568
+68356121-20a2-4b73-8258-b6805816b3fa,3,2635,37th Avenue North East,101,Calgary,1,T1Y 5Z6,,true,2022-03-10 08:07:51.688568
+149f418c-f407-4f0d-91d7-32f40f01c816,1,27A,Hochar Avenue,,Saint-Sauveur,11,J0R 1R4,,false,2022-03-10 06:43:16.019615
+bd9b54ec-9eac-4f02-b2cc-c893f9d66285,3,120,Torbay Road,E130,St. John's,5,A1A 2G8,,true,2022-03-10 20:55:20.790793
+97d07c2f-74f9-4aa5-92a3-48e84ff8313a,3,190,St. David Street South,A,Fergus,9,N1M 2L3,,true,2022-03-10 21:54:10.452974
+ff537cc9-f564-465a-a78f-4e37d33d7cf4,3,2112,West Broadway,206,Vancouver,2,V6K 2C8,,true,2022-03-10 20:55:20.790793
+c6c91dd4-4c18-4ceb-b9b6-1072f325e345,3,3278,Westwood Street,101,Port Coquitlam,2,V3C 3L8,,true,2022-03-10 08:07:51.688568
+d710ad80-bfc3-495f-bb70-5a312b257813,3,83,Churchill Drive,305,Thompson,3,R8N 0L6,,true,2022-03-10 20:55:20.790793
+9abce339-248b-4b6e-a664-b8f38892264b,3,2914,Highway 69 North,5,Val Caron,9,P3N 1E3,,true,2022-03-10 21:54:10.452974
+c982d14a-fe17-4c04-a62f-b13968603881,3,8,Saint Charles Street,,Sainte Therese,11,J7E 2A2,,true,2022-03-10 21:54:10.452974
+ab13a757-2d99-4d37-9564-dd3f72743eb0,3,3906,Hastings Street,,Burnaby,2,V5C 6C1,,true,2022-03-10 08:07:51.688568
+719cbcef-74ee-489b-a75b-17524221279b,3,1990,Leonard-de-Vinci Street,201,Sainte-Julie,11,J3E 1Y8,,true,2022-03-10 22:33:41.960339
+0260d02d-8810-4068-8263-a479a94de1c5,3,5109,48th Street,114,Yellowknife,6,X1A 1N5,,true,2022-03-10 20:55:20.790793
+23873bc1-923e-457d-9453-47b23627b58a,3,2120,Victoria Avenue,150,Greenfield Park,11,J4V 1M9,,true,2022-03-10 21:54:10.452974
+631d5fbc-e0a5-443b-a092-f0461957eb7d,3,1,Holiday Avenue,635 - East Tower,Pointe-Claire,11,H9R 5N3,,true,2022-03-10 21:54:10.452974
+c7fa2ac4-5ce9-494a-bd49-27e33e7a7aa2,1,1500,14th Street South-West,405,Calgary,1,T3C 1C9,,false,2022-03-10 06:43:16.019615
+177d5c75-d985-4650-825a-cf542b29c321,3,270,Frechette Boulevard,,Chambly,11,J3L 2Z5,,true,2022-03-10 21:54:10.452974
+d24aba3c-b24c-406d-b391-8320524015e2,3,42,King Street East,2,Stoney Creek,9,L8G 1K1,,true,2022-03-10 20:55:20.790793
+c89346d4-e0b9-49b5-9264-de03a7ebe094,3,369,Queen Street East,102,Sault Ste Marie,9,P6A 1Z4,,true,2022-03-10 21:54:10.452974
+b67a54cc-40cb-4e0b-b86f-fdbd17515166,3,160,de l'Hopital Boulevard,401,Gatineau,11,J8T 8J1,,true,2022-03-10 21:54:10.452974
+fb59053b-4ac7-4d68-bd4a-c37196a3220d,3,5025,Parkwood Road,201,Blackfalds,1,T0M 0J0,PO Box 59,true,2022-03-10 08:07:51.688568
+fd3cefdc-0ada-4a45-bb56-31bc4094a9cd,3,10362,King George Boulevard,170,Surrey,2,V3T 2W5,,true,2022-03-10 20:55:20.790793
+bc920d6e-bf7f-46ab-aa68-f1b3db1acb03,3,596,Riverbend Square,204,Edmonton,1,T6R 2E3,,true,2022-03-10 08:07:51.688568
+3d5741ad-3534-4a2a-b5b4-27b6b99c4fb5,3,308,Second Street South,19,Kenora,9,P9N 1G4,,true,2022-03-10 20:55:20.790793
+a062c7eb-d68c-477e-a9c5-e734da7c3b40,3,105,10110 Fraser Avenue,,Fort McMurray,1,T9H 5C2,,true,2022-03-10 08:07:51.688568
+e7eb9bf8-4166-46c7-8bcd-93fe17f0c83d,3,3077,Granville Street,100,Vancouver,2,V6H 3J9,,true,2022-03-10 20:55:20.790793
+19fc54c7-dc7b-4ba7-b981-8aa55485d5e3,3,7388,Vedder Road,102,Chilliwack,2,V2R 4E4,,true,2022-03-10 08:07:51.688568
+3df0fb09-4bd8-4f14-85a7-f9601bba224a,3,154,Main Street,1001,Fredericton,4,E3A 1C8,,true,2022-03-10 20:55:20.790793
+d0cc87ff-e280-4435-87a7-0827b149a3c5,3,231,Hyman Street,,London,9,N6A 1N6,,true,2022-03-10 21:54:10.452974
+d6fa3a0c-1bf8-4fa7-b5d0-13b88f6de26b,3,10471,178 Street,104-105,Edmonton,1,T5S 1R5,,true,2022-03-10 08:07:51.688568
+7f10e960-edbf-4741-9fe8-f6bc80a74e99,3,3131,de la Concorde East,300,Laval,11,H7E 4W4,,true,2022-03-10 21:54:10.452974
+b69bddaf-68b5-4960-b30f-df945ddb876d,3,213,St. Mary's Road,4,Winnipeg,3,R2H 1J2,,true,2022-03-10 20:55:20.790793
+303ffc90-3467-4b5a-84da-74207b342d61,3,3,de la Gare Street,,Victoriaville,11,G6P 6S4,,true,2022-03-10 22:33:41.960339
+b45b5627-4d7f-4719-b2de-f5a1eee9288f,3,9733,Tecumseh Road East,2,Windsor,9,N8R 1A5,,true,2022-03-10 21:54:10.452974
+8c2feb47-7a70-4269-abe2-744068c6c523,3,32650,Logan Avenue,7,Mission,2,V2V 6C7,,true,2022-03-10 08:07:51.688568
+a6b22735-60fd-4aa5-946e-b85fde332abc,1,1545,10th Avenue East,,Vancouver,2,V5N 1X6,,false,2022-03-10 06:43:16.019615
+db11029f-20a9-40c7-97b3-0ca726af6fd7,1,221,Broadview Avenue,101,Toronto,9,M4M 2G3,,false,2022-03-10 06:43:16.019615
+a871633f-19aa-4e80-8fec-cca07a5c4029,3,10212,127th Avenue North West,102,Edmonton,1,T5E 0B8,,true,2022-03-10 08:07:51.688568
+88e93023-7cb5-4dff-8410-7aea8f0f7094,3,1202,Bloor Street West,,Toronto,9,M6H 1N2,,true,2022-03-10 20:55:20.790793
+72798334-8321-4506-bafa-120a66333475,3,10235,124 Street North West,202,Edmonton,1,T5N 1P9,,true,2022-03-10 08:07:51.688568
+7edeefad-946f-49c7-8066-9f3855231626,3,2201,Finch Avenue West,25,Toronto,9,M9M 2Y9,,true,2022-03-10 21:54:10.452974
+4419b3ec-7140-4987-9807-fc74884c88a5,1,290A,Danforth Avenue,,Toronto,9,M4K 1N6,,false,2022-03-10 06:43:16.019615
+06f4dcff-1185-4755-b82f-e7f796e50721,1,1,Nicholas Street,700,Ottawa,9,K1N 7B7,,false,2022-03-10 06:43:16.019615
+c4d69727-c243-4c18-a7fe-1479391a176d,3,255,8th Street South,,Lethbridge,1,T1J 4Y1,,true,2022-03-10 08:07:51.688568
+fedd9065-7231-4def-b946-171a1dcb28fa,3,4060,Sainte-Catherine Street West,340,Westmount,11,H3Z 2Z3,,true,2022-03-10 22:33:41.960339
+af95a123-bbd7-4647-94e0-8d9bfb256aae,1,107,Marion Street,,Winnipeg,3,R2H 0T2,,false,2022-03-10 06:43:16.019615
+cc247c3c-81ae-40a5-82ef-73efe1986c6f,3,30,Victoria Street North,,Goderich,9,N7A 2R6,,true,2022-03-10 20:55:20.790793
+2a197e6c-4c70-4327-99e8-eab026806c53,3,3105,29th Street,,Vernon,2,V1T 5A8,,true,2022-03-10 08:07:51.688568
+32da1555-0ba5-44ff-a20c-020e8aa68b44,3,400,Dundas Street West,105,Whitby,9,L1N 2M7,,true,2022-03-10 21:54:10.452974
+12b87dbe-eb5a-4846-9806-2877386a5a84,3,980,Burnhamthorpe Road,3,Mississauga,9,L4Y 2X6,,true,2022-03-10 21:54:10.452974
+26aadcd1-4dcf-46f0-b048-ec6c07dc1b00,3,115,Sheppard Avenue West,,Toronto,9,M2N 1M7,,true,2022-03-10 21:54:10.452974
+40064755-0f27-4dc5-b486-c91198fd041a,3,16088,84th Avenue,301,Surrey,2,V4N 0V9,,true,2022-03-10 08:07:51.688568
+bb591627-af53-4664-990a-0b4d3949b47a,3,2800,Pembina Highway,103,Winnipeg,3,R3T 5P3,,true,2022-03-10 20:55:20.790793
+6b8a8cec-2b34-42f9-ba9a-74a9e78ed6fd,3,98,Mandalay Drive,,Winnipeg,3,R2P 1V8,,true,2022-03-10 20:55:20.790793
+b38322a1-9951-4089-ae90-1c742e9e776f,3,45,Grignon Street,,St. Eustache,11,J7P 4X2,,true,2022-03-10 22:33:41.960339
+a426e11f-a3b2-4326-8273-66085dd5f89f,3,5835,Leger Boulevard,203,Montreal,11,H1G 6E1,,true,2022-03-10 21:54:10.452974
+dcd65491-803a-41da-bf82-6e7acd7b09be,3,68,McLaughlin Road,,Lindsay,9,K9V 6B5,,true,2022-03-10 20:55:20.790793
+22083e09-bcbe-4b22-8fab-d3cfd8e9a226,3,10625,West Side Drive,201,Grande Prairie,1,T8V 8E6,,true,2022-03-10 08:07:51.688568
+a86d9863-5cf8-4315-b979-cc0bb31f9d11,1,1400,Central Avenue,,Saskatoon,12,S7N 2H2,,false,2022-03-10 06:43:16.019615
+8c2e8288-fde3-4a93-88ac-f5f2ad5ed3d8,3,240,Kennevale Drive,201,Nepean,9,K2J 6B6,,true,2022-03-10 21:54:10.452974
+1fa3d446-c354-425e-80f3-3a9355d89af9,3,551,Main Street,,Montague,10,C0A 1R0,PO Box 1150,true,2022-03-10 21:54:10.452974
+3df83e8d-f9aa-4d63-a359-ac7ad44b2751,3,76,Manitoba Drive,B,Clarenville,5,A5A 1K6,,true,2022-03-10 20:55:20.790793
+bc71f07e-f4cf-489c-90cb-6d7c31153461,3,106,Saint-Jean-Baptiste Street,,Salaberry-de-Valleyfield,11,J6T 1Z8,,true,2022-03-10 22:33:41.960339
+75413d50-597c-4e85-a6b9-6ea1e5798c6a,3,534,Hespeler Road,A4,Cambridge,9,N1R 6J7,,true,2022-03-10 20:55:20.790793
+36c9099e-b2b4-4e20-b345-00e78ce410ac,3,3600,Ellesmere Road,3,Toronto,9,M1C 4Y8,,true,2022-03-10 21:54:10.452974
+652b3363-d41b-4045-a623-a1dc6f5ed49f,3,6820,188 Street,214,Surrey,2,V4N 3G6,,true,2022-03-10 08:07:51.688568
+3abaf91c-9998-4a36-a204-9e2c15461e1d,1,3750,Cremazie Boulevard East,402,Montreal,11,H2A 1B6,,false,2022-03-10 06:43:16.019615
+45828d30-6ff8-48d1-abfb-e03e160e7e2b,3,9711,Fourth Street,1,Sidney,2,V8L 2Y8,,true,2022-03-10 08:13:34.381646
+bc4edab9-45f1-45a2-80fa-d81df499b8dd,3,1100,Cremazie Boulevard East,220,Montreal,11,H2P 2X2,,true,2022-03-10 22:33:41.960339
+19b8d731-39d1-4dcc-9616-0fbe3fd65e72,1,170A,Leyton Avenue,,Toronto,9,M1L 3V6,,false,2022-03-10 06:43:16.019615
+f28bfe3e-fe33-478e-b660-dcc750507e0a,1,5535,Bourbonniere Avenue,,Montreal,11,H1X 2N3,,false,2022-03-10 06:43:16.019615
+f4fe5bb5-c899-419d-a993-3322f826b62a,3,511,Lawrence Avenue West,,Toronto,9,M6A 1A3,,true,2022-03-10 20:55:20.790793
+e5653fd2-d734-4ffd-b97e-0afc1ec4829f,3,630,Main Street East,1,Hamilton,9,L8M 1J7,,true,2022-03-10 20:55:20.790793
+21a05664-0fe9-4bb1-8f33-1e0dbc4cdf31,3,51,Park Street,49,Corner Brook,5,A2H 2X1,,true,2022-03-10 20:55:20.790793
+ea6fc525-bb3f-40db-a59f-95a9d4f1a5cb,3,5,Montpelier Street,A213,Brampton,9,L6Y 6H4,,true,2022-03-10 20:55:20.790793
+feb327bd-495d-4be3-86dc-016736622e09,3,2000,Sanfacon Avenue,101,Quebec City,11,G1E 3R7,,true,2022-03-10 21:54:10.452974
+2965450f-fc2c-4c69-b57e-2aaf6ea90754,3,1520,3rd Avenue,,Prince George,2,V2L 3G4,,true,2022-03-10 08:07:51.688568
+656be01f-db25-451a-bc5e-88ae8546fd1f,3,255,Centrum Boulevard,2nd Floor,Orleans,9,K1E 3W3,,true,2022-03-10 21:54:10.452974
+65e311a7-cda3-4fd5-906b-c77c9279d0b3,3,100,Mural Street,101,Richmond Hill,9,L4B 1J3,,true,2022-03-10 21:54:10.452974
+e3943b4b-9c42-4bf6-b12d-caa97a61dde9,3,1453,Beaubien Street East,208,Montreal,11,H2G 3C6,,true,2022-03-10 22:33:41.960339
+7efe1c90-2964-4244-b79e-8099f85d2a4a,3,525,28th Street South East,225,Calgary,1,T2A 6W9,,true,2022-03-10 08:07:51.688568
+fe9c82c9-7f1e-475f-8d58-b51b01420385,3,4945,50th Street,,Camrose,1,T4V 1P9,,true,2022-03-10 08:07:51.688568
+54c7787f-c80e-471a-89c5-fe88164e8aa6,3,1101,2nd Avenue East,208,Owen Sound,9,N4K 2J1,,true,2022-03-10 20:55:20.790793
+7e6cf0af-f7f8-46ff-9eee-aa2ed6feec0d,3,1686,Main Street West,4,Hamilton,9,L8S 0A2,,true,2022-03-10 20:55:20.790793
+c772ab97-fdb6-4e6c-b92b-74c4fd9b6363,3,4056,Dorchester Road,107,Niagara Falls,9,L2E 6M9,,true,2022-03-10 21:54:10.452974
+649bc433-7bc3-418b-bf28-4685fbfc1d7f,3,8119,160 Avenue,204A,Edmonton,1,T5Z 0G3,,true,2022-03-10 08:07:51.688568
+7d2a584f-b76a-4534-bacf-747f8e2b4a06,3,201,2nd Street West,13,Meadow Lake,12,S9X 1C7,,true,2022-03-10 22:33:41.960339
+f8b6d986-bb99-4700-a60e-fbbc233e1ec3,3,109,4th Avenue South West,,High River,1,T1V 1M5,,true,2022-03-10 08:07:51.688568
+6d9ae443-f77e-4fe1-89cb-6e245f866981,3,6,St. Jean Baptiste Street East,101,Montmagny,11,G5V 1J7,,true,2022-03-10 22:33:41.960339
+86fe7305-d791-46c8-abc8-3992eafd5944,3,658,10th Street,B,Brandon,3,R7A 4G5,,true,2022-03-10 20:55:20.790793
+1c5fa283-bdf7-4c37-89c8-061552b25db0,1,279,Laurier Avenue West,300,Ottawa,9,K1P 5J9,,false,2022-03-10 06:43:16.019615
+58aad5e8-4d3c-4e8f-a3a3-6e8e88e6a58f,3,305,King Street West,303,Kitchener,9,N2G 1B9,,true,2022-03-10 20:55:20.790793
+eb2d2944-02cd-4cc9-b824-55d87fedfbf2,3,275,Seymour Street,6,Kamloops,2,V2C 2E7,,true,2022-03-10 08:07:51.688568
+41345ad8-3aa8-4b20-a88f-85f16e709858,3,3700,Rue du Campanile,110,Quebec,11,G1X 4G6,,true,2022-03-10 21:54:10.452974
+635df892-480a-4dc7-9a2a-66071e3dd521,3,1116,Austin Avenue,,Coquitlam,2,V3K 3P5,,true,2022-03-10 08:07:51.688568
+44e6bf5d-dd60-428e-bc1a-911bf8856b1e,3,105,Notre-Dame Street East,A,Thetford,11,G6G 2J9,,true,2022-03-10 22:33:41.960339
+9206238f-85fd-410a-b4bc-632223ab3d46,3,157,Otis Drive,,Nackawic,4,E6G 1G9,,true,2022-03-10 20:55:20.790793
+c1eeaa05-7c1f-434d-8f29-243815b52cd5,3,5124,50th Street,4458,Barrhead,1,T7N 1A3,,true,2022-03-10 08:07:51.688568
+da2b0225-df8b-419c-8c48-71694735924c,3,1,University Avenue,,Toronto,9,M5J 2P1,,true,2022-03-10 21:54:10.452974
+25a62c68-72da-40f7-b9e9-06aa86647e77,3,403,2nd Avenue West,2,Brooks,1,T1R 0S3,,true,2022-03-10 08:07:51.688568
+2c7d00ae-d9fe-4817-9000-efc45f9b2f8c,3,9916,100th Avenue,,Fort St. John,2,V1J 1Y5,,true,2022-03-10 08:07:51.688568
+46f1aa6b-63f2-45d3-bfaf-7cfa8b22d678,3,20,Perron Street,220,St. Albert,1,T8N 1E4,,true,2022-03-10 08:07:51.688568
+ba8a5ce5-886a-48fe-8c57-23f31fb0c275,3,415,Industrial Road A,C,Cranbrook,2,V1C 4X8,,true,2022-03-10 08:07:51.688568
+82fc5928-c8b8-45a1-bb1d-60d6232258e5,3,69,Milltown Boulevard,,St. Stephen,4,E3L 1G5,,true,2022-03-10 20:55:20.790793
+bfa8eef6-2d4f-4587-83d5-5c35ca7f8787,3,48,Alliance Boulevard,104,Barrie,9,L4M 5K3,,true,2022-03-10 20:55:20.790793
+c578411c-0c6f-47d8-a98c-fdb293026892,3,1230,91 Street South West,,Edmonton,1,T6X 0P2,,true,2022-03-10 08:07:51.688568
+ec639135-8b6f-4483-badb-047ff20fcc74,3,750,Talbot Street,215,St. Thomas,9,N5P 1E2,,true,2022-03-10 20:55:20.790793
+3f2f87ed-274c-4e20-be85-440fe7fd1bf8,3,201,Churchill Drive,207-A,Membertou First Nation (Sydney),7,B1S 2N9,,true,2022-03-10 20:55:20.790793
+8e137363-44a7-4c79-8d8b-7543e49a872c,3,735,Notre-Dame Street,,Lachine,11,H8S 2B5,,true,2022-03-10 21:54:10.452974
+c59157e3-5767-481d-bdd6-d0ed49d89ed8,3,40,Inglis Place,,Truro,7,B2N 4B4,,true,2022-03-10 20:55:20.790793
+b94264cc-6df4-4342-959a-218bfde122d8,3,1187,Fischer-Hallman Road,624,Kitchener,9,N2E 4H9,,true,2022-03-10 20:55:20.790793
+71c34a20-c050-4988-8c00-dc63132ef8ac,3,12992,76th Avenue,202,Surrey,2,V3W 2V6,,true,2022-03-10 20:55:20.790793
+f6cad2a6-d8a0-4871-8187-e18e60a643b3,3,555,Legget Drive,121,Kanata,9,K2K 2X3,,true,2022-03-10 20:55:20.790793
+741de480-85f5-4595-9711-b2498c164310,3,301,Robinson Street,,Oakville,9,L6J 1G7,,true,2022-03-10 21:54:10.452974
+614ab019-919e-4e3e-9f23-f105a1077cb5,3,691,Palaugaa Lane,B,Iqaluit,8,X0A 0H0,,true,2022-03-10 20:55:20.790793
+79e0d8b5-c34f-46af-a6bf-7393e6c29c9f,1,1025,Fergus Avenue,201,Mississauga,9,L5E 3G7,,false,2022-03-10 06:43:16.019615
+3a0e1e54-ab7b-433f-a0ab-d71df337a52f,3,154,Laurier Avenue West,302,Montreal,11,H2T 2N7,,true,2022-03-10 22:33:41.960339
+53331d88-1196-43c5-b83d-1787aceed403,1,,,,Matane,11,G4W 2B0,Post Office Box 4,false,2022-03-10 06:43:16.019615
+5ac024ed-358c-4949-8edb-cdbdefffd0e2,3,1398,Ouellette Avenue,2,Windsor,9,N8X 1J8,,true,2022-03-10 21:54:10.452974
+53728d29-b8ed-41b0-8f23-889a3823a463,3,368,Main Street,223,Yarmouth,7,B5A 1E9,,true,2022-03-10 20:55:20.790793
+5a22fcd1-97fa-4744-b900-4139972b9c29,3,279,Midpark Way South East,204,Calgary,1,T2X 1M2,,true,2022-03-10 08:07:51.688568
+524a1c23-3814-4ed5-b664-b0ba8f23b5ca,3,2720,8th Street East,5,Saskatoon,12,S7H 0V8,,true,2022-03-10 22:33:41.960339
+6ea48cfb-4b0b-443e-ae91-c7ff56cab154,3,1625,Lionel Boulet Boulevard,202,Varennes,11,J3X 1P7,,true,2022-03-10 21:54:10.452974
+e9cb4116-c0fb-4648-96d7-7a8fbd931dcb,3,272,St. George Street,110,Moncton,4,E1C 1W6,,true,2022-03-10 20:55:20.790793
+74e31901-ebf1-41af-b50e-9d92708c4ece,3,70,Hardy Avenue,B,Grand Falls-Windsor,5,A2A 2S8,PO Box 808,true,2022-03-10 20:55:20.790793
+e4cb0835-3384-42d4-a7ce-dc15475a1e2f,3,495,Dunsmuir Street,103,Nanaimo,2,V9R 6B9,,true,2022-03-10 08:07:51.688568
+ac5d28b9-c47e-4c6a-8137-1754c62edaf7,3,2020,10th Street North West,,Calgary,1,T2M 3M2,,true,2022-03-10 08:07:51.688568
+e39a272a-6583-4957-a4eb-cda52adc1035,3,100,St. Joseph Street South,7,Alma,11,G8B 7A6,,true,2022-03-10 21:54:10.452974
+0b33d885-dc61-4c46-80d4-02db55d73c59,3,2030,Pie-lX Boulevard,225,Montreal,11,H1V 2C8,,true,2022-03-10 21:54:10.452974
+bc5f67e0-3c28-4653-ab32-1d398a2c6621,3,42A,Central Avenue North,1,Swift Current,12,S9H 0K7,,true,2022-03-10 22:33:41.960339
+42caff43-6d18-4226-af09-bda1d1462bec,1,60,Jacobs Close,314,Red Deer,1,T4P 4A2,,false,2022-03-10 06:43:16.019615
+b407ba38-d930-4a58-84a0-b72cb2e2b521,1,242,St. George Street,,Sudbury,9,P3C 2X2,,false,2022-03-10 06:43:16.019615
+c77876cf-f30f-4b4e-9fcd-d73da6c762c3,3,620,1st Avenue North West,16,Airdrie,1,T4B 2R3,,true,2022-03-10 08:07:51.688568
+b9031579-9517-4594-b41b-83d853b110bb,3,905,East Victoria Avenue,1,Thunder Bay,9,P7C 1B3,,true,2022-03-10 21:54:10.452974
+eef3c73e-272e-45a0-a273-586c25638041,3,430,Parliament Street,,Toronto,9,M5A 3A2,,true,2022-03-10 21:54:10.452974
+2aa53cf3-cee9-4ad0-912f-59d01656316b,3,229,Broadway,2,Orangeville,9,L9W 1K4,,true,2022-03-10 20:55:20.790793
+fb774c5c-4698-4a9f-a36e-8e8395471ad8,1,,,,Ottawa,9,K1S 5J1,"PO Box 4958, Station E",false,2022-03-10 06:43:16.019615
+7255144f-5f94-4e42-8330-2111bdc863f5,3,5975,Whittle Road,440,Mississauga,9,L4Z 3N1,,true,2022-03-10 21:54:10.452974
+e655892a-e155-4aa2-afc5-c47ec3cfeffb,1,119,Oakcrest Drive,,Keswick,9,L4P 3J2,,false,2022-03-10 06:43:16.019615
+45b207d5-d6a3-4df7-8b4d-5aad0dfe94e1,3,192,Saint-Jean Street,200,Longueuil,11,J4H 2X5,,true,2022-03-10 21:54:10.452974
+39b12281-b9df-46bd-8e90-5756ad18b78a,3,45,Grist Mill Road,10,Holland Landing,9,L9N 1M7,,true,2022-03-10 21:54:10.452974
+a4f27be1-0b28-49b7-9773-2696bd32c14d,3,16,Hugh Street,,Milton,9,L9T 2C6,,true,2022-03-10 21:54:10.452974
+733bd8a8-bb53-4dd4-84e0-a140f6b6278e,1,27,Bay Bulls Road,,St. John's,5,A1G 1A4,,false,2022-03-10 06:43:16.019615
+08ab1b12-ad09-4186-810b-d2c33cbecc3e,3,93,Cedar Street,302,Sudbury,9,P3E 1A7,,true,2022-03-10 21:54:10.452974
+2a42a0fd-f8a7-49c9-9320-fc631e14b681,1,218,Twyford Street,,Ottawa,9,K1V 0V9,,false,2022-03-10 06:43:16.019615
+d23531c8-4dfb-4a2a-bbe1-26c1dc9536cf,3,2900,Highway 2,2nd Floor,Fall River,7,B2T 1W4,,true,2022-03-10 20:55:20.790793
+e24a57fa-6376-4d0c-963c-311d48ad5486,3,2825,Clearbrook Road,205,Abbotsford,2,V2T 6S3,,true,2022-03-10 08:07:51.688568
+bb7c5278-bc38-4917-9b50-89e078fb28c6,3,691,Brookdale Avenue,C,Cornwall,9,K6J 5C6,,true,2022-03-10 21:54:10.452974
+d69e23e8-0da7-4161-82d1-5c1b62dbb924,3,59,Lorne Avenue East,A,Stratford,9,N5A 6S4,,true,2022-03-10 21:54:10.452974
+bb9fdda6-e8dc-4200-b0bf-5ea769371de5,3,136,East Main Street,103,Welland,9,L3B 3W6,,true,2022-03-10 21:54:10.452974
+07169062-a24e-4fcf-9d2e-20ac1f0ae722,3,179,du Portage Promenade,301,Gatineau,11,J8X 2K5,,true,2022-03-10 21:54:10.452974
+c197db8e-f5f3-4167-a6c6-0d11f08cf736,3,504,Dominion Avenue,,Midland,9,L4R 1P8,,true,2022-03-10 21:54:10.452974
+19cf0348-00a8-4c27-88ce-12ddc896c594,3,10201,Southport Road South West,1010,Calgary,1,T2W 4X9,,true,2022-03-10 08:07:51.688568
+370c6020-785d-4c8a-96ae-06d73ad895e5,1,728,Northmount Drive North-West,,Calgary,1,T2K 6J8,PO Box 94,false,2022-03-10 06:43:16.019615
+a0a6bdc6-89ce-4b49-bcaa-8eb66b47f616,3,10,Kingsbridge Garden Circle,506,Mississauga,9,L5R 3K6,,true,2022-03-10 21:54:10.452974
+c7e5ce79-33c1-4102-b879-487e6718574a,3,452,Victoria Street East,,Alliston,9,L9R 1J8,,true,2022-03-10 21:54:10.452974
+3f6cf285-7901-4ba2-8037-2e1459911db7,3,6406,Victoria Drive,,Vancouver,2,V5P 3X7,,true,2022-03-10 20:55:20.790793
+888e9b24-9c28-4dcf-8f52-17b301cda06c,3,1450,Main Street South,22C,Dauphin,3,R7N 3H4,,true,2022-03-10 20:55:20.790793
+99a83555-cd57-4830-a412-b4ebc32e39d9,3,35,Saint-Benoit Boulevard East,,Amqui,11,G5J 2B8,,true,2022-03-10 21:54:10.452974
+da0ca5af-2d08-4a7a-9875-7c9a4044fa70,3,35,Van Kirk Drive,10A,Brampton,9,L7A 1A5,,true,2022-03-10 20:55:20.790793
+f12adcc3-d5cc-4e6e-9b62-b37ca2f61a77,1,32,Xavier Street,,Tracadie,4,E1X 2G9,,false,2022-03-10 06:43:16.019615
+21496af5-63a5-4c8d-889f-6ef77f19c5ce,3,100,Regina Street South,360,Waterloo,9,N2J 4P9,,true,2022-03-10 21:54:10.452974
+1462816a-16d4-4414-8d62-02f012477700,3,8633,Weston Road,6A,Woodbridge,9,L4L 9R6,,true,2022-03-10 21:54:10.452974
+f11e5fe0-b841-4a88-90e7-14cc81cc9e9d,3,2968,Dagenais Boulevard West,101,Laval,11,H7P 1T1,,true,2022-03-10 22:33:41.960339
+44c7b534-be58-48d7-8d39-47fb3fd6c144,3,1670,Bayview Avenue,310,Toronto,9,M4G 3C2,,true,2022-03-10 20:55:20.790793
+e32a1730-4fec-4463-a94f-0df4c777146c,3,289,Hillside Drive South,A,Elliot Lake,9,P5A 1N7,,true,2022-03-10 20:55:20.790793
+0270117d-1c03-4e41-bd97-efca867acdbc,3,4,Meadowbank Road,2,Cornwall,10,C0A 1H0,,true,2022-03-10 21:54:10.452974
+d15c414e-27db-4892-9cf3-82445f72d75c,3,13479,Cure-Labelle Boulevard,102,Mirabel,11,J7J 1H1,,true,2022-03-10 22:33:41.960339
+bd31c8f8-689c-4292-a5a2-c82cd23d229e,3,375,Main Street West,,North Bay,9,P1B 2T9,,true,2022-03-10 21:54:10.452974
+9cfd96aa-f6ed-42f5-bf9e-90dd52a37afb,3,599,Main Street,104,Hampton,4,E5N 6C2,,true,2022-03-10 20:55:20.790793
+4ed5abca-7ec3-4db9-aa3c-658df029d401,3,48,Rosemount Avenue,B,York,9,M9N 3B3,,true,2022-03-10 21:54:10.452974
+a99986cd-af7a-4f4e-9363-3f37f95bb9e6,3,328,Main Street,1,Shediac,4,E4P 2E3,,true,2022-03-10 20:55:20.790793
+2a350c76-fffa-466f-91d8-a432bb77e3e3,3,1001,Lafleche Boulevard,201,Baie-Comeau,11,G5C 1C8,,true,2022-03-10 22:33:41.960339
+52eaaa05-ceb8-429a-a6d3-6803ad1fd8b5,3,61,Geneva Street,1,St. Catharines,9,L2M 4M6,,true,2022-03-10 21:54:10.452974
+2c7df8cc-bde4-41cb-8166-f10b7a39fbe8,3,3845,Joseph Howe Drive,401,Halifax,7,B3L 4H9,,true,2022-03-10 20:55:20.790793
+790a34f0-eadf-4a81-8a80-25929e2eb0e7,3,8561,8A Avenue South West,2216,Calgary,1,T3H 0V5,,true,2022-03-10 08:07:51.688568
+987c4f04-c5df-4e4c-91fc-d7e73623dcbb,3,50,Sunny Meadow Boulevard,306,Brampton,9,L6R 0Y7,,true,2022-03-10 20:55:20.790793
+d56c5679-b69d-4b74-991e-9a30a1a822f8,3,223,St. Charles Avenue,,Vaudreuil-Dorion,11,J7V 2L6,,true,2022-03-10 22:33:41.960339
+711b65a3-35e1-46b6-ace6-c4d935c584ec,3,75,Erie Street South,100,Leamington,9,N8H 3B2,,true,2022-03-10 20:55:20.790793
+20e8dd6d-0ec8-4762-a06b-a32b5379ea8a,3,9401,Jane Street,115,Vaughan,9,L6A 4H7,,true,2022-03-10 20:55:20.790793
+75e73da3-520c-4878-b539-e065ab151a4e,3,111,Farquhar Street,103,Guelph,9,N1H 3N4,,true,2022-03-10 20:55:20.790793
+fde6b710-f097-44c8-b992-3ed956f7fbe5,3,2800,Keele Street,2,Toronto,9,M3M 0B8,,true,2022-03-10 21:54:10.452974
+192f9f0a-5ce8-4a2f-bafc-4267d83b4c82,3,175,Queen Street,204,Sherbrooke,11,J1M 1K1,,true,2022-03-10 21:54:10.452974
+66d5dde5-534a-4a08-b453-ca875abb8209,3,886,Thornhill Street,E,Morden,3,R6M 2E1,,true,2022-03-10 20:55:20.790793
+a4e08e46-e4e4-41cb-b760-5e778de63674,3,82,Tacoma Drive,200,Dartmouth,7,B2W 3E5,,true,2022-03-10 20:55:20.790793
+eac7765b-dd69-48b6-a27a-68a9a757668c,1,4420,West Saanich Road,,Victoria,2,V8Z 7E7,PO Box 24052,false,2022-03-10 06:43:16.019615
+5180227a-81df-4fe5-966f-70aa0e665690,1,350,Albert Street,920,Ottawa,9,K1P 6M8,,false,2022-03-10 06:43:16.019615
+16732368-4b86-4918-bbdd-97acda90ad3b,3,2500,Daniel-Johnson Boulevard,405,Laval,11,H7T 2P6,,true,2022-03-10 22:33:41.960339
+5aeccc01-3896-44e7-bd80-56124ac58a4e,3,75,Fitzroy Road,201,Charlottetown,10,C1A 1R6,,true,2022-03-10 21:54:10.452974
+7e13462b-1478-4df3-805d-ef0d9a6465d6,3,35,Victoria Avenue,7B,Essex,9,N8M 1M4,,true,2022-03-10 20:55:20.790793
+fb969b30-bd0e-4369-bf4f-7df29611470a,3,1000,Finch Drive,2,Sarnia,9,N7S 6G5,,true,2022-03-10 21:54:10.452974
+6659b50b-e22b-48fa-87bb-0b2c06fc31d0,3,250,Sidney Street,,Belleville,9,K8P 3Z3,,true,2022-03-10 20:55:20.790793
+c0e03c11-061a-4ffc-8723-70b543779b54,3,12,Elgin Street East,4,Cobourg,9,K9A 0C5,,true,2022-03-10 21:54:10.452974
+0fdf244e-c833-4a87-9a07-e199c89b3548,3,4304,40th Avenue,3,Lloydminster,12,S9V 2H1,,true,2022-03-10 22:33:41.960339
+3cb17993-4d65-4335-9ee3-ba24f7c9c736,3,43,Betts Avenue,,Yorkton,12,S3N 1M1,,true,2022-03-10 22:33:41.960339
+f3b35fe6-49c8-4d26-a301-033c80c8a545,3,777,Guelph Line,209,Burlington,9,L7R 3N2,,true,2022-03-10 20:55:20.790793
+11111111-1111-1111-1111-111111111111,1,,,,Ottawa,9,A1B 2C3,,false,2022-03-11 03:20:20.060777
+5cb4a820-25c7-4722-8e76-6d5e9c50b9a7,3,3679,Westminster Highway,,Richmond,2,V7C 1T1,,true,2022-03-23 20:08:21.305389
+597e8f35-e292-405d-8b95-7a1ef692261e,3,4281,King Street East,4,Kitchener,9,N2P 2E9,,true,2022-03-23 20:10:58.248999
+97e1007c-20f5-4b2b-b76f-76c6204ac4e8,3,11320,Steveston Highway,110,Richmond,2,V7A 5J5,,true,2022-03-23 20:15:42.918645
+82f7f693-2b35-4a20-8272-aa12b7e356f3,3,815,Albion Road,,Toronto,9,M9V 1A3,,true,2022-03-10 20:55:20.790793
+53f898dd-1dfc-4cdc-bcf8-45a903530dec,3,577,Burnhamthorpe Road,2,Toronto,9,M9C 2Y3,,true,2022-03-10 20:55:20.790793
+02d8cfdc-65a0-4485-9deb-4606d706b060,3,2263,Kingston Road,,Toronto,9,M1N 1T8,,true,2022-03-10 21:54:10.452974
+639509f3-9e3b-4b96-a88d-641d3f540418,3,3195,Sheppard Avenue East,201,Toronto,9,M1T 3K1,,true,2022-03-10 21:54:10.452974
+f149e9ae-1460-4f86-9734-0ef517c070c4,3,4386,Sheppard Avenue East,C,Toronto,9,M1S 1T8,,true,2022-03-10 21:54:10.452974
+f454b63d-2f4d-4722-9a4f-66ab8d21c8ed,3,2155,Lawrence Avenue East,5,Toronto,9,M1R 5G9,,true,2022-03-10 21:54:10.452974
+903728da-ba42-4b74-895b-d2359357578e,3,3785,Kingston Road,10,Toronto,9,M1J 3H4,,true,2022-03-10 21:54:10.452974
+94fc0231-a770-4bba-b148-552955d4aa4c,1,,,,Toronto,9,M1H 3G7,"Post Office Box 55588, Retail Postal, Outlet Cedar Heights",false,2022-03-10 06:43:16.019615
+f22a579b-bd69-454c-99ab-58c89a3b76ec,3,1200,Lawrence Avenue East,300,Toronto,9,M3A 1C1,,true,2022-03-10 20:55:20.790793
